@@ -1,10 +1,10 @@
 /obj/machinery/vending/mealdor
-	name = "Meal Vendor"
-	desc = "The vending machine used by starving people. Looks like they've changed the shell, it looks cuter."
+	name = "SnackTron™"
+	desc = "The flagship vending product for World Genesis. When you need a snack we've got your back!"
 	icon = 'GainStation13/icons/obj/vending.dmi'
 	icon_state = "mealdor"
-	product_slogans = "Are you hungry? Eat some of my food!;Be sure to eat one of our tasty treats!;Was that your stomach? Go ahead, get some food!"
-	vend_reply = "Enjoy your meal."
+	product_slogans = "You've encountered SnackTron! How fortunate for your hunger and/or thirst!;We've got your back when it comes to snacks!;What time is it? Snack time!"
+	vend_reply = "SnackTron hopes you enjoy your selection!"
 	free = TRUE
 	products = list(
 
