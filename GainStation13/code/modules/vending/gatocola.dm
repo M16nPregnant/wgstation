@@ -1,10 +1,10 @@
 /obj/machinery/vending/gato
-	name = "GATO Vending Machine"
-	desc = "A GATO branded cola machine, a cute little cat is plastered onto it."
+	name = "The Fizzler™"
+	desc = "Your one shop stop for all sorts of caffeinated comfort, the Fizzler!"
 	icon = 'GainStation13/icons/obj/vending.dmi'
 	icon_state = "cola_black"
-	product_slogans = "Meow~, time for some cola!"
-	vend_reply = "Meow~ Meow~"
+	product_slogans = "Gyatt Fizz?;It's called aura son.;The fizz with the rizz!"
+	vend_reply = "Thanks for sticking your gyatt out for the Fizzler!;Have a great skibiday!"
 	products = list(
 	            /obj/item/reagent_containers/food/drinks/soda_cans/cola = 10,
 	            /obj/item/reagent_containers/food/drinks/soda_cans/dr_gibb = 10,
