@@ -152,20 +152,20 @@
 
 //fastfood
 /obj/item/paper/fluff/ruins/fastfood/general_info
-	name = "Welcome to GATO!"
+	name = "Welcome to Genesis!"
 	icon = 'GainStation13/icons/obj/library.dmi'
 	icon_state = "book1"
-	info = "We are glad to have you be a part of our galaxy-wide GATO franchise locations! As a restaurant worker / manager, you are a part of the GATO Corp and for security purposes, you may be treated as a part of the General Station 13's crew. Make sure to keep your restaurant clean and well-stocked. Good luck!"
+	info = "We are glad to have you be a part of our galaxy-wide GATO franchise locations! As a restaurant worker / manager, you are a part of World Genesis for security purposes. Make sure to keep your restaurant clean and well-stocked. Good luck!"
 
 
 //space law - we still keep the old updated version, but might as well use this one too
 
 /obj/item/book/manual/gato_spacelaw
-	name = "GATO Space Law"
+	name = "Genesis Space Law"
 	icon = 'GainStation13/icons/obj/library.dmi'
-	desc = "A set of GATO-Station guidelines for keeping law and order on their space stations."
+	desc = "a set of company policies regarding the rule of law aboard orbital research facilities."
 	icon_state = "bookSpaceLaw"
-	author = "GATO PMC"
+	author = "J. Wentworth"
 	title = "Space Law"
 	dat = {"<html>
 				<head>
@@ -482,12 +482,12 @@
 
 //gato pamphlets
 /obj/item/book/lorebooks/welcome_to_gato
-	name = "Welcome to GATO Industrial Concern!"
+	name = "World Genesis Onboarding Manual"
 	icon = 'GainStation13/icons/obj/library.dmi'
 	icon_state = "bookwelcometogato"
-	desc = "A book stamped with GATO's feline logo. It serves the purpose of introducing employees to their current accommodations"
-	author = "A. Tenebrae"
-	title = "Welcome to Gato Industrial Concern!"
+	desc = "The official onboarding manual for Genesis employees, featuring the company mascot Cherry on the cover."
+	author = "C. Kasparov"
+	title = "World Genesis Onboarding Manual"
 	dat = {"<html>
 				<head>
 				<style>

@@ -126,8 +126,8 @@
 
 //gato decal, should be moved elsewhere tbh
 /obj/effect/decal/big_gato //96x96 px sprite
-	name = "GATO"
-	desc = "Your employer! Probably."
+	name = "World Genesis Investment Group"
+	desc = "Expanding Man's Horizons."
 	icon = 'GainStation13/icons/turf/96x96.dmi'
 	icon_state = "gato"
 	layer = ABOVE_OPEN_TURF_LAYER
@@ -135,8 +135,8 @@
 	pixel_y = -32
 
 /obj/effect/decal/medium_gato //64x64 px sprite
-	name = "GATO"
-	desc = "Your employer! Probably."
+	name = "World Genesis Investment Group"
+	desc = "Expanding Man's Horizons."
 	icon = 'GainStation13/icons/turf/64x64.dmi'
 	icon_state = "gato"
 	layer = ABOVE_OPEN_TURF_LAYER

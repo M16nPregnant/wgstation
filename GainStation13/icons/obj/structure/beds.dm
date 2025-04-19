@@ -6,19 +6,19 @@
 	icon = 'GainStation13/icons/obj/objects.dmi'
 
 /obj/item/bedsheet/gato //GS13
-	name = "GATO Bedsheet"
-	desc = "Extra padding, for extra comfiness."
+	name = "Genesis Bedsheet"
+	desc = "Now with patented Comfi-Weave™ fiber technology!"
 	icon_state = "sheetgato"
 	item_state = "black"
-	dream_messages = list("GATO", "capitalism", "meow",)
+	dream_messages = list("angels", "voices", "fat",)
 	icon = 'GainStation13/icons/obj/bedsheets.dmi'
 
 /obj/item/bedsheet/double_gato //GS13
-	name = "Double GATO Bedsheet"
-	desc = "Extra padding, for extra comfiness. Mega sized, for mega cuddles."
+	name = "Genesis Double Bedsheet"
+	desc = "Now with patented Comfi-Weave™ fiber technology!"
 	icon_state = "doublesheet_gato"
 	item_state = "black"
-	dream_messages = list("GATO", "capitalism", "meow",)
+	dream_messages = list("angels", "voices", "fat",)
 	icon = 'GainStation13/icons/obj/bedsheets.dmi'
 
 /obj/item/bedsheet/double_red //GS13

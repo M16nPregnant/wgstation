@@ -68,8 +68,8 @@
 	item_chair = null
 
 /obj/structure/chair/beanbag/gato
-	name = "GATO beanbag chair"
-	desc = "A comfy beanbag chair. This one seems to a super duper cutesy GATO mascot."
+	name = "Genesis beanbag chair"
+	desc = "A comfy beanbag chair. Expanding man's seating options."
 	icon_state = "beanbag_gato"
 
 

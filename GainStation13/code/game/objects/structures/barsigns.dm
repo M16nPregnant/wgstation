@@ -2,6 +2,6 @@
 // Because modularity, yo
 
 /datum/barsign/the_busted_belt //gs13
-	name = "The Busted Belt"
+	name = "The Garden of Eden"
 	icon = "thebustedbelt"  //...I dont think this survived the rebase, oops.
-	desc = "GATO is not liable for any pieces of broken wardrobe."
+	desc = "Be not afraid... to have a great time!"
