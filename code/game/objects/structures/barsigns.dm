@@ -237,9 +237,9 @@
 	desc = "Renowned system-wide for their utterly uncreative drink combinations."
 
 /datum/barsign/vladssaladbar
-	name = "Vlad's Salad Bar"
+	name = "The Garden of Eden"
 	icon = "vladssaladbar"
-	desc = "Under new management. Vlad was always a bit too trigger happy with that shotgun."
+	desc = "The only thing forbidden here... is a bad time!"
 
 /datum/barsign/theshaken
 	name = "The Shaken"
