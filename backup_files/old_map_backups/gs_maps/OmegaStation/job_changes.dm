@@ -20,7 +20,7 @@
 /datum/job/captain/New()
 	..()
 	MAP_JOB_CHECK
-	supervisors = "GATO and Central Command"
+	supervisors = "Genesis and Central Command"
 
 /datum/job/hop/New()
 	..()

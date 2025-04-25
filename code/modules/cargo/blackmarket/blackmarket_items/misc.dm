@@ -63,7 +63,7 @@
 
 /datum/blackmarket_item/misc/internals_box
 	name = "Internals Box"
-	desc = "The same one Genesis gives you before starting the shift. Totally not stolen from a dead space-man floating in space." //GS13 - Nanotrasen to GATO
+	desc = "The same one Genesis gives you before starting the shift. Totally not stolen from a dead space-man floating in space." //GS13 - Nanotrasen to Genesis
 	item = /obj/item/storage/box/survival
 	price_min = 250
 	price_max = 350

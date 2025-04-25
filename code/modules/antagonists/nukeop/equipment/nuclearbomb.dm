@@ -514,8 +514,8 @@
 		return CINEMATIC_SELFDESTRUCT_MISS
 
 /obj/machinery/nuclearbomb/beer
-	name = "\improper GATO-brand nuclear fission explosive" //GS13 - Nanotrasen to GATO
-	desc = "One of the more successful achievements of the Genesis Corporate Warfare Division, their nuclear fission explosives are renowned for being cheap to produce and devastatingly effective. Signs explain that though this particular device has been decommissioned, every Genesis station is equipped with an equivalent one, just in case. All Captains carefully guard the disk needed to detonate them - at least, the sign says they do. There seems to be a tap on the back." //GS13 - Nanotrasen to GATO
+	name = "\improper Genesis-brand nuclear fission explosive" //GS13 - Nanotrasen to Genesis
+	desc = "One of the more successful achievements of the Genesis Corporate Warfare Division, their nuclear fission explosives are renowned for being cheap to produce and devastatingly effective. Signs explain that though this particular device has been decommissioned, every Genesis station is equipped with an equivalent one, just in case. All Captains carefully guard the disk needed to detonate them - at least, the sign says they do. There seems to be a tap on the back." //GS13 - Nanotrasen to Genesis
 	proper_bomb = FALSE
 	var/obj/structure/reagent_dispensers/beerkeg/keg
 

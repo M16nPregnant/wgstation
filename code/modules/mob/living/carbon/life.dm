@@ -504,7 +504,7 @@ GLOBAL_LIST_INIT(ballmer_windows_me_msg, list("Yo man, what if, we like, uh, put
 											"I have a crazy idea, guys. Rather than having monkeys to test on, what if we only used apes?",
 											"Woh man ok, what if we took slime cores and smashed them into other slimes, be kinda cool to see what happens.",
 											"We're Genesis but there's barely any cats on these stations, what's up with that??"
-											)) //GS13 - Nanotrasen to GATO
+											)) //GS13 - Nanotrasen to Genesis
 
 //this updates all special effects: stun, sleeping, knockdown, druggy, stuttering, etc..
 /mob/living/carbon/handle_status_effects()

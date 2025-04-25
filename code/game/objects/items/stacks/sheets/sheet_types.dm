@@ -420,7 +420,7 @@ GLOBAL_LIST_INIT(cloth_recipes, list ( \
 		new/datum/stack_recipe("green beanbag chair",/obj/structure/chair/beanbag/green, 5, one_per_turf = TRUE, on_floor = TRUE), \
 		new/datum/stack_recipe("purple beanbag chair", /obj/structure/chair/beanbag/purple, 5, one_per_turf = TRUE, on_floor = TRUE), \
 		new/datum/stack_recipe("black beanbag chair", /obj/structure/chair/beanbag/black, 5, one_per_turf = TRUE, on_floor = TRUE), \
-		new/datum/stack_recipe("GATO beanbag chair", /obj/structure/chair/beanbag/gato, 5, one_per_turf = TRUE, on_floor = TRUE), \
+		new/datum/stack_recipe("Genesis beanbag chair", /obj/structure/chair/beanbag/gato, 5, one_per_turf = TRUE, on_floor = TRUE), \
 		)), \
 	// END GS13 edit
 	))

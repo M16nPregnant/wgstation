@@ -124,7 +124,7 @@
 
 /obj/structure/sign/nanotrasen //GS13 rebranded this whole thing, it's easier to just gato-ify it than replace every single instance of it on every map
 	name = "\improper Genesis Logo"
-	desc = "A sign with the Genesis Logo on it. Glory to GATO!"
+	desc = "A sign with the Genesis Logo on it. Glory to Genesis!"
 	icon = 'GainStation13/icons/obj/decals.dmi'
 	icon_state = "gato"
 

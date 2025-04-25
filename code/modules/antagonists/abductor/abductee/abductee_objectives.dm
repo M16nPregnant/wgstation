@@ -4,7 +4,7 @@
 /datum/objective/abductee/random
 
 /datum/objective/abductee/random/New()
-	explanation_text = pick(world.file2list("GainStation13/strings/abductee_objectives.txt")) //GS13 Edit: Nanotrasen to GATO
+	explanation_text = pick(world.file2list("GainStation13/strings/abductee_objectives.txt")) //GS13 Edit: Nanotrasen to Genesis
 
 /datum/objective/abductee/steal
 	explanation_text = "Steal all"

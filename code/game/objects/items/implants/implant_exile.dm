@@ -6,7 +6,7 @@
 	desc = "Prevents you from returning from away missions."
 	activated = 0
 
-/obj/item/implant/exile/get_data() //GS13 - Nanotrasen to GATO
+/obj/item/implant/exile/get_data() //GS13 - Nanotrasen to Genesis
 	var/dat = {"<b>Implant Specifications:</b><BR>
 				<b>Name:</b> Genesis Employee Exile Implant<BR>
 				<b>Implant Details:</b> The onboard gateway system has been modified to reject entry by individuals containing this implant<BR>"}

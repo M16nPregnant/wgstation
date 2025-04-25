@@ -269,7 +269,7 @@
 
 /obj/item/flashlight/flare
 	name = "flare"
-	desc = "A red Genesis issued flare. There are instructions on the side, it reads 'pull cord, make light'." //GS13 - Nanotrasen to GATO
+	desc = "A red Genesis issued flare. There are instructions on the side, it reads 'pull cord, make light'." //GS13 - Nanotrasen to Genesis
 	w_class = WEIGHT_CLASS_SMALL
 	brightness_on = 7 // Pretty bright.
 	total_mass = 0.8

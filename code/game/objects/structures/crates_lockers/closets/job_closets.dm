@@ -103,7 +103,7 @@
 
 /obj/structure/closet/wardrobe/chaplain_black
 	name = "chapel wardrobe"
-	desc = "It's a storage unit for GATO-approved religious attire." //GS13 - Nanotrasen to GATO
+	desc = "It's a storage unit for Genesis-approved religious attire." //GS13 - Nanotrasen to Genesis
 	icon_door = "black"
 
 /obj/structure/closet/wardrobe/chaplain_black/PopulateContents()

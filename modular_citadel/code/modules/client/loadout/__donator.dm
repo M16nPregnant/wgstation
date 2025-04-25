@@ -9,13 +9,13 @@
 	ckeywhitelist = list("This entry should never appear with this variable set.") //If it does, then that means somebody fucked up the whitelist system pretty hard
 
 /datum/gear/donator/gatobadge_employee //these are available only to admins with CC-related characters
-	name = "GATO Badge - Employee"
+	name = "Genesis Badge - Employee"
 	category = LOADOUT_CATEGORY_DONATOR
 	path = /obj/item/clothing/accessory/medal/gato_badge/employee
 	ckeywhitelist = list("sonoida", "yeeny")
 
 /datum/gear/donator/gatobadge_middleman //these are available to players who were granted permission to have their characters to CC
-	name = "GATO Badge - Correspondent"
+	name = "Genesis Badge - Correspondent"
 	category = LOADOUT_CATEGORY_DONATOR
 	path = /obj/item/clothing/accessory/medal/gato_badge/middleman
 	ckeywhitelist = list("johnjimjim", "sonoida", "Sonoida", "SONOIDA", "yeeny", "Not Number", "Not_Number", "NotNumber", "PointNshoot", "pointnshoot", "POINTNSHOOT", "Plapp", "plapp", "PLAPP", "colorlessspy", "Colorlessspy", "COLORLESSSPY", "M16nPregnant", "m16npregnant", "M16NPREGNANT", "Gabbr", "gabbr", "GABBR" )

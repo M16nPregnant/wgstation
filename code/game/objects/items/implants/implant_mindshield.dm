@@ -3,7 +3,7 @@
 	desc = "Protects against brainwashing."
 	activated = 0
 
-/obj/item/implant/mindshield/get_data() //GS13 - Nanotrasen to GATO
+/obj/item/implant/mindshield/get_data() //GS13 - Nanotrasen to Genesis
 	var/dat = {"<b>Implant Specifications:</b><BR>
 				<b>Name:</b> Genesis Employee Management Implant<BR>
 				<b>Life:</b> Ten years.<BR>

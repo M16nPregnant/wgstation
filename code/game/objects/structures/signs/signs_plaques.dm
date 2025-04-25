@@ -36,7 +36,7 @@
 
 /obj/structure/sign/plaques/kiddie/perfect_man
 	name = "\improper 'Perfect Man' sign"
-	desc = "A guide to the exhibit, explaining how recent developments in mindshield implant and cloning technologies by Genesis Corporation have led to the development and the effective immortality of the 'perfect man', the loyal Genesis Employee." //GS13 - Nanotrasen to GATO
+	desc = "A guide to the exhibit, explaining how recent developments in mindshield implant and cloning technologies by Genesis Corporation have led to the development and the effective immortality of the 'perfect man', the loyal Genesis Employee." //GS13 - Nanotrasen to Genesis
 
 /obj/structure/sign/plaques/kiddie/perfect_drone
 	name = "\improper 'Perfect Drone' sign"
