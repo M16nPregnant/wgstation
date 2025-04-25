@@ -77,12 +77,12 @@
 ///magpistol///
 
 /obj/item/gun/ballistic/automatic/magrifle/pistol
-	name = "magpistol"
-	desc = "A handgun utilizing maglev technologies to propel a ferromagnetic slug to extreme velocities."
+	name = "Magnum 2100"
+	desc = "A hefty handgun utilizing a magnetic propulsion system to fire osmium-core slugs at extreme velocities."
 	icon_state = "magpistol"
 	w_class = WEIGHT_CLASS_NORMAL
 	slot_flags = ITEM_SLOT_BELT
-	fire_sound = 'sound/weapons/magpistol.ogg'
+	fire_sound = 'sound/weapons/magnum.ogg'
 	mag_type = /obj/item/ammo_box/magazine/mmag/small
 	fire_delay = 2
 	inaccuracy_modifier = 0.25
