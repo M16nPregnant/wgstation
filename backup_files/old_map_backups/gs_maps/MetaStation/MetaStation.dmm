@@ -1440,7 +1440,7 @@
 	dir = 5
 	},
 /obj/structure/sign/warning/securearea{
-	desc = "A warning sign which reads 'WARNING: Do Not Enter When Red Light Shows', detailing the penalties that any GATO employee or silicon will suffer if violating this rule.";
+	desc = "A warning sign which reads 'WARNING: Do Not Enter When Red Light Shows', detailing the penalties that any World Genesis employee or silicon will suffer if violating this rule.";
 	name = "WARNING: Do Not Enter When Red Light Shows";
 	pixel_y = 32
 	},
@@ -25547,7 +25547,7 @@
 	},
 /mob/living/simple_animal/bot/medbot{
 	auto_patrol = 1;
-	desc = "A little medical robot, officially part of the GATO medical inspectorate. He looks somewhat underwhelmed.";
+	desc = "A little medical robot, officially part of the Genesis medical inspectorate. He looks somewhat underwhelmed.";
 	name = "Inspector Johnson"
 	},
 /turf/open/floor/plasteel/white,
@@ -55924,7 +55924,7 @@
 "iui" = (
 /obj/structure/table/wood,
 /obj/item/storage/secure/briefcase{
-	desc = "A large briefcase with a digital locking system, and the GATO logo emblazoned on the sides.";
+	desc = "A large briefcase with a digital locking system, and the Genesis logo emblazoned on the sides.";
 	name = "GATO-brand secure briefcase exhibit";
 	pixel_y = 2
 	},
@@ -63157,7 +63157,7 @@
 /obj/item/poster/random_official,
 /obj/item/poster/random_official,
 /obj/item/paicard{
-	desc = "A real GATO success, these personal AIs provide all of the companionship of an AI without any law related red-tape.";
+	desc = "A real Genesis success, these personal AIs provide all of the companionship of an AI without any law related red-tape.";
 	name = "GATO-brand personal AI device exhibit"
 	},
 /turf/open/floor/carpet,
@@ -71872,7 +71872,7 @@
 	icon_state = "4-8"
 	},
 /obj/machinery/nuclearbomb/beer{
-	desc = "One of the more successful achievements of the GATO Corporate Warfare Division, their nuclear fission explosives are renowned for being cheap to produce and devastatingly effective. Signs explain that though this particular device has been decommissioned, every GATO station is equipped with an equivalent one, just in case. All Captains carefully guard the disk needed to detonate them - at least, the sign says they do. There seems to be a tap on the back.";
+	desc = "One of the more successful achievements of the GATO Corporate Warfare Division, their nuclear fission explosives are renowned for being cheap to produce and devastatingly effective. Signs explain that though this particular device has been decommissioned, every Genesis station is equipped with an equivalent one, just in case. All Captains carefully guard the disk needed to detonate them - at least, the sign says they do. There seems to be a tap on the back.";
 	name = "GATO-brand nuclear fission explosive";
 	pixel_x = 2;
 	pixel_y = 6

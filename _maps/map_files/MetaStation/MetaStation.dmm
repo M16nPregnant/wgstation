@@ -1441,7 +1441,7 @@
 	dir = 5
 	},
 /obj/structure/sign/warning/securearea{
-	desc = "A warning sign which reads 'WARNING: Do Not Enter When Red Light Shows', detailing the penalties that any GATO employee or silicon will suffer if violating this rule.";
+	desc = "A warning sign which reads 'WARNING: Do Not Enter When Red Light Shows', detailing the penalties that any World Genesis employee or silicon will suffer if violating this rule.";
 	name = "WARNING: Do Not Enter When Red Light Shows";
 	pixel_y = 32
 	},
@@ -25029,7 +25029,7 @@
 	},
 /mob/living/simple_animal/bot/medbot{
 	auto_patrol = 1;
-	desc = "A little medical robot, officially part of the GATO medical inspectorate. He looks somewhat underwhelmed.";
+	desc = "A little medical robot, officially part of the Genesis medical inspectorate. He looks somewhat underwhelmed.";
 	name = "Inspector Johnson"
 	},
 /turf/open/floor/plasteel/white,
@@ -57502,8 +57502,8 @@
 "iui" = (
 /obj/structure/table/wood,
 /obj/item/storage/secure/briefcase{
-	desc = "A large briefcase with a digital locking system, and the GATO logo emblazoned on the sides.";
-	name = "GATO-brand secure briefcase exhibit";
+	desc = "A large briefcase with a digital locking system, and the World Genesis logo emblazoned on the sides.";
+	name = "Genesis-brand secure briefcase exhibit";
 	pixel_y = 2
 	},
 /turf/open/floor/carpet,
@@ -59264,7 +59264,7 @@
 	},
 /obj/structure/table/wood,
 /obj/item/toy/talking/AI{
-	name = "GATO-brand toy AI";
+	name = "Genesis-brand toy AI";
 	pixel_y = 6
 	},
 /turf/open/floor/carpet,
@@ -61063,8 +61063,8 @@
 	icon_state = "2-4"
 	},
 /obj/item/toy/beach_ball{
-	desc = "The simple beach ball is one of GATO's most popular products. 'Why do we make beach balls? Because we can! (TM)' - GATO";
-	name = "GATO-brand beach ball";
+	desc = "More ball than beach.";
+	name = "Genesis-brand beach ball";
 	pixel_y = 7
 	},
 /obj/structure/table/wood,
@@ -65170,8 +65170,8 @@
 /obj/item/poster/random_official,
 /obj/item/poster/random_official,
 /obj/item/paicard{
-	desc = "A real GATO success, these personal AIs provide all of the companionship of an AI without any law related red-tape.";
-	name = "GATO-brand personal AI device exhibit"
+	desc = "The PAI device allows Genesis personnel to have access to advanced AI technology without the constraints of a traditional lawset.";
+	name = "Genesis-brand personal AI device exhibit"
 	},
 /turf/open/floor/carpet,
 /area/command/corporate_showroom)
@@ -71992,7 +71992,7 @@
 /obj/machinery/power/apc/highcap/five_k{
 	areastring = "/area/bridge/showroom/corporate";
 	dir = 4;
-	name = "GATO Corporate Showroom APC";
+	name = "Genesis Corporate Showroom APC";
 	pixel_x = 28
 	},
 /obj/structure/cable/yellow{
@@ -74470,8 +74470,8 @@
 	icon_state = "4-8"
 	},
 /obj/machinery/nuclearbomb/beer{
-	desc = "One of the more successful achievements of the GATO Corporate Warfare Division, their nuclear fission explosives are renowned for being cheap to produce and devastatingly effective. Signs explain that though this particular device has been decommissioned, every GATO station is equipped with an equivalent one, just in case. All Captains carefully guard the disk needed to detonate them - at least, the sign says they do. There seems to be a tap on the back.";
-	name = "GATO-brand nuclear fission explosive";
+	desc = "One of the more successful achievements of the Genesis Urban Warfare Subdivision, their nuclear fission explosives are renowned for being cheap to produce and devastatingly effective. Signs explain that though this particular device has been decommissioned, every World Genesis station is equipped with an equivalent one, just in case. All Captains carefully guard the disk needed to detonate them - at least, the sign says they do. There seems to be a tap on the back.";
+	name = "Genesis-brand nuclear fission explosive";
 	pixel_x = 2;
 	pixel_y = 6
 	},
@@ -83535,7 +83535,7 @@
 "wzo" = (
 /obj/structure/showcase/perfect_employee,
 /obj/structure/sign/plaques/kiddie/perfect_man{
-	desc = "A guide to the exhibit, explaining how recent developments in mindshield implant and cloning technologies by GATO have led to the development and the effective immortality of the 'perfect man', the loyal GATO Employee.";
+	desc = "A guide to the exhibit, explaining how recent developments in mindshield implant and cloning technologies by Genesis have led to the development and the effective immortality of the 'perfect man', the loyal Genesis Employee.";
 	pixel_y = 32
 	},
 /obj/structure/window/reinforced,
@@ -84883,7 +84883,7 @@
 /obj/structure/table/wood,
 /obj/item/toy/plush/carpplushie{
 	color = "red";
-	name = "GATO wildlife department space carp plushie"
+	name = "Genesis wildlife department space carp plushie"
 	},
 /turf/open/floor/carpet,
 /area/command/corporate_showroom)
@@ -86820,7 +86820,7 @@
 /area/maintenance/port/aft)
 "ydB" = (
 /obj/structure/showcase/machinery/microwave{
-	desc = "The famous GATO microwave, the multi-purpose cooking appliance every station needs! This one appears to be drawn onto a cardboard box.";
+	desc = "The famous Genesis microwave, the multi-purpose cooking appliance every station needs! This one appears to be drawn onto a cardboard box.";
 	dir = 1;
 	pixel_y = 2
 	},

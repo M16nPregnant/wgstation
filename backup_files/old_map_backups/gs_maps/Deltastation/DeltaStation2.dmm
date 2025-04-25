@@ -5601,7 +5601,7 @@
 "aqb" = (
 /obj/structure/table/wood,
 /obj/item/phone{
-	desc = "Supposedly a direct line to GATO Central Command. It's not even plugged in.";
+	desc = "Supposedly a direct line to Genesis Central Command. It's not even plugged in.";
 	pixel_x = -3;
 	pixel_y = 3
 	},
@@ -35004,7 +35004,7 @@
 "brB" = (
 /obj/structure/table/wood,
 /obj/item/phone{
-	desc = "Supposedly a direct line to GATO Central Command. It's not even plugged in.";
+	desc = "Supposedly a direct line to Genesis Central Command. It's not even plugged in.";
 	pixel_x = -3;
 	pixel_y = 3
 	},
@@ -47737,7 +47737,7 @@
 	pixel_x = 7
 	},
 /obj/item/phone{
-	desc = "Supposedly a direct line to GATO Central Command. It's not even plugged in.";
+	desc = "Supposedly a direct line to Genesis Central Command. It's not even plugged in.";
 	pixel_x = -3;
 	pixel_y = 3
 	},
@@ -51302,7 +51302,7 @@
 	pixel_y = -26
 	},
 /obj/item/phone{
-	desc = "Supposedly a direct line to GATO Central Command. It's not even plugged in.";
+	desc = "Supposedly a direct line to Genesis Central Command. It's not even plugged in.";
 	pixel_x = -3;
 	pixel_y = 3
 	},
@@ -52097,7 +52097,7 @@
 /turf/open/floor/plasteel/dark)
 "bTQ" = (
 /obj/item/phone{
-	desc = "Supposedly a direct line to GATO Central Command. It's not even plugged in.";
+	desc = "Supposedly a direct line to Genesis Central Command. It's not even plugged in.";
 	pixel_x = -3;
 	pixel_y = 3
 	},
@@ -74110,7 +74110,7 @@
 /obj/item/toy/gun,
 /obj/item/clothing/head/beret/sec{
 	armor = list("melee"=0,"bullet"=0,"laser"=0,"energy"=0,"bomb"=0,"bio"=0,"rad"=0);
-	desc = "A replica beret resembling that of a special operations officer under GATO.";
+	desc = "A replica beret resembling that of a special operations officer under World Genesis Employ.";
 	name = "replica officer's beret"
 	},
 /obj/item/radio/intercom{
