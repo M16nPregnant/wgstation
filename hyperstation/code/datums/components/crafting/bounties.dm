@@ -84,7 +84,7 @@ datum/bounty/lewd/fluid/New() //GS13 made some edits here that changes stuff int
             reagent_type = /datum/reagent/consumable/lipoifier
             wanted_reagent = new reagent_type
             name = wanted_reagent.name
-            description = "The quality of GATO's meat-related products have diminished. Send us some lipoifier to help with meat production." //GS13
+            description = "The quality of Genesis's meat-related products have diminished. Send us some lipoifier to help with meat production." //GS13
             reward += rand(2, 7) * 500
 
 /* //Just not getting this to work.

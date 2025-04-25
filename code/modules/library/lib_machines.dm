@@ -436,12 +436,12 @@
 			alert("No news network found on station. Aborting.")
 		var/channelexists = 0
 		for(var/datum/news/feed_channel/FC in GLOB.news_network.network_channels)
-			if(FC.channel_name == "GATO Book Club") //GS13 - Nanotrasen to GATO
+			if(FC.channel_name == "Genesis Book Club") //GS13 - Nanotrasen to Genesis
 				channelexists = 1
 				break
 		if(!channelexists)
-			GLOB.news_network.CreateFeedChannel("GATO Book Club", "Library", null) //GS13 - Nanotrasen to GATO
-		GLOB.news_network.SubmitArticle(scanner.cache.dat, "[scanner.cache.name]", "GATO Book Club", null) //GS13 - Nanotrasen to GATO
+			GLOB.news_network.CreateFeedChannel("Genesis Book Club", "Library", null) //GS13 - Nanotrasen to Genesis
+		GLOB.news_network.SubmitArticle(scanner.cache.dat, "[scanner.cache.name]", "Genesis Book Club", null) //GS13 - Nanotrasen to Genesis
 		alert("Upload complete. Your uploaded title is now available on station newscasters.")
 	if(href_list["orderbyid"])
 		if(printer_cooldown > world.time)

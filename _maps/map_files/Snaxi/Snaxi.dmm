@@ -12432,7 +12432,7 @@
 /obj/structure/table/wood,
 /obj/item/clothing/head/collectable/captain,
 /obj/item/toy/talking/AI{
-	name = "GATO-brand toy AI";
+	name = "Genesis-brand toy AI";
 	pixel_y = 6
 	},
 /obj/item/clothing/head/collectable/HoS{

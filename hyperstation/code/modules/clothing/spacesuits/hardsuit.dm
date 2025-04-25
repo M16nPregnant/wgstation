@@ -48,7 +48,7 @@
 	return
 
 /obj/item/clothing/suit/space/hardsuit/shielded/goldenpa
-	name = "GATO Power Armor"
+	name = "Genesis Power Armor"
 	desc = "An advanced armor with built in energy shielding, developed by Genesis via unknown means. It belongs by only few exclusive members of the corporation."
 	icon_state = "golden_pa"
 	item_state = "golden_pa"
@@ -68,7 +68,7 @@
 	. = ..()
 
 /obj/item/clothing/head/helmet/space/hardsuit/shielded/goldenpa
-	name = "GATO Power Helmet"
+	name = "Genesis Power Helmet"
 	desc = "An advanced armor helmet with built in energy shielding, developed by Genesis via unknown means. It belongs by only few exclusive members of the corporation."
 	icon_state = "hardsuit0-goldenpa"
 	item_state = "hardsuit0-goldenpa"

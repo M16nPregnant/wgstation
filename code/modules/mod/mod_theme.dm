@@ -222,8 +222,8 @@
 
 /datum/mod_theme/mining
 	name = "mining"
-	desc = "A high-power Genesis mining suit, supporting more complexity at a bigger drain." //GS13 - Nanotrasen to GATO
-	extended_desc = "A high-powered GATO-designed suit, based off the work of Nakamura Engineering. \
+	desc = "A high-power Genesis mining suit, supporting more complexity at a bigger drain." //GS13 - Nanotrasen to Genesis
+	extended_desc = "A high-powered Genesis-designed suit, based off the work of Nakamura Engineering. \
 		While initial designs were built for the rigors of asteroid mining, given blast resistance through inbuilt ceramics, \
 		mining teams have since heavily tweaked the suit themselves. Aftermarket armor plating has been added, \
 		giving way to incredible protection against corrosives and thermal protection good enough for volcanic environments. \
@@ -500,7 +500,7 @@
 
 /datum/mod_theme/magnate
 	name = "magnate"
-	desc = "A fancy, very protective suit for GATO's captains. Shock, fire and acid-proof while also having a large capacity and high speed." //GS13 - Nanotrasen to GATO
+	desc = "A fancy, very protective suit for Genesis's captains. Shock, fire and acid-proof while also having a large capacity and high speed." //GS13 - Nanotrasen to Genesis
 	extended_desc = "They say it costs four hundred thousand credits to run this MODsuit... for twelve seconds. \
 		The Magnate suit is designed for protection, comfort, and luxury for Genesis Captains. \
 		The onboard air filters have been preprogrammed with an additional five hundred different fragrances that can \
@@ -509,7 +509,7 @@
 		My God, it even has a granite trim. The double-classified paint that's been painstakingly applied to the hull \
 		provides protection against shock, fire, and the strongest acids. Onboard systems employ meta-positronic learning \
 		and bluespace processing to allow for a wide array of onboard modules to be supported, and only the best actuators \
-		have been employed for speed. The resemblance to a Gorlex Marauder helmet is purely coincidental." //GS13 - Nanotrasen to GATO
+		have been employed for speed. The resemblance to a Gorlex Marauder helmet is purely coincidental." //GS13 - Nanotrasen to Genesis
 	default_skin = "magnate"
 	armor = list(MELEE = 20, BULLET = 15, LASER = 15, ENERGY = 15, BOMB = 50, BIO = 100, FIRE = 100, ACID = 100, WOUND = 15, RAD = 0)
 	resistance_flags = FIRE_PROOF|ACID_PROOF
@@ -765,12 +765,12 @@
 
 /datum/mod_theme/responsory
 	name = "responsory"
-	desc = "A high-speed rescue suit by GATO, intended for its' emergency response teams." //GS13 - Nanotrasen to GATO
+	desc = "A high-speed rescue suit by Genesis, intended for its' emergency response teams." //GS13 - Nanotrasen to Genesis
 	extended_desc = "A streamlined suit of Genesis design, these sleek black suits are only worn by \
 		elite emergency response personnel to help save the day. While the slim and nimble design of the suit \
 		cuts the ceramics and ablatives in it down, dropping the protection, \
 		it keeps the wearer safe from the harsh void of space while sacrificing no speed whatsoever. \
-		While wearing it you feel an extreme deference to darkness. " //GS13 - Nanotrasen to GATO
+		While wearing it you feel an extreme deference to darkness. " //GS13 - Nanotrasen to Genesis
 	default_skin = "responsory"
 	armor = list(MELEE = 50, BULLET = 40, LASER = 50, ENERGY = 50, BOMB = 50, BIO = 100, FIRE = 100, ACID = 90, WOUND = 10, RAD = 0)
 	resistance_flags = FIRE_PROOF
@@ -828,13 +828,13 @@
 
 /datum/mod_theme/apocryphal
 	name = "apocryphal"
-	desc = "A high-tech, only technically legal, armored suit created by a collaboration effort between Genesis and Apadyne Technologies." //GS13 - Nanotrasen to GATO
+	desc = "A high-tech, only technically legal, armored suit created by a collaboration effort between Genesis and Apadyne Technologies." //GS13 - Nanotrasen to Genesis
 	extended_desc = "A bulky and only legal by technicality suit, this ominous black and red MODsuit is only worn by \
-		GATO Black Ops teams. If you can see this suit, you fucked up. A collaborative joint effort between \
+		Genesis Black Ops teams. If you can see this suit, you fucked up. A collaborative joint effort between \
 		Apadyne and Genesis the construction and modules gives the user robust protection against \
 		anything that can be thrown at it, along with acute combat awareness tools for it's wearer. \
 		Whether the wearer uses it or not is up to them. \
-		There seems to be a little inscription on the wrist that reads; \'squiddie', d'aww." //GS13 - Nanotrasen to GATO
+		There seems to be a little inscription on the wrist that reads; \'squiddie', d'aww." //GS13 - Nanotrasen to Genesis
 	default_skin = "apocryphal"
 	armor = list(MELEE = 80, BULLET = 80, LASER = 50, ENERGY = 60, BOMB = 100, BIO = 100, FIRE = 100, ACID = 100, WOUND = 25, RAD = 0)
 	resistance_flags = FIRE_PROOF|ACID_PROOF
@@ -869,12 +869,12 @@
 
 /datum/mod_theme/corporate
 	name = "corporate"
-	desc = "A fancy, high-tech suit for GATO's high ranking officers." //GS13 - Nanotrasen to GATO
+	desc = "A fancy, high-tech suit for Genesis's high ranking officers." //GS13 - Nanotrasen to Genesis
 	extended_desc = "An even more costly version of the Magnate model, the corporate suit is a thermally insulated, \
 		anti-corrosion coated suit for high-ranking CentCom Officers, deploying pristine protective armor and \
 		advanced actuators, feeling practically weightless when turned on. Scraping the paint of this suit is \
 		counted as a war-crime and reason for immediate execution in over fifty Genesis space stations. \
-		The resemblance to a Gorlex Marauder helmet is purely coincidental." //GS13 - Nanotrasen to GATO
+		The resemblance to a Gorlex Marauder helmet is purely coincidental." //GS13 - Nanotrasen to Genesis
 	default_skin = "corporate"
 	armor = list(MELEE = 50, BULLET = 40, LASER = 50, ENERGY = 50, BOMB = 50, BIO = 100, FIRE = 100, ACID = 100, WOUND = 15, RAD = 0)
 	resistance_flags = FIRE_PROOF|ACID_PROOF

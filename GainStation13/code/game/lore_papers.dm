@@ -42,7 +42,7 @@
 	Credits can be gained by having someone you fattened up use the tracking scale. Keep in mind that credits can only be gained when someone surpasses their previous max weight.\
 	Additionally, you are only able to get 900 credits from a person.\
 	<br><br>\
-	You are able to use the console and pad to send victims back to the station after you are done with them. Avoid sending them anywhere dangerous or obvious unless you want to risk the ire of GATO. "
+	You are able to use the console and pad to send victims back to the station after you are done with them. Avoid sending them anywhere dangerous or obvious unless you want to risk the ire of Genesis. "
 
 // calorite research facility
 
@@ -114,11 +114,11 @@
 				"}
 
 /obj/item/book/manual/fatty_chems
-	name = "The Strange Chems of GATO's Sector"
+	name = "The Strange Chems of Genesis's Sector"
 	icon = 'GainStation13/icons/obj/library.dmi'
 	icon_state ="bookblubberybartender"
 	author = "Unknown"
-	title = "The Strange Chems of GATO's Sector"
+	title = "The Strange Chems of Genesis's Sector"
 	//book contents below
 	dat = {"<html>
 				<head>
@@ -131,9 +131,9 @@
 				</style>
 				</head>
 				<body>
-				<h3>The Strange Chems of GATO-Controlled Sectors</h3>
+				<h3>The Strange Chems of Genesis-Controlled Sectors</h3>
 
-				Peculiar reactions not found anywhere else taken within the sector of GATO's control, especially within the station of GS13.
+				Peculiar reactions not found anywhere else taken within the sector of Genesis's control, especially within the station of GS13.
 				To ensure that the knowledge isn't lost to time, I've decided some of the simpler reactions here.
 
 				<ol>
@@ -178,10 +178,10 @@
 				</style>
 				</head>
 				<body>
-				<h3>The Strange Chems of GATO-Controlled Sectors</h3>
+				<h3>The Strange Chems of Genesis-Controlled Sectors</h3>
 
 				<p><br></p>
-				<p style="text-align: center;"><strong><span style="font-size:20pt;">GATO Corp Guide to Station Laws</span></strong></p>
+				<p style="text-align: center;"><strong><span style="font-size:20pt;">Genesis Corp Guide to Station Laws</span></strong></p>
 				<p><br></p>
 				<p style="text-align: justify;"><span style="color:#990000;font-size:12pt;">&nbsp; &nbsp;&nbsp;</span><span style="color:#990000;font-size:12pt;">OOC: (Remember use everything in this document to try and create or enhance possible roleplay scenarios and how characters can be roleplayed in relation to respect, or lack thereof, of laws. If you believe it is instead taking away from a scenario, talk it out in OOC/LOOC. If you find an issue with these, you are encouraged to start or participate in discussion over them.)</span></p>
 				<p><br></p>
@@ -506,24 +506,24 @@
 				<p>
 				<h2>Table of Contents...</h2>
 				<ol>
-				<li>What is GATO?
-				<li>The origin of GATO
-				<li>The current state of GATO
+				<li>What is Genesis?
+				<li>The origin of Genesis
+				<li>The current state of Genesis
 				<li>GS13: Current development projects
 				</ol>
 				<p>
 				<hr>
                 <h1><u>Chapter 1</u></h1>
-                <h2>What is GATO? </h2>
+                <h2>What is Genesis? </h2>
 				<p>
-				GATO Industrial Concern is a corporation that operates in every sector known to all sapients. Agriculture, luxurious goods, R&D, pharmaceuticals- if it exists, we make it! Your current employment is upon a....: <p>
+				Genesis Industrial Concern is a corporation that operates in every sector known to all sapients. Agriculture, luxurious goods, R&D, pharmaceuticals- if it exists, we make it! Your current employment is upon a....: <p>
 				GENERAL STATION
 				<p>
 				Lucky you! A General Station is one that does not specialize in any particular type of production, and profits off of whatever it can manage to export. You've heard us! So long as the crew can attain profitable goods and ship it off to Central Command, you're doing your job! Here at Gato, we understand how autonomy for stations can improve both the conditions of workers and stimulate both creativity and innovation. As a result, we have permitted you to have nearly free reign over your activities, far from bureaucracy and regulation. That's much better than Nanotrasen, right?
 				<p>
 				<hr>
 				<h1><u>Chapter 2</u></h1>
-				<h2>The origin of GATO</h2>
+				<h2>The origin of Genesis</h2>
 				<p>
 				Gato's story begins around the beginning of the 22nd century. It was a truly hard time, indeed! Between the troublesome and expensive startup process of making a small business, and the crushing weight of bigger corporations, one would think that setting up a business was financial suicide. But our founder,
 				<i>~~-`11@#\[ERROR\]</i>

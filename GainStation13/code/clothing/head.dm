@@ -1,7 +1,7 @@
 //most of those are probably recolors, but this is just generally Genesis / GS13 stuff
 
 /obj/item/clothing/head/helmet/space/hardsuit/ert/alert/gato
-	name = "GATO Hardsuit Helmet"
+	name = "Genesis Hardsuit Helmet"
 	desc = "Exclusive version of a hardsuit helmet, usually reserved for Genesis CC personnel."
 	icon = 'GainStation13/icons/mob/head.dmi'
 	icon_state = "hardsuit0-gato"

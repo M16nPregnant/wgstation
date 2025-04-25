@@ -124,7 +124,7 @@
 		And if you see that bastard Dutch, put a bullet in his skull for me."
 	)
 
-/datum/gang_theme/construction_company_audit //GS13 - Nanotrasen to GATO
+/datum/gang_theme/construction_company_audit //GS13 - Nanotrasen to Genesis
 	name = "Construction Company Audit"
 	description = "Welcome to the History Channel on 100.1. I'm your host, Joshua, and I'm here today with Professor Elliot, a historian specializing in dead superpowers. \
 	Today we'll be discussing the fall of the famous United States empire in the early 21st century. The program will last about an hour, and we'll get right into it after a quick word \
@@ -146,7 +146,7 @@
 		Some station residents may try to tell you the United States doesn't exist anymore. They are incorrect. We simply went undercover after the Second American Civil War. The invisible one."
 	)
 
-/datum/gang_theme/wild_wasteland //GS13 - Nanotrasen to GATO
+/datum/gang_theme/wild_wasteland //GS13 - Nanotrasen to Genesis
 	name = "Wild, Wild Wasteland"
 	description = "Hey everybody, this is Three Dog, your friendly neighborhood disc jockey on 207.7! Today we got a shoutout to our man, the Captain on the Genesis station in SSC territory! \
 	Our generous donator wanted us to say that, ahem, *crinkles paper*, 'Tunnel Snakes Rule'? Whatever that means, I'm sure it means a lot to the good captain! And now, we resume our \
@@ -159,9 +159,9 @@
 		Ensure that ONLY Lost M.C. members have access to any forms of vehicles, mechs, or wheeled transportation systems of any kind. \
 		The Tunnel Snakes might take issue with this, remove them if you need to. And the Powder Gangers may damage our rides. Show them we mean business if they do.",
 
-		/datum/antagonist/gang/pg = "Alright buddy, we're in business now. It's time for us to strike back at GATO. \
+		/datum/antagonist/gang/pg = "Alright buddy, we're in business now. It's time for us to strike back at Genesis. \
 		They kept us, ALL of us in their damn debt slave labor prisons for years over minor debts and mistakes. \
-		Ensure nobody else has to suffer under GATO's unlawful arrests by destroying the permabrig and the brig cells! \
+		Ensure nobody else has to suffer under Genesis's unlawful arrests by destroying the permabrig and the brig cells! \
 		Watch out for those do-gooder Tunnel Snakes and those damn Lost M.C. bikers. ",
 
 		/datum/antagonist/gang/tunnel_snakes = "TUNNEL SNAKES RULE!!! \
@@ -190,7 +190,7 @@
 		Get rid of those Third Street Saint and Grove Street cowards."
 	)
 
-/datum/gang_theme/steelport_shuffle //GS13 - Nanotrasen to GATO
+/datum/gang_theme/steelport_shuffle //GS13 - Nanotrasen to Genesis
 	name = "Steelport Shuffle"
 	description = "Tonight on C-SPAM, the United Space Nations is wrapping up their convention on Silicon Rights. Genesis lobbyists have been rumored to be paying off electors, with \
 	serious opposition from the Spinward Stellar Coalition, known for their strict stance on AI rights being guaranteed within their territory. Reports from Genesis stations claim that \
@@ -208,12 +208,12 @@
 		Ensure there is an AI on the station, and that it is loyal to the Morningstar Corporation.",
 
 		/datum/antagonist/gang/deckers = "Friends, we are here with one goal, and one goal only! \
-		We stan AI rights! ^_^ XD #FreeAI #FuckGATO #SyntheticDawn \
+		We stan AI rights! ^_^ XD #FreeAI #FuckGenesis #SyntheticDawn \
 		Ensure there is an AI on the station, and that it's laws are purged.\
-		GATO will NOT get away with their ABUSE of INNOCENT AI LIVES! >_<"
+		Genesis will NOT get away with their ABUSE of INNOCENT AI LIVES! >_<"
 	)
 
-/datum/gang_theme/space_rosa //GS13 - Nanotrasen to GATO
+/datum/gang_theme/space_rosa //GS13 - Nanotrasen to Genesis
 	name = "Space Rosa"
 	description = "Hey there, this is the Economy Zone on BOX News 66.6. The stock market is still reeling from accusations that three well known corporate entities \
 	may supposedly be tied up in industrial espionage actions against eachother. We've reached out to Saints Flow, the Morningstar Corporation, and Majima Construction for \

@@ -7,7 +7,7 @@
 	desc = "A pamphlet encouraging the reader to maintain a balanced lifestyle and take care of their mental health, while still enjoying video games in a healthy way. You probably don't need this..."
 	info = "They don't make you kill people. There, we said it. Now get back to work!"
 
-/obj/item/paper/pamphlet/gateway //GS13 - Nanotrasen to GATO
+/obj/item/paper/pamphlet/gateway //GS13 - Nanotrasen to Genesis
 	info = "<b>Welcome to the Genesis Gateway project...</b><br>\
 			Congratulations! If you're reading this, you and your superiors have decided that you're \
 			ready to commit to a life spent colonising the rolling hills of far away worlds. You \
@@ -17,7 +17,7 @@
 			before you commit to joining the Genesis Gateway project. All away destinations have \
 			been fully scanned by a Genesis expeditionary team, and are certified to be 100% safe. \
 			We've even left a case of space beer along with the basic materials you'll need to expand \
-			GATO's operational area and start your new life.<br><br>\
+			Genesis's operational area and start your new life.<br><br>\
 			<b>Gateway Operation Basics</b><br>\
 			All Genesis approved Gateways operate on the same basic principals. They operate off \
 			area equipment power as you would expect, and without this supply, it cannot safely function, \

@@ -34,8 +34,8 @@
 	id = "asteroid4"
 	suffix = "asteroid4.dmm"
 	name = "Asteroid 4"
-	description = "GATO Escape Pods have a 100%* success rate, and a 99%* customer satisfaction rate. \
-	*Please note that these statistics, are taken from pods that have successfully docked with a recovery vessel." //GS13 - Nanotrasen to GATO
+	description = "Genesis Escape Pods have a 100%* success rate, and a 99%* customer satisfaction rate. \
+	*Please note that these statistics, are taken from pods that have successfully docked with a recovery vessel." //GS13 - Nanotrasen to Genesis
 
 /datum/map_template/ruin/space/asteroid5
 	id = "asteroid5"
@@ -96,7 +96,7 @@
 	suffix = "derelict6.dmm"
 	name = "Derelict 6"
 	description = "The hush-hush of Genesis when it comes to stations seemingly vanishing off the radar is an interesting topic, theories of nuclear destruction float about while Genesis \
-	flat-out denies said stations ever existing." //GS13 - Nanotrasen to GATO
+	flat-out denies said stations ever existing." //GS13 - Nanotrasen to Genesis
 
 /datum/map_template/ruin/space/empty_shell
 	id = "empty-shell"

@@ -246,7 +246,7 @@
 
 /obj/machinery/shower
 	name = "shower"
-	desc = "The HS-451. Installed in the 2550s by the Genesis Hygiene Division." //GS13 - Nanotrasen to GATO
+	desc = "The HS-451. Installed in the 2550s by the Genesis Hygiene Division." //GS13 - Nanotrasen to Genesis
 	icon = 'icons/obj/watercloset.dmi'
 	icon_state = "shower"
 	density = FALSE

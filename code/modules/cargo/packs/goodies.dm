@@ -6,7 +6,7 @@
 
 /datum/supply_pack/goody/combatknives_single
 	name = "Combat Knife Single-Pack"
-	desc = "Contains one sharpened combat knive. Guaranteed to fit snugly inside any GATO-standard boot." //GS13 - Nanotrasen to GATO
+	desc = "Contains one sharpened combat knive. Guaranteed to fit snugly inside any Genesis-standard boot." //GS13 - Nanotrasen to Genesis
 	cost = 800
 	contains = list(/obj/item/kitchen/knife/combat)
 
@@ -78,7 +78,7 @@
 
 /datum/supply_pack/goody/beach_ball
 	name = "Beach Ball"
-	desc = "The simple beach ball is one of GATO's most popular products. 'Why do we make beach balls? Because we can! (TM)' - GATO" //GS13 - Nanotrasen to GATO
+	desc = "The simple beach ball is one of Genesis's most popular products. 'Why do we make beach balls? Because we can! (TM)' - Genesis" //GS13 - Nanotrasen to Genesis
 	cost = 200
 	contains = list(/obj/item/toy/beach_ball)
 

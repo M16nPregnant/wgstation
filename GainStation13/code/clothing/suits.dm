@@ -2,7 +2,7 @@
 
 
 /obj/item/clothing/suit/jacket/letterman_gato
-	name = "GATO letterman jacket"
+	name = "Genesis letterman jacket"
 	desc = "A Genesis themed letterman jacket. Perfect for repping your pride in the company as you violently murder russian mobsters"
 	icon = 'GainStation13/icons/mob/suits.dmi'
 	mob_overlay_icon = 'GainStation13/icons/mob/suits.dmi'
@@ -56,7 +56,7 @@
 	mutantrace_variation = NONE
 
 /obj/item/clothing/suit/space/hardsuit/ert/alert/gato
-	name = "GATO Hardsuit"
+	name = "Genesis Hardsuit"
 	desc = "Exclusive variant of a hardsuit, primarily reserved for CC Genesis personnel."
 	icon = 'GainStation13/icons/mob/suits.dmi'
 	mob_overlay_icon = 'GainStation13/icons/mob/suits.dmi'

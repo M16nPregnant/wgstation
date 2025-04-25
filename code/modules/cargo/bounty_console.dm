@@ -1,8 +1,8 @@
 #define PRINTER_TIMEOUT 10
 
 /obj/machinery/computer/bounty
-	name = "\improper Genesis bounty console" //GS13 - Nanotrasen to GATO
-	desc = "Used to check and claim bounties offered by GATO" //GS13 - Nanotrasen to GATO
+	name = "\improper Genesis bounty console" //GS13 - Nanotrasen to Genesis
+	desc = "Used to check and claim bounties offered by Genesis" //GS13 - Nanotrasen to Genesis
 	icon_screen = "bounty"
 	circuit = /obj/item/circuitboard/computer/bounty
 	light_color = "#E2853D"//orange
@@ -22,7 +22,7 @@
 
 /obj/item/paper/bounty_printout/Initialize(mapload)
 	. = ..()
-	info = "<h2>GATO Cargo Bounties</h2></br>" //GS13 - Nanotrasen to GATO
+	info = "<h2>Genesis Cargo Bounties</h2></br>" //GS13 - Nanotrasen to Genesis
 	update_icon()
 
 	for(var/datum/bounty/B in GLOB.bounties_list)

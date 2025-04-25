@@ -199,7 +199,7 @@
 
 /obj/item/ticket_machine_ticket
 	name = "Ticket"
-	desc = "A ticket which shows your place in the Head of Personnel's line. Made from Genesis patented NanoPaper®. Though solid, its form seems to shimmer slightly. Feels (and burns) just like the real thing." //GS13 - Nanotrasen to GATO
+	desc = "A ticket which shows your place in the Head of Personnel's line. Made from Genesis patented NanoPaper®. Though solid, its form seems to shimmer slightly. Feels (and burns) just like the real thing." //GS13 - Nanotrasen to Genesis
 	icon = 'icons/obj/bureaucracy.dmi'
 	icon_state = "ticket"
 	maptext_x = 7

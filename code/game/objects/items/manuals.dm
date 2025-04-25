@@ -43,7 +43,7 @@
 				</html>
 				"}
 
-/obj/item/book/manual/ripley_build_and_repair //GS13 - Nanotrasen to GATO
+/obj/item/book/manual/ripley_build_and_repair //GS13 - Nanotrasen to Genesis
 	name = "APLU \"Ripley\" Construction and Operation Manual"
 	icon_state ="book"
 	author = "Weyland-Yutani Corp"
@@ -108,7 +108,7 @@
 				<li>Internal armor is plasteel for additional strength.</li>
 				<li>External armor must be installed in 2 parts, totaling 10 sheets.</li>
 				<li>Completed mech is more resiliant against fire, and is a bit more durable overall</li>
-				<li>GATO is determined to the safety of its <s>investments</s> employees.</li>
+				<li>Genesis is determined to the safety of its <s>investments</s> employees.</li>
 				</ol>
 				</body>
 				</html>
@@ -199,7 +199,7 @@
 				</html>
 			"}
 
-/obj/item/book/manual/nuclear //GS13 - Nanotrasen to GATO
+/obj/item/book/manual/nuclear //GS13 - Nanotrasen to Genesis
 	name = "Fission Mailed: Nuclear Sabotage 101"
 	icon_state ="bookNuclear"
 	author = "Syndicate"
@@ -282,7 +282,7 @@
 /obj/item/book/manual/wiki/cit
 	name = "Citadel infobook"
 	icon_state ="book8"
-	author = "GATO" //GS13 - Nanotrasen to GATO
+	author = "Genesis" //GS13 - Nanotrasen to Genesis
 	title = "Citadel infobook"
 	page_link = ""
 	window_size = "1500x800" //Too squashed otherwise
@@ -318,7 +318,7 @@
 /obj/item/book/manual/wiki/cit/chemistry
 	name = "Chemistry Textbook"
 	icon_state ="chemistrybook"
-	author = "GATO" //GS13 - Nanotrasen to GATO
+	author = "Genesis" //GS13 - Nanotrasen to Genesis
 	title = "Chemistry Textbook"
 	page_link = "main/guides/guide_chemistry"
 
@@ -332,7 +332,7 @@
 /obj/item/book/manual/wiki/chemistry
 	name = "Outdated Chemistry Textbook"
 	icon_state ="chemistrybook_old"
-	author = "GATO" //GS13 - Nanotrasen to GATO
+	author = "Genesis" //GS13 - Nanotrasen to Genesis
 	title = "Outdated Chemistry Textbook"
 	page_link = "Guide_to_chemistry"
 
@@ -364,9 +364,9 @@
 
 /obj/item/book/manual/wiki/security_space_law
 	name = "Space Law"
-	desc = "A set of Genesis guidelines for keeping law and order on their space stations." //GS13 - Nanotrasen to GATO
+	desc = "A set of Genesis guidelines for keeping law and order on their space stations." //GS13 - Nanotrasen to Genesis
 	icon_state = "bookSpaceLaw"
-	author = "GATO" //GS13 - Nanotrasen to GATO
+	author = "Genesis" //GS13 - Nanotrasen to Genesis
 	title = "Space Law"
 	page_link = "Space_Law"
 
@@ -398,7 +398,7 @@
 /obj/item/book/manual/wiki/detective
 	name = "The Film Noir: Proper Procedures for Investigations"
 	icon_state ="bookDetective"
-	author = "GATO" //GS13 - Nanotrasen to GATO
+	author = "Genesis" //GS13 - Nanotrasen to Genesis
 	title = "The Film Noir: Proper Procedures for Investigations"
 	page_link = "Detective"
 

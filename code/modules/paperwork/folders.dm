@@ -98,7 +98,7 @@
 
 /obj/item/folder/documents
 	name = "folder- 'TOP SECRET'"
-	desc = "A folder stamped \"Top Secret - Property of Genesis Corporation. Unauthorized distribution is punishable by death.\"" //GS13 - Nanotrasen to GATO
+	desc = "A folder stamped \"Top Secret - Property of Genesis Corporation. Unauthorized distribution is punishable by death.\"" //GS13 - Nanotrasen to Genesis
 
 /obj/item/folder/documents/Initialize(mapload)
 	. = ..()

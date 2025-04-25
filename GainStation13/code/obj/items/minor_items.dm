@@ -121,7 +121,7 @@
 //ID for fastfood wagies so they can use the tele
 /obj/item/card/id/silver/restaurant
 	name = "silver identification card"
-	desc = "A silver ID, given to the GATO's fast food restaurant workers. Doesn't grant much besides teleporter access."
+	desc = "A silver ID, given to the Genesis's fast food restaurant workers. Doesn't grant much besides teleporter access."
 	access = list(ACCESS_MAINT_TUNNELS, ACCESS_TELEPORTER)
 
 //gato decal, should be moved elsewhere tbh

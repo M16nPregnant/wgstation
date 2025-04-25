@@ -214,7 +214,7 @@
 /datum/map_template/shuttle/emergency/asteroid
 	suffix = "asteroid"
 	name = "Asteroid Station Emergency Shuttle"
-	description = "A respectable mid-sized shuttle that first saw service shuttling Genesis crew to and from their asteroid belt embedded facilities." //GS13 - Nanotrasen to GATO
+	description = "A respectable mid-sized shuttle that first saw service shuttling Genesis crew to and from their asteroid belt embedded facilities." //GS13 - Nanotrasen to Genesis
 	credit_cost = 3000
 
 /datum/map_template/shuttle/emergency/bar
@@ -257,7 +257,7 @@
 /datum/map_template/shuttle/emergency/discoinferno
 	suffix = "discoinferno"
 	name = "Disco Inferno"
-	description = "The glorious results of centuries of plasma research done by Genesis employees. This is the reason why you are here. Get on and dance like you're on fire, burn baby burn!" //GS13 - Nanotrasen to GATO
+	description = "The glorious results of centuries of plasma research done by Genesis employees. This is the reason why you are here. Get on and dance like you're on fire, burn baby burn!" //GS13 - Nanotrasen to Genesis
 	admin_notes = "Flaming hot. The main area has a dance machine as well as plasma floor tiles that will be ignited by players every single time."
 	credit_cost = 10000
 	// can_be_bought = FALSE
@@ -416,13 +416,13 @@
 /datum/map_template/shuttle/emergency/goon
 	suffix = "goon"
 	name = "NES Port"
-	description = "The Genesis Emergency Shuttle Port(NES Port for short) is a shuttle used at other less known Genesis facilities and has a more open inside for larger crowds, but fewer onboard shuttle facilities." //GS13 - Nanotrasen to GATO
+	description = "The Genesis Emergency Shuttle Port(NES Port for short) is a shuttle used at other less known Genesis facilities and has a more open inside for larger crowds, but fewer onboard shuttle facilities." //GS13 - Nanotrasen to Genesis
 	credit_cost = 500
 
 // /datum/map_template/shuttle/emergency/rollerdome
 // 	suffix = "rollerdome"
 // 	name = "Uncle Pete's Rollerdome"
-// 	description = "Developed by a member of GATO's R&D crew that claims to have travelled from the year 2028.
+// 	description = "Developed by a member of Genesis's R&D crew that claims to have travelled from the year 2028.
 // 	He says this shuttle is based off an old entertainment complex from the 1990s, though our database has no records on anything pertaining to that decade."
 // 	admin_notes = "ONLY NINETIES KIDS REMEMBER. Uses the fun balloon and drone from the Emergency Bar."
 // 	credit_cost = 500 * 5
@@ -581,7 +581,7 @@
 /datum/map_template/shuttle/emergency/cog
 	suffix = "cog"
 	name = "NES Classic"
-	description = "A blast from the past! This recreation of the Genesis Emergency Shuttle Port features the same focus on seating as the original, but on a slightly longer frame to better accommodate modern shuttle docks." //GS13 - Nanotrasen to GATO
+	description = "A blast from the past! This recreation of the Genesis Emergency Shuttle Port features the same focus on seating as the original, but on a slightly longer frame to better accommodate modern shuttle docks." //GS13 - Nanotrasen to Genesis
 	credit_cost = 750
 
 /datum/map_template/shuttle/arrival/box

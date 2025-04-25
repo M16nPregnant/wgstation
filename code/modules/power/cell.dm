@@ -196,7 +196,7 @@
 	start_charged = FALSE
 
 /obj/item/stock_parts/cell/crap
-	name = "\improper Genesis brand rechargeable AA battery" //GS13 - Nanotrasen to GATO
+	name = "\improper Genesis brand rechargeable AA battery" //GS13 - Nanotrasen to Genesis
 	desc = "You can't top the plasma top." //TOTALLY TRADEMARK INFRINGEMENT
 	maxcharge = 500
 	custom_materials = list(/datum/material/glass=40)

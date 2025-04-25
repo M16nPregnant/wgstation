@@ -9,7 +9,7 @@
 	fire_select_modes = list(SELECT_SEMI_AUTOMATIC, SELECT_BURST_SHOT, SELECT_FULLY_AUTOMATIC)
 
 /obj/item/gun/ballistic/automatic/proto
-	name = "\improper Genesis Saber SMG" //GS13 - Nanotrasen to GATO
+	name = "\improper Genesis Saber SMG" //GS13 - Nanotrasen to Genesis
 	desc = "A prototype three-round burst 9mm submachine gun, designated 'SABR'. Has a threaded barrel for suppressors."
 	icon_state = "saber"
 	fire_sound = "sound/weapons/gunshot_smg_alt.ogg"
@@ -212,7 +212,7 @@
 
 /obj/item/gun/ballistic/automatic/ar
 	name = "\improper GT-ARG 'Boarder'" //GS13 - NT to GT
-	desc = "A robust assault rifle used by Genesis fighting forces." //GS13 - Nanotrasen to GATO
+	desc = "A robust assault rifle used by Genesis fighting forces." //GS13 - Nanotrasen to Genesis
 	icon_state = "arg"
 	item_state = "arg"
 	slot_flags = 0
@@ -399,7 +399,7 @@
 
 /obj/item/gun/ballistic/automatic/laser
 	name = "laser rifle"
-	desc = "Though sometimes mocked for the relatively weak firepower of their energy weapons, the logistic miracle of rechargeable ammunition has given Genesis a decisive edge over many a foe." //GS13 - Nanotrasen to GATO
+	desc = "Though sometimes mocked for the relatively weak firepower of their energy weapons, the logistic miracle of rechargeable ammunition has given Genesis a decisive edge over many a foe." //GS13 - Nanotrasen to Genesis
 	icon_state = "oldrifle"
 	item_state = "arg"
 	mag_type = /obj/item/ammo_box/magazine/recharge

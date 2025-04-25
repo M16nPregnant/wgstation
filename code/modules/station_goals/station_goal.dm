@@ -12,8 +12,8 @@
 	var/report_message = "Complete this goal."
 
 /datum/station_goal/proc/send_report()
-	priority_announce("Priority Genesis directive received. Project \"[name]\" details inbound.", "Incoming Priority Message", SSstation.announcer.get_rand_report_sound()) //GS13 - Nanotrasen to GATO
-	print_command_report(get_report(),"GATO Directive [pick(GLOB.phonetic_alphabet)] \Roman[rand(1,50)]", announce=FALSE) //GS13 - Nanotrasen to GATO
+	priority_announce("Priority Genesis directive received. Project \"[name]\" details inbound.", "Incoming Priority Message", SSstation.announcer.get_rand_report_sound()) //GS13 - Nanotrasen to Genesis
+	print_command_report(get_report(),"Genesis Directive [pick(GLOB.phonetic_alphabet)] \Roman[rand(1,50)]", announce=FALSE) //GS13 - Nanotrasen to Genesis
 	on_report()
 
 /datum/station_goal/proc/on_report()

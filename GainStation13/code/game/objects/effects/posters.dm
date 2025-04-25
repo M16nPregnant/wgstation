@@ -23,7 +23,7 @@
 	icon = 'GainStation13/icons/obj/contraband.dmi'
 
 /obj/structure/sign/poster/official/gato_logo
-	name = "GATO Logo"
+	name = "Genesis Logo"
 	desc = "A poster of our glorious Genesis Corp!"
 	icon_state = "poster2_legit"
 	icon = 'GainStation13/icons/obj/contraband.dmi'
@@ -73,8 +73,8 @@
 	icon = 'GainStation13/icons/obj/contraband.dmi'
 
 /obj/structure/sign/poster/gato/lovegato
-	name = "GATO Poster"
-	desc = "A poster with the GATO's friendly feline mascot."
+	name = "Genesis Poster"
+	desc = "A poster with the Genesis's friendly feline mascot."
 	icon_state = "poster2_legit"
 	icon = 'GainStation13/icons/obj/contraband.dmi'
 

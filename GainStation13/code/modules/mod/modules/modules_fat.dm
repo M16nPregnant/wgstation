@@ -2,7 +2,7 @@
 	icon = 'GainStation13/icons/obj/clothing/modsuit/mod_modules.dmi'
 	icon_state = "hydraulic_mod"
 	name = "MOD hydraulic movement assistance module"
-	desc = "A module created by GATO, installed across the suit, featuring a system of hydraulic pistons \
+	desc = "A module created by Genesis, installed across the suit, featuring a system of hydraulic pistons \
 		that support and lighten vast amounts of excess weight to provide easier movement."
 	complexity = 1
 	incompatible_modules = list(/obj/item/mod/module/hydraulic_movement)
@@ -56,13 +56,13 @@
 	id = "mod_hydraulic"
 	materials = list(/datum/material/iron = 1000, /datum/material/glass = 200)
 	build_path = /obj/item/mod/module/hydraulic_movement
-	desc = "A GATO-designed module that supports plumper bodies and allows easier movement."
+	desc = "A Genesis-designed module that supports plumper bodies and allows easier movement."
 
 /obj/item/mod/module/calovoltaic
 	icon = 'GainStation13/icons/obj/clothing/modsuit/mod_modules.dmi'
 	icon_state = "calovoltaic_mod"
 	name = "MOD calovoltaic generator module"
-	desc = "A module created by GATO, capable of burning adipose tissue \
+	desc = "A module created by Genesis, capable of burning adipose tissue \
 		to generate power for the suit it is installed onto."
 	module_type = MODULE_TOGGLE
 	complexity = 1
@@ -97,7 +97,7 @@
 	id = "mod_calovoltaic"
 	materials = list(/datum/material/iron = 500, /datum/material/glass = 500, /datum/material/plasma = 500)
 	build_path = /obj/item/mod/module/calovoltaic
-	desc = "A GATO-designed module for burning excess fat to make power for your suit."
+	desc = "A Genesis-designed module for burning excess fat to make power for your suit."
 
 /obj/item/mod/construction/armor/exoskeleton
 	theme = /datum/mod_theme/exoskeleton
@@ -139,9 +139,9 @@
 /datum/mod_theme/exoskeleton
 	use_gs_icon = TRUE
 	name = "exoskeleton"
-	desc = "The design for a GATO-branded mobility exoskeleton"
+	desc = "The design for a Genesis-branded mobility exoskeleton"
 	extended_desc = "To combat the obesity epidemic that spreads on its stations, \
-		GATO scientists have worked hard to create this simple yet efficient way to support \
+		Genesis scientists have worked hard to create this simple yet efficient way to support \
 		people whose weight proves restrictive and help them on their journey to lose it."
 	default_skin = "exoskeleton"
 	complexity_max = 5
@@ -222,7 +222,7 @@
 	id = "mod_exoskeleton"
 	materials = list(/datum/material/iron = 5000, /datum/material/glass = 5000, /datum/material/plasma = 5000)
 	build_path = /obj/item/mod/control/pre_equipped/exoskeleton
-	desc = "A GATO-designed assistance exoskeleton based on MODsuit tech."
+	desc = "A Genesis-designed assistance exoskeleton based on MODsuit tech."
 	build_type = MECHFAB
 	construction_time = 10 SECONDS
 	category = list("MODsuit Chassis", "MODsuit Designs")

@@ -5,7 +5,7 @@
 	name = "MOD reagent scanner module"
 	desc = "A module based off research-oriented Genesis HUDs, this is capable of scanning the contents of \
 		containers and projecting the information in an easy-to-read format on the wearer's display. \
-		It cannot detect flavors, so that's up to you." //GS13 - Nanotrasen to GATO
+		It cannot detect flavors, so that's up to you." //GS13 - Nanotrasen to Genesis
 	icon_state = "scanner"
 	module_type = MODULE_TOGGLE
 	complexity = 1

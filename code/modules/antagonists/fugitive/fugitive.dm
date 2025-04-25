@@ -31,12 +31,12 @@
 	backstory = back_story
 	switch(backstory)
 		if("prisoner")
-			to_chat(owner, "<B>I can't believe we managed to break out of a Genesis superjail! Sadly though, our work is not done. The emergency teleport at the station logs everyone who uses it, and where they went.</B>") //GS13 - Nanotrasen to GATO
-			to_chat(owner, "<B>It won't be long until CentCom tracks where we've gone off to. I need to work with my fellow escapees to prepare for the troops Genesis is sending, I'm not going back.</B>") //GS13 - Nanotrasen to GATO
+			to_chat(owner, "<B>I can't believe we managed to break out of a Genesis superjail! Sadly though, our work is not done. The emergency teleport at the station logs everyone who uses it, and where they went.</B>") //GS13 - Nanotrasen to Genesis
+			to_chat(owner, "<B>It won't be long until CentCom tracks where we've gone off to. I need to work with my fellow escapees to prepare for the troops Genesis is sending, I'm not going back.</B>") //GS13 - Nanotrasen to Genesis
 		if("cultist")
 			to_chat(owner, "<B>Blessed be our journey so far, but I fear the worst has come to our doorstep, and only those with the strongest faith will survive.</B>")
-			to_chat(owner, "<B>Our religion has been repeatedly culled by Genesis because it is categorized as an \"Enemy of the Corporation\", whatever that means.</B>") //GS13 - Nanotrasen to GATO
-			to_chat(owner, "<B>Now there are only four of us left, and Genesis is coming. When will our god show itself to save us from this hellish station?!</B>") //GS13 - Nanotrasen to GATO
+			to_chat(owner, "<B>Our religion has been repeatedly culled by Genesis because it is categorized as an \"Enemy of the Corporation\", whatever that means.</B>") //GS13 - Nanotrasen to Genesis
+			to_chat(owner, "<B>Now there are only four of us left, and Genesis is coming. When will our god show itself to save us from this hellish station?!</B>") //GS13 - Nanotrasen to Genesis
 		if("waldo")
 			to_chat(owner, "<B>Hi, Friends!</B>")
 			to_chat(owner, "<B>My name is Waldo. I'm just setting off on a galaxywide hike. You can come too. All you have to do is find me.</B>")

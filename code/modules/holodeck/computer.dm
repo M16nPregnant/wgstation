@@ -192,7 +192,7 @@
 	playsound(src, "sparks", 75, TRUE)
 	obj_flags |= EMAGGED
 	to_chat(user, "<span class='warning'>You vastly increase projector power and override the safety and security protocols.</span>")
-	say("Warning. Automatic shutoff and derezzing protocols have been corrupted. Please call Genesis maintenance and do not use the simulator.") //GS13 - Nanotrasen to GATO
+	say("Warning. Automatic shutoff and derezzing protocols have been corrupted. Please call Genesis maintenance and do not use the simulator.") //GS13 - Nanotrasen to Genesis
 	log_game("[key_name(user)] emagged the Holodeck Control Console")
 	message_admins("[ADMIN_LOOKUPFLW(user)] emagged the Holodeck Control Console.")
 	nerf(!(obj_flags & EMAGGED))
