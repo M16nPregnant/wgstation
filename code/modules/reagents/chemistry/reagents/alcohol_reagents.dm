@@ -1040,7 +1040,7 @@ All effects don't start immediately, but rather get worse over time; the rate is
 
 /datum/reagent/consumable/ethanol/grog
 	name = "Grog"
-	description = "Watered down rum, GATO approves!" //GS13 - Nanotrasen to GATO
+	description = "Watered down rum, Genesis approves!" //GS13 - Nanotrasen to GATO
 	color = "#664300" // rgb: 102, 67, 0
 	boozepwr = 1 //Basically nothing
 	taste_description = "a poor excuse for alcohol"
@@ -1095,7 +1095,7 @@ All effects don't start immediately, but rather get worse over time; the rate is
 
 /datum/reagent/consumable/ethanol/amasec
 	name = "Amasec"
-	description = "Official drink of the GATO Gun-Club!" //GS13 - Nanotrasen to GATO
+	description = "Official drink of the Genesis Gun-Club!" //GS13 - Nanotrasen to GATO
 	color = "#664300" // rgb: 102, 67, 0
 	boozepwr = 35
 	quality = DRINK_GOOD

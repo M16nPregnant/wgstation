@@ -25,7 +25,7 @@
 
 /obj/machinery/computer/secure_data/laptop
 	name = "security laptop"
-	desc = "A cheap GATO security laptop, it functions as a security records console. It's bolted to the table." //GS13 - Nanotrasen to GATO
+	desc = "A cheap Genesis security laptop, it functions as a security records console. It's bolted to the table." //GS13 - Nanotrasen to GATO
 	icon_state = "laptop"
 	icon_screen = "seclaptop"
 	icon_keyboard = "laptop_key"

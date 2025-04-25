@@ -95,7 +95,7 @@
 	id = "derelict6"
 	suffix = "derelict6.dmm"
 	name = "Derelict 6"
-	description = "The hush-hush of GATO when it comes to stations seemingly vanishing off the radar is an interesting topic, theories of nuclear destruction float about while GATO \
+	description = "The hush-hush of Genesis when it comes to stations seemingly vanishing off the radar is an interesting topic, theories of nuclear destruction float about while Genesis \
 	flat-out denies said stations ever existing." //GS13 - Nanotrasen to GATO
 
 /datum/map_template/ruin/space/empty_shell

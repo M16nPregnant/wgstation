@@ -58,7 +58,7 @@
 
 /obj/structure/showcase/mecha/marauder
 	name = "combat mech exhibit"
-	desc = "A stand with an empty old GATO Corporation combat mech bolted to it. It is described as the premier unit used to defend corporate interests and employees." //GS13 - Nanotrasen to GATO
+	desc = "A stand with an empty old Genesis Corporation combat mech bolted to it. It is described as the premier unit used to defend corporate interests and employees." //GS13 - Nanotrasen to GATO
 	icon = 'icons/mecha/mecha.dmi'
 	icon_state = "marauder"
 
@@ -70,7 +70,7 @@
 
 /obj/structure/showcase/machinery/implanter
 	name = "GATO automated mindshield implanter exhibit" //GS13 - Nanotrasen to GATO
-	desc = "A flimsy model of a standard GATO automated mindshield implant machine. With secure positioning harnesses and a robotic surgical injector, brain damage and other serious medical anomalies are now up to 60% less likely!" //GS13 - Nanotrasen to GATO
+	desc = "A flimsy model of a standard Genesis automated mindshield implant machine. With secure positioning harnesses and a robotic surgical injector, brain damage and other serious medical anomalies are now up to 60% less likely!" //GS13 - Nanotrasen to GATO
 	icon = 'icons/obj/machines/implantchair.dmi'
 	icon_state = "implantchair"
 
@@ -82,17 +82,17 @@
 
 /obj/structure/showcase/machinery/cloning_pod
 	name = "cloning pod exhibit"
-	desc = "Signs describe how cloning pods like these ensure that every GATO employee can carry out their contracts in full, even in the unlikely event of their catastrophic death. Hopefully they aren't all made of cardboard, like this one." //GS13 - Nanotrasen to GATO
+	desc = "Signs describe how cloning pods like these ensure that every Genesis employee can carry out their contracts in full, even in the unlikely event of their catastrophic death. Hopefully they aren't all made of cardboard, like this one." //GS13 - Nanotrasen to GATO
 	icon = 'icons/obj/machines/cloning.dmi'
 	icon_state = "pod_0"
 
 /obj/structure/showcase/perfect_employee
 	name = "'Perfect Man' employee exhibit"
-	desc = "A stand with a model of the perfect GATO Employee bolted to it. Signs indicate it is robustly genetically engineered, as well as being ruthlessly loyal." //GS13 - Nanotrasen to GATO
+	desc = "A stand with a model of the perfect Genesis Employee bolted to it. Signs indicate it is robustly genetically engineered, as well as being ruthlessly loyal." //GS13 - Nanotrasen to GATO
 
 /obj/structure/showcase/machinery/tv
 	name = "GATO corporate newsfeed" //GS13 - Nanotrasen to GATO
-	desc = "A slightly battered looking TV. Various GATO infomercials play on a loop, accompanied by a jaunty tune." //GS13 - Nanotrasen to GATO
+	desc = "A slightly battered looking TV. Various Genesis infomercials play on a loop, accompanied by a jaunty tune." //GS13 - Nanotrasen to GATO
 	icon = 'icons/obj/computer.dmi'
 	icon_state = "television"
 

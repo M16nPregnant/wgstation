@@ -65,7 +65,7 @@ datum/bounty/lewd/fluid/New() //GS13 made some edits here that changes stuff int
             reagent_type = /datum/reagent/consumable/milk
             wanted_reagent = new reagent_type
             name = wanted_reagent.name
-            description = "The GATO annual bake sale is soon, and all of our milk has expired. Help us out." //GS13
+            description = "The Genesis annual bake sale is soon, and all of our milk has expired. Help us out." //GS13
             reward += rand(10, 17) * 500 //Milk is generally easier to get. Make the reward a little lower.
         if(15,16) //A little romance
             var/static/list/possible_reagents = list(\

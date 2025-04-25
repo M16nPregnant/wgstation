@@ -151,7 +151,7 @@
 			desc = "It's a black ink pen, modified for use with both paper and Nanotransen-brand Digital-Readpads™!"
 		if(41 to 50)
 			name = "newspaper"
-			desc = "An issue of The Catpaw, the newspaper circulating aboard GATO stations."
+			desc = "An issue of The Catpaw, the newspaper circulating aboard Genesis stations."
 			icon = 'icons/obj/bureaucracy.dmi'
 			icon_state = "newspaper"
 		if(51 to 60)
@@ -249,7 +249,7 @@
 	var/consuming = FALSE
 	health = 38 //They have a teeeny tiny more health.
 	maxHealth = 38
-	
+
 /mob/living/simple_animal/hostile/hs13mimic/leader/Life()
 	. = ..()
 	if(!consuming)
@@ -322,24 +322,24 @@
 
 /datum/round_event/mimic_infestation
 	announceWhen = 200
-	var/static/list/mimic_station_areas_blacklist = typecacheof(/area/space, 
+	var/static/list/mimic_station_areas_blacklist = typecacheof(/area/space,
 	/area/shuttle,
-	/area/mine, 
-	/area/holodeck, 
-	/area/ruin, 
-	/area/hallway, 
-	/area/hallway/primary, 
-	/area/hallway/secondary, 
+	/area/mine,
+	/area/holodeck,
+	/area/ruin,
+	/area/hallway,
+	/area/hallway/primary,
+	/area/hallway/secondary,
 	/area/hallway/secondary/entry,
-	/area/engine/supermatter, 
-	/area/engine/atmospherics_engine, 
-	/area/engine/engineering/reactor_core, 
-	/area/engine/engineering/reactor_control, 
+	/area/engine/supermatter,
+	/area/engine/atmospherics_engine,
+	/area/engine/engineering/reactor_core,
+	/area/engine/engineering/reactor_control,
 	/area/ai_monitored/turret_protected,
-	/area/layenia/cloudlayer, 
-	/area/asteroid/nearstation, 
-	/area/science/server, 
-	/area/science/explab, 
+	/area/layenia/cloudlayer,
+	/area/asteroid/nearstation,
+	/area/science/server,
+	/area/science/explab,
 	/area/science/xenobiology,
 	/area/security/processing)
 	var/spawncount = 1

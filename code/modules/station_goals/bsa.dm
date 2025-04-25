@@ -63,7 +63,7 @@
 
 /obj/machinery/bsa/middle
 	name = "Bluespace Artillery Fusor"
-	desc = "Contents classified by GATO Naval Command. Needs to be linked with the other BSA parts using multitool." //GS13 - Nanotrasen to GATO
+	desc = "Contents classified by Genesis Naval Command. Needs to be linked with the other BSA parts using multitool." //GS13 - Nanotrasen to GATO
 	icon_state = "fuel_chamber"
 	var/obj/machinery/bsa/back/back
 	var/obj/machinery/bsa/front/front

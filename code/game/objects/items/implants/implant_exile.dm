@@ -8,7 +8,7 @@
 
 /obj/item/implant/exile/get_data() //GS13 - Nanotrasen to GATO
 	var/dat = {"<b>Implant Specifications:</b><BR>
-				<b>Name:</b> GATO Employee Exile Implant<BR>
+				<b>Name:</b> Genesis Employee Exile Implant<BR>
 				<b>Implant Details:</b> The onboard gateway system has been modified to reject entry by individuals containing this implant<BR>"}
 	return dat
 

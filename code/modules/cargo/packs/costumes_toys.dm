@@ -299,7 +299,7 @@
 
 /datum/supply_pack/costumes_toys/wizard
 	name = "Wizard Costume Crate"
-	desc = "Pretend to join the Wizard Federation with this full wizard outfit! GATO would like to remind its employees that actually joining the Wizard Federation is subject to termination of job and life." //GS13 - Nanotrasen to GATO
+	desc = "Pretend to join the Wizard Federation with this full wizard outfit! Genesis would like to remind its employees that actually joining the Wizard Federation is subject to termination of job and life." //GS13 - Nanotrasen to GATO
 	cost = 2000
 	contains = list(/obj/item/staff,
 					/obj/item/clothing/suit/wizrobe/fake,

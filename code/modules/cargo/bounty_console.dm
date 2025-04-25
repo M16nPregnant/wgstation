@@ -1,7 +1,7 @@
 #define PRINTER_TIMEOUT 10
 
 /obj/machinery/computer/bounty
-	name = "\improper GATO bounty console" //GS13 - Nanotrasen to GATO
+	name = "\improper Genesis bounty console" //GS13 - Nanotrasen to GATO
 	desc = "Used to check and claim bounties offered by GATO" //GS13 - Nanotrasen to GATO
 	icon_screen = "bounty"
 	circuit = /obj/item/circuitboard/computer/bounty

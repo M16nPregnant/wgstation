@@ -44,8 +44,8 @@
 
 /datum/uplink_item/suits/space_suit
 	name = "Syndicate Space Suit"
-	desc = "This red and black Syndicate space suit is less encumbering than GATO variants, \
-			fits inside bags, and has a weapon slot. GATO crew members are trained to report red space suit \
+	desc = "This red and black Syndicate space suit is less encumbering than Genesis variants, \
+			fits inside bags, and has a weapon slot. Genesis crew members are trained to report red space suit \
 			sightings, however." //GS13 - Nanotrasen to GATO
 	item = /obj/item/storage/box/syndie_kit/space
 	cost = 4

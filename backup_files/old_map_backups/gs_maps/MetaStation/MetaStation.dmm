@@ -71872,7 +71872,7 @@
 	icon_state = "4-8"
 	},
 /obj/machinery/nuclearbomb/beer{
-	desc = "One of the more successful achievements of the GATO Corporate Warfare Division, their nuclear fission explosives are renowned for being cheap to produce and devastatingly effective. Signs explain that though this particular device has been decommissioned, every Genesis station is equipped with an equivalent one, just in case. All Captains carefully guard the disk needed to detonate them - at least, the sign says they do. There seems to be a tap on the back.";
+	desc = "One of the more successful achievements of the Genesis Corporate Warfare Division, their nuclear fission explosives are renowned for being cheap to produce and devastatingly effective. Signs explain that though this particular device has been decommissioned, every Genesis station is equipped with an equivalent one, just in case. All Captains carefully guard the disk needed to detonate them - at least, the sign says they do. There seems to be a tap on the back.";
 	name = "GATO-brand nuclear fission explosive";
 	pixel_x = 2;
 	pixel_y = 6
@@ -80280,7 +80280,7 @@
 "wzo" = (
 /obj/structure/showcase/perfect_employee,
 /obj/structure/sign/plaques/kiddie/perfect_man{
-	desc = "A guide to the exhibit, explaining how recent developments in mindshield implant and cloning technologies by GATO have led to the development and the effective immortality of the 'perfect man', the loyal GATO Employee.";
+	desc = "A guide to the exhibit, explaining how recent developments in mindshield implant and cloning technologies by Genesis have led to the development and the effective immortality of the 'perfect man', the loyal Genesis Employee.";
 	pixel_y = 32
 	},
 /obj/structure/window/reinforced,
@@ -83347,7 +83347,7 @@
 /area/medical/morgue)
 "ydB" = (
 /obj/structure/showcase/machinery/microwave{
-	desc = "The famous GATO microwave, the multi-purpose cooking appliance every station needs! This one appears to be drawn onto a cardboard box.";
+	desc = "The famous Genesis microwave, the multi-purpose cooking appliance every station needs! This one appears to be drawn onto a cardboard box.";
 	dir = 1;
 	pixel_y = 2
 	},

@@ -562,7 +562,7 @@
 
 /obj/item/clothing/accessory/pride
 	name = "pride pin"
-	desc = "A GATO Diversity & Inclusion Center-sponsored holographic pin to show off your pride of sexuality or gender identity, reminding the crew of their unwavering commitment to equity, diversity, and inclusion!" //GS13 - Nanotrasen to GATO
+	desc = "A Genesis Diversity & Inclusion Center-sponsored holographic pin to show off your pride of sexuality or gender identity, reminding the crew of their unwavering commitment to equity, diversity, and inclusion!" //GS13 - Nanotrasen to GATO
 	icon_state = "pride"
 	above_suit = TRUE
 	obj_flags = UNIQUE_RENAME

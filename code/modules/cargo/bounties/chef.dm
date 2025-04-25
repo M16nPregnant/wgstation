@@ -2,7 +2,7 @@
 
 /datum/bounty/item/chef/soup
 	name = "Soup"
-	description = "To quell the homeless uprising, GATO will be serving soup to all underpaid workers. Ship any type of soup. Do NOT ship bowls of water." //GS13 - Nanotrasen to GATO
+	description = "To quell the homeless uprising, Genesis will be serving soup to all underpaid workers. Ship any type of soup. Do NOT ship bowls of water." //GS13 - Nanotrasen to GATO
 	reward = 1200
 	required_count = 4
 	wanted_types = list(/obj/item/reagent_containers/food/snacks/soup)
@@ -81,7 +81,7 @@
 
 /datum/bounty/item/chef/pancakes
 	name = "Pancakes"
-	description = "Here at GATO we consider employees to be family. And you know what families love? Pancakes. Ship a baker's dozen." //GS13 - Nanotrasen to GATO
+	description = "Here at Genesis we consider employees to be family. And you know what families love? Pancakes. Ship a baker's dozen." //GS13 - Nanotrasen to GATO
 	reward = 4000
 	required_count = 13
 	wanted_types = list(/datum/crafting_recipe/food/pancakes)

@@ -42,7 +42,7 @@
 
 /datum/supply_pack/misc/book_crate
 	name = "Book Crate"
-	desc = "Surplus from the GATO Archives, these seven books are sure to be good reads." //GS13 - Nanotrasen to GATO
+	desc = "Surplus from the Genesis Archives, these seven books are sure to be good reads." //GS13 - Nanotrasen to GATO
 	// cost = CARGO_CRATE_VALUE * 3
 	cost = 1500
 	contains = list(/obj/item/book/codex_gigas,

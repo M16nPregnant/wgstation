@@ -1,9 +1,9 @@
-//most of those are probably recolors, but this is just generally GATO / GS13 stuff
+//most of those are probably recolors, but this is just generally Genesis / GS13 stuff
 
 
 /obj/item/clothing/suit/jacket/letterman_gato
 	name = "GATO letterman jacket"
-	desc = "A GATO themed letterman jacket. Perfect for repping your pride in the company as you violently murder russian mobsters"
+	desc = "A Genesis themed letterman jacket. Perfect for repping your pride in the company as you violently murder russian mobsters"
 	icon = 'GainStation13/icons/mob/suits.dmi'
 	mob_overlay_icon = 'GainStation13/icons/mob/suits.dmi'
 	icon_state = "letterman_gato"
@@ -57,7 +57,7 @@
 
 /obj/item/clothing/suit/space/hardsuit/ert/alert/gato
 	name = "GATO Hardsuit"
-	desc = "Exclusive variant of a hardsuit, primarily reserved for CC GATO personnel."
+	desc = "Exclusive variant of a hardsuit, primarily reserved for CC Genesis personnel."
 	icon = 'GainStation13/icons/mob/suits.dmi'
 	mob_overlay_icon = 'GainStation13/icons/mob/suits.dmi'
 	icon_state = "gato_hardsuit"

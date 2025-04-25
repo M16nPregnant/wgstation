@@ -234,7 +234,7 @@
 
 /datum/tcg_card/pack_1/cyborg_engi
 	name = "Cyborg (Engineering Shell)"
-	desc = "A common sight on GATO Stations Engineering Shells maintain critical station systems in hazardous conditions." //GS13 - Nanotrasen to GATO
+	desc = "A common sight on Genesis Stations Engineering Shells maintain critical station systems in hazardous conditions." //GS13 - Nanotrasen to GATO
 	rules = "Asimov."
 	icon_state = "borg_engi"
 
@@ -336,7 +336,7 @@
 
 /datum/tcg_card/pack_1/assistant
 	name = "Assistant"
-	desc = "The lowest ladder on the GATO Employment Ladder, Assistants are employed to help out with tasks deemed 'too menial for robots'." //GS13 - Nanotrasen to GATO
+	desc = "The lowest ladder on the Genesis Employment Ladder, Assistants are employed to help out with tasks deemed 'too menial for robots'." //GS13 - Nanotrasen to GATO
 	rules = "Greytide."
 	icon_state = "assistant"
 
@@ -350,7 +350,7 @@
 
 /datum/tcg_card/pack_1/greytider
 	name = "Greytider"
-	desc = "The lowest ladder on the GATO Employment Ladder, Assistants are employed to help out with tasks deemed 'too menial for robots'." //GS13 - Nanotrasen to GATO
+	desc = "The lowest ladder on the Genesis Employment Ladder, Assistants are employed to help out with tasks deemed 'too menial for robots'." //GS13 - Nanotrasen to GATO
 	rules = "Greytide. Instead of getting +1/+1 on the first turn, get it permanently."
 	icon_state = "greytider"
 
@@ -462,7 +462,7 @@
 
 /datum/tcg_card/pack_1/clown
 	name = "Clown"
-	desc = "Every GATO station has a clown on board as high command believes that a source of entertainment will reduce instances of murder-suicide on board Spinward Stations. The results of this hypothesis are as of yet unproven." //GS13 - Nanotrasen to GATO
+	desc = "Every Genesis station has a clown on board as high command believes that a source of entertainment will reduce instances of murder-suicide on board Spinward Stations. The results of this hypothesis are as of yet unproven." //GS13 - Nanotrasen to GATO
 	rules = "Taunt. When killed, attacking creature dies as well"
 	icon_state = "clown"
 
@@ -504,7 +504,7 @@
 
 /datum/tcg_card/pack_1/cook
 	name = "Cook"
-	desc = "Every GATO chef is trained in 3 cuisines of their choosing upon being hired alongside the closely guarded secret of Close Quarters Cooking." //GS13 - Nanotrasen to GATO
+	desc = "Every Genesis chef is trained in 3 cuisines of their choosing upon being hired alongside the closely guarded secret of Close Quarters Cooking." //GS13 - Nanotrasen to GATO
 	rules = "First Strike. When attacked, gain +1/0."
 	icon_state = "cook"
 
@@ -518,7 +518,7 @@
 
 /datum/tcg_card/pack_1/curator
 	name = "Curator"
-	desc = "In GATO polls the Curator has ranked as the most pointless job on station much to the ire of the Curator's union. Thankfully we don't have to listen to them." //GS13 - Nanotrasen to GATO
+	desc = "In Genesis polls the Curator has ranked as the most pointless job on station much to the ire of the Curator's union. Thankfully we don't have to listen to them." //GS13 - Nanotrasen to GATO
 	rules = "On Summon: Draw a card. If it's a spell, discard it."
 	icon_state = "curator"
 
@@ -610,7 +610,7 @@
 
 /datum/tcg_card/pack_1/scientist
 	name = "Scientist"
-	desc = "Rumours that GATO hires 'mad scientists' are greatly exaggerated. Scientists are regularly screened to ensure that their insanity remains within acceptable limits." //GS13 - Nanotrasen to GATO
+	desc = "Rumours that Genesis hires 'mad scientists' are greatly exaggerated. Scientists are regularly screened to ensure that their insanity remains within acceptable limits." //GS13 - Nanotrasen to GATO
 	rules = "When this card is targeted by an opponent's single target spell you gain 1 lifeshard."
 	icon_state = "scientist"
 
@@ -624,7 +624,7 @@
 
 /datum/tcg_card/pack_1/scientist_moth
 	name = "Scientist(Moth)"
-	desc = "Moths are a common sight in GATO research departments acting as integral ideas guys for new clothing designs and lighting innovations." //GS13 - Nanotrasen to GATO
+	desc = "Moths are a common sight in Genesis research departments acting as integral ideas guys for new clothing designs and lighting innovations." //GS13 - Nanotrasen to GATO
 	rules = ""
 	icon_state = "scientist_moth"
 
@@ -638,7 +638,7 @@
 
 /datum/tcg_card/pack_1/roboticist
 	name = "Roboticist"
-	desc = "The roboticist's work is as close as GATO legally allows its employees to come to necromancy." //GS13 - Nanotrasen to GATO
+	desc = "The roboticist's work is as close as Genesis legally allows its employees to come to necromancy." //GS13 - Nanotrasen to GATO
 	rules = "If a Asimov card on your side of the field is destroyed you may pay 2 mana and tap this card: Return that card to your hand."
 	icon_state = "roboticist"
 
@@ -666,7 +666,7 @@
 
 /datum/tcg_card/pack_1/geneticist
 	name = "Geneticist"
-	desc = "Geneticists are tasked with manipulating human DNA to produce special effects. GATO maintains a strict 'no superhero' policy for mutations following the Superhero Civil War of 2150." //GS13 - Nanotrasen to GATO
+	desc = "Geneticists are tasked with manipulating human DNA to produce special effects. Genesis maintains a strict 'no superhero' policy for mutations following the Superhero Civil War of 2150." //GS13 - Nanotrasen to GATO
 	rules = "Tap this card and pay 3 mana: Give a friendly creature Human until this card leaves the field."
 	icon_state = "geneticist"
 
@@ -888,7 +888,7 @@
 
 /datum/tcg_card/pack_1/quartermaster
 	name = "Quartermaster"
-	desc = "Every GATO station has a Quartermaster who controls the flow of cargo to and from the station and by extension to and from the hands of the crew. He's not given the distinction of being a head though. His job isn't hard enough." //GS13 - Nanotrasen to GATO
+	desc = "Every Genesis station has a Quartermaster who controls the flow of cargo to and from the station and by extension to and from the hands of the crew. He's not given the distinction of being a head though. His job isn't hard enough." //GS13 - Nanotrasen to GATO
 	rules = "Permanently tap this card. All cargo cards on your side gain +2/+2 until this card leaves the play."
 	icon_state = "quartermaster"
 
@@ -902,7 +902,7 @@
 
 /datum/tcg_card/pack_1/explorer
 	name = "Explorer"
-	desc = "The GATO Explorers Corps boldly goes where humanity has never gone before. Or would if they weren't buried under mounds of bureaucracy." //GS13 - Nanotrasen to GATO
+	desc = "The Genesis Explorers Corps boldly goes where humanity has never gone before. Or would if they weren't buried under mounds of bureaucracy." //GS13 - Nanotrasen to GATO
 	rules = "Tap this card: Flip a coin if heads gain 4 mana this turn, if tails tap this card for 2 turns."
 	icon_state = "explorer"
 
@@ -920,7 +920,7 @@
 
 /datum/tcg_card/pack_1/intern
 	name = "Intern"
-	desc = "All GATO interns come with 3 things: A resume a desire to learn and vague promises that they're getting paid at some point. So don't be too rough on them." //GS13 - Nanotrasen to GATO
+	desc = "All Genesis interns come with 3 things: A resume a desire to learn and vague promises that they're getting paid at some point. So don't be too rough on them." //GS13 - Nanotrasen to GATO
 	rules = "First Strike. Greytide."
 	icon_state = "intern"
 
@@ -1372,7 +1372,7 @@
 
 /datum/tcg_card/pack_1/tough_choices
 	name = "Tough Choices"
-	desc = "Every GATO employee will at some point be forced to make a tough choice. Make sure you make the right one!" //GS13 - Nanotrasen to GATO
+	desc = "Every Genesis employee will at some point be forced to make a tough choice. Make sure you make the right one!" //GS13 - Nanotrasen to GATO
 	rules = "Draw the top three cards from your deck. Summon one at no cost and discard the other two."
 	icon_state = "tough_choices"
 

@@ -1,4 +1,4 @@
-/////GS13 - reflavoring of random items into GATO corp, mostly seperated variants so we don't overwrite NT
+/////GS13 - reflavoring of random items into Genesis corp, mostly seperated variants so we don't overwrite NT
 
 /obj/item/storage/fancy/cigarettes/gatito
 	name = "\improper Ichor Sticks"

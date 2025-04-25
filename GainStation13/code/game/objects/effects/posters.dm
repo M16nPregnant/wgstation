@@ -1,12 +1,12 @@
 /obj/structure/sign/poster/official/gatito
 	name = "Gato Poster"
-	desc = "A poster from the Gato company, it reads: 'Remember to take care of your station!' "
+	desc = "A poster from the Genesis company, it reads: 'Remember to take care of your station!' "
 	icon_state = "gato13"
 	icon = 'GainStation13/icons/obj/contraband.dmi'
 
 /obj/structure/sign/poster/official/captainposter
 	name = "Respect your captain poster"
-	desc = "A poster from the Gato company, it reads: 'Your captain is always watching, do not do anything suspicious.' "
+	desc = "A poster from the Genesis company, it reads: 'Your captain is always watching, do not do anything suspicious.' "
 	icon_state = "capitan"
 	icon = 'GainStation13/icons/obj/contraband.dmi'
 
@@ -24,7 +24,7 @@
 
 /obj/structure/sign/poster/official/gato_logo
 	name = "GATO Logo"
-	desc = "A poster of our glorious GATO Corp!"
+	desc = "A poster of our glorious Genesis Corp!"
 	icon_state = "poster2_legit"
 	icon = 'GainStation13/icons/obj/contraband.dmi'
 

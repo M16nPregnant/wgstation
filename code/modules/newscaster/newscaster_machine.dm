@@ -108,7 +108,7 @@ GLOBAL_LIST_EMPTY(allCasters)
 		switch(screen)
 			if(0) //GS13 - Nanotrasen to GATO
 				dat += "Welcome to Newscasting Unit #[unit_no].<BR> Interface & News networks Operational."
-				dat += "<BR><FONT SIZE=1>Property of GATO Inc</FONT>"
+				dat += "<BR><FONT SIZE=1>Property of Genesis Inc</FONT>"
 				if(GLOB.news_network.wanted_issue.active)
 					dat+= "<HR><A href='?src=[REF(src)];view_wanted=1'>Read Wanted Issue</A>"
 				dat+= "<HR><BR><A href='?src=[REF(src)];create_channel=1'>Create Feed Channel</A>"
@@ -124,7 +124,7 @@ GLOBAL_LIST_EMPTY(allCasters)
 					dat+="<HR><B>Feed Security functions:</B><BR>"
 					dat+="<BR><A href='?src=[REF(src)];menu_wanted=1'>[(wanted_already) ? ("Manage") : ("Publish")] \"Wanted\" Issue</A>"
 					dat+="<BR><A href='?src=[REF(src)];menu_censor_story=1'>Censor Feed Stories</A>"
-					dat+="<BR><A href='?src=[REF(src)];menu_censor_channel=1'>Mark Feed Channel with GATO D-Notice</A>"
+					dat+="<BR><A href='?src=[REF(src)];menu_censor_channel=1'>Mark Feed Channel with Genesis D-Notice</A>"
 				dat+="<BR><HR>The newscaster recognises you as: <FONT COLOR='green'>[scanned_user]</FONT>"
 			if(1)
 				dat+= "Station Feed Channels<HR>"
@@ -205,7 +205,7 @@ GLOBAL_LIST_EMPTY(allCasters)
 			if(9)
 				dat+="<B>[viewing_channel.channel_name]: </B><FONT SIZE=1>\[created by: <FONT COLOR='maroon'>[viewing_channel.returnAuthor(-1)]</FONT>\]</FONT><HR>"
 				if(viewing_channel.censored)
-					dat+="<FONT COLOR='red'><B>ATTENTION: </B></FONT>This channel has been deemed as threatening to the welfare of the station, and marked with a GATO D-Notice.<BR>"
+					dat+="<FONT COLOR='red'><B>ATTENTION: </B></FONT>This channel has been deemed as threatening to the welfare of the station, and marked with a Genesis D-Notice.<BR>"
 					dat+="No further feed story additions are allowed while the D-Notice is in effect.</FONT><BR><BR>"
 				else
 					if( isemptylist(viewing_channel.messages) )
@@ -270,7 +270,7 @@ GLOBAL_LIST_EMPTY(allCasters)
 				dat+="<B>[viewing_channel.channel_name]: </B><FONT SIZE=1>\[ created by: <FONT COLOR='maroon'>[viewing_channel.returnAuthor(-1)]</FONT> \]</FONT><BR>"
 				dat+="Channel messages listed below. If you deem them dangerous to the station, you can <A href='?src=[REF(src)];toggle_d_notice=[REF(viewing_channel)]'>Bestow a D-Notice upon the channel</A>.<HR>"
 				if(viewing_channel.censored)
-					dat+="<FONT COLOR='red'><B>ATTENTION: </B></FONT>This channel has been deemed as threatening to the welfare of the station, and marked with a GATO D-Notice.<BR>"
+					dat+="<FONT COLOR='red'><B>ATTENTION: </B></FONT>This channel has been deemed as threatening to the welfare of the station, and marked with a Genesis D-Notice.<BR>"
 					dat+="No further feed story additions are allowed while the D-Notice is in effect.</FONT><BR><BR>"
 				else
 					if(isemptylist(viewing_channel.messages))
@@ -450,14 +450,14 @@ GLOBAL_LIST_EMPTY(allCasters)
 						screen = 15
 					else
 						if(GLOB.news_network.wanted_issue.isAdminMsg)
-							alert("The wanted issue has been distributed by a GATO higherup. You cannot edit it.","Ok") //GS13 - Nanotrasen to GATO
+							alert("The wanted issue has been distributed by a Genesis higherup. You cannot edit it.","Ok") //GS13 - Nanotrasen to GATO
 							return
 						GLOB.news_network.submitWanted(channel_name, msg, scanned_user, picture)
 						screen = 19
 			updateUsrDialog()
 		else if(href_list["cancel_wanted"])
 			if(GLOB.news_network.wanted_issue.isAdminMsg)
-				alert("The wanted issue has been distributed by a GATO higherup. You cannot take it down.","Ok") //GS13 - Nanotrasen to GATO
+				alert("The wanted issue has been distributed by a Genesis higherup. You cannot take it down.","Ok") //GS13 - Nanotrasen to GATO
 				return
 			var/choice = alert("Please confirm Wanted Issue removal","Network Security Handler","Confirm","Cancel")
 			if(choice=="Confirm")
@@ -470,21 +470,21 @@ GLOBAL_LIST_EMPTY(allCasters)
 		else if(href_list["censor_channel_author"])
 			var/datum/news/feed_channel/FC = locate(href_list["censor_channel_author"])
 			if(FC.is_admin_channel)
-				alert("This channel was created by a GATO Officer. You cannot censor it.","Ok") //GS13 - Nanotrasen to GATO
+				alert("This channel was created by a Genesis Officer. You cannot censor it.","Ok") //GS13 - Nanotrasen to GATO
 				return
 			FC.toggleCensorAuthor()
 			updateUsrDialog()
 		else if(href_list["censor_channel_story_author"])
 			var/datum/news/feed_message/MSG = locate(href_list["censor_channel_story_author"])
 			if(MSG.is_admin_message)
-				alert("This message was created by a GATO Officer. You cannot censor its author.","Ok") //GS13 - Nanotrasen to GATO
+				alert("This message was created by a Genesis Officer. You cannot censor its author.","Ok") //GS13 - Nanotrasen to GATO
 				return
 			MSG.toggleCensorAuthor()
 			updateUsrDialog()
 		else if(href_list["censor_channel_story_body"])
 			var/datum/news/feed_message/MSG = locate(href_list["censor_channel_story_body"])
 			if(MSG.is_admin_message)
-				alert("This channel was created by a GATO Officer. You cannot censor it.","Ok") //GS13 - Nanotrasen to GATO
+				alert("This channel was created by a Genesis Officer. You cannot censor it.","Ok") //GS13 - Nanotrasen to GATO
 				return
 			MSG.toggleCensorBody()
 			updateUsrDialog()
@@ -496,7 +496,7 @@ GLOBAL_LIST_EMPTY(allCasters)
 		else if(href_list["toggle_d_notice"])
 			var/datum/news/feed_channel/FC = locate(href_list["toggle_d_notice"])
 			if(FC.is_admin_channel)
-				alert("This channel was created by a GATO Officer. You cannot place a D-Notice upon it.","Ok") //GS13 - Nanotrasen to GATO
+				alert("This channel was created by a Genesis Officer. You cannot place a D-Notice upon it.","Ok") //GS13 - Nanotrasen to GATO
 				return
 			FC.toggleCensorDclass()
 			updateUsrDialog()

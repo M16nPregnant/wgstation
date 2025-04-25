@@ -73,7 +73,7 @@
 	var/arrpee = rand(1,1)
 	switch(arrpee)
 		if(1)
-			flavour_text += "You were a lowly engineer, hired by GATO to make sure the turbines from their mining operation remained functional. \
+			flavour_text += "You were a lowly engineer, hired by Genesis to make sure the turbines from their mining operation remained functional. \
 			You remember the day the mining team descended for the very last time into the depths of the shafts, only to never return. \
 			The agonizing screams from whatever now haunts those mines still brings a shiver down your spine."
 			outfit.uniform = /obj/item/clothing/under/assistantformal

@@ -1,6 +1,6 @@
 /obj/structure/closet/wardrobe
 	name = "wardrobe"
-	desc = "It's a storage unit for standard-issue GATO attire." //GS13 - Nanotrasen to GATO
+	desc = "It's a storage unit for standard-issue Genesis attire." //GS13 - Nanotrasen to GATO
 	icon_door = "blue"
 /obj/structure/closet/wardrobe/PopulateContents()
 	..()

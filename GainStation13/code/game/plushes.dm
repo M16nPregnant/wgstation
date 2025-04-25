@@ -3,7 +3,7 @@
 
 /obj/item/toy/plush/gs13/metha
 	name = "Magical Captain plushie"
-	desc = "A NEW GATO TOY FROM GATO CORPORATION, FEEL THE MAGIC OF THIS COOL TOY!"
+	desc = "A NEW Genesis TOY FROM Genesis CORPORATION, FEEL THE MAGIC OF THIS COOL TOY!"
 	icon_state = "metha"
 	attack_verb = list("fattened","Metha'd", "Brigged")
 	gender = FEMALE

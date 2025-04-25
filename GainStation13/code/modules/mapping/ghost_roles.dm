@@ -10,7 +10,7 @@
 	mob_species = /datum/species/human
 	short_desc = "It's the grand opening day!"
 	flavour_text = "After you've sold your soul to corporate overlords, your contract obliged you to enter cryostasis. \
-	Finally, after God knows how long, the cryopod system have awakened you with only a single sentence of information - welcome and lure in new guests into the freshly opened GATO restaurant!"
+	Finally, after God knows how long, the cryopod system have awakened you with only a single sentence of information - welcome and lure in new guests into the freshly opened Genesis restaurant!"
 	assignedrole = "Restaurant worker"
 	mirrorcanloadappearance = TRUE
 

@@ -208,13 +208,13 @@
 	inbuilt_modules = list(/obj/item/mod/module/hydraulic_movement/locked, /obj/item/mod/module/calovoltaic/locked, /obj/item/mod/module/storage/locked)
 
 /obj/item/mod/control/pre_equipped/exoskeleton
-	desc = "A pre-built GATO mobility exoskeleton, designed to support high weights, favor movement and weight loss."
+	desc = "A pre-built Genesis mobility exoskeleton, designed to support high weights, favor movement and weight loss."
 	theme = /datum/mod_theme/exoskeleton
 	cell = /obj/item/stock_parts/cell/upgraded/plus
 
 /obj/item/mod/control/pre_equipped/exoskeleton/locked
 	name = "MOD control unit (locked)"
-	desc = "A pre-built GATO mobility exoskeleton, designed to support high weights, favor movement and weight loss. This model's modules cannot be removed."
+	desc = "A pre-built Genesis mobility exoskeleton, designed to support high weights, favor movement and weight loss. This model's modules cannot be removed."
 	theme = /datum/mod_theme/exoskeleton/locked
 
 /datum/design/module/exoskeleton

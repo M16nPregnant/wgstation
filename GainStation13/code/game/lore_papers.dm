@@ -95,7 +95,7 @@
 				<body>
 				<h3>Drinks for Growing Guts</h3>
 
-				Been a bartender for Gato quite a while now. In my time here, I've taken notice of how certain mixes produced...
+				Been a bartender for Genesis quite a while now. In my time here, I've taken notice of how certain mixes produced...
 				Certain effects, that the same mixtures don't produce elsewhere. I'm writing down my findings here.
 
 				<ol>
@@ -155,7 +155,7 @@
 	name = "Welcome to Genesis!"
 	icon = 'GainStation13/icons/obj/library.dmi'
 	icon_state = "book1"
-	info = "We are glad to have you be a part of our galaxy-wide GATO franchise locations! As a restaurant worker / manager, you are a part of World Genesis for security purposes. Make sure to keep your restaurant clean and well-stocked. Good luck!"
+	info = "We are glad to have you be a part of our galaxy-wide Genesis franchise locations! As a restaurant worker / manager, you are a part of World Genesis for security purposes. Make sure to keep your restaurant clean and well-stocked. Good luck!"
 
 
 //space law - we still keep the old updated version, but might as well use this one too
@@ -185,7 +185,7 @@
 				<p><br></p>
 				<p style="text-align: justify;"><span style="color:#990000;font-size:12pt;">&nbsp; &nbsp;&nbsp;</span><span style="color:#990000;font-size:12pt;">OOC: (Remember use everything in this document to try and create or enhance possible roleplay scenarios and how characters can be roleplayed in relation to respect, or lack thereof, of laws. If you believe it is instead taking away from a scenario, talk it out in OOC/LOOC. If you find an issue with these, you are encouraged to start or participate in discussion over them.)</span></p>
 				<p><br></p>
-				<p style="text-align: justify;"><span style="font-size:12pt;">&nbsp; &nbsp;&nbsp;</span><span style="font-size:12pt;">This document contains information pertaining to workplace laws, their application and standard procedures on GATO Corp owned space stations. Employees are expected to follow these laws and respect the Chain of Command. Security and Command also hold the additional responsibility of making sure they are being followed.</span></p>
+				<p style="text-align: justify;"><span style="font-size:12pt;">&nbsp; &nbsp;&nbsp;</span><span style="font-size:12pt;">This document contains information pertaining to workplace laws, their application and standard procedures on Genesis Corp owned space stations. Employees are expected to follow these laws and respect the Chain of Command. Security and Command also hold the additional responsibility of making sure they are being followed.</span></p>
 				<p><br></p>
 				<p><span style="font-size:12pt;">&nbsp; &nbsp;&nbsp;</span><strong><span style="font-size:16pt;">Chain of Command</span></strong></p>
 				<ul>
@@ -500,9 +500,9 @@
 				</style>
 				</head>
 				<body>
-				<h3 style="text-align: center;">Welcome to GATO Industrial Concern!</h3>
+				<h3 style="text-align: center;">Welcome to Genesis Industrial Concern!</h3>
 				<hr>
-				Thank you, valued employee, for signing up to do work for GATO Industrial Concern. Whether you are working full-time or as a contractor for us, the contents within this little guide will help you get started on what you need to know!
+				Thank you, valued employee, for signing up to do work for Genesis Industrial Concern. Whether you are working full-time or as a contractor for us, the contents within this little guide will help you get started on what you need to know!
 				<p>
 				<h2>Table of Contents...</h2>
 				<ol>
@@ -527,20 +527,20 @@
 				<p>
 				Gato's story begins around the beginning of the 22nd century. It was a truly hard time, indeed! Between the troublesome and expensive startup process of making a small business, and the crushing weight of bigger corporations, one would think that setting up a business was financial suicide. But our founder,
 				<i>~~-`11@#\[ERROR\]</i>
-				, thought otherwise! So, GatoMart was founded, and we were instantly known for our creativity. Cute designs and friendly service built us the profit and recognition we needed to expand! And expand we did, taking on more and more corporations under our wing until we became the way we are today. Now, you can find Gato products all across the galaxy, ranging from simple things like cheese slices to more complex heavy artillery platforms! Isn't it grand to participate in maintaining such an awesome corporation like ours?
+				, thought otherwise! So, GatoMart was founded, and we were instantly known for our creativity. Cute designs and friendly service built us the profit and recognition we needed to expand! And expand we did, taking on more and more corporations under our wing until we became the way we are today. Now, you can find Genesis products all across the galaxy, ranging from simple things like cheese slices to more complex heavy artillery platforms! Isn't it grand to participate in maintaining such an awesome corporation like ours?
 				<p>
 				<hr>
                 <h1><u>Chapter 3</u></h1>
                 <h2>The current state of Gato</h2>
 				<p>
-				Many people have begun to circulate bad rumors that Gato is beginning to decline. Dear employees, as honest, loving, and trustworthy employers, we must deny those claims! The Syndicate does not pose much of a threat, and we have continued to profit despite the odds! So do not fear, neither your wages nor your employment are currently at risk. We would never think of doing something that would cause such anguish to the members of our beloved company! Perhaps it is time to go onto a more pleasant topic... how the corporate hierarchy works! At the bottom, we have common workers, above that are your Department Heads, and above that is your Captain! And your Captain answers to our Central Command teams, who are subordinate to the Head of Central Command, who reports to the Branch Manager, who answers to the Executive Officers, who answer to the CEO(Chief Executive Officer!), who answers to the Board of Directors. The Board of Directors equally listens to the input of our most trusted shareholders, and the Head of the Board!
+				Many people have begun to circulate bad rumors that Genesis is beginning to decline. Dear employees, as honest, loving, and trustworthy employers, we must deny those claims! The Syndicate does not pose much of a threat, and we have continued to profit despite the odds! So do not fear, neither your wages nor your employment are currently at risk. We would never think of doing something that would cause such anguish to the members of our beloved company! Perhaps it is time to go onto a more pleasant topic... how the corporate hierarchy works! At the bottom, we have common workers, above that are your Department Heads, and above that is your Captain! And your Captain answers to our Central Command teams, who are subordinate to the Head of Central Command, who reports to the Branch Manager, who answers to the Executive Officers, who answer to the CEO(Chief Executive Officer!), who answers to the Board of Directors. The Board of Directors equally listens to the input of our most trusted shareholders, and the Head of the Board!
 				<p>
                 <h1><u>Chapter 4</u></h1>
                 <h2>GS13: Current development projects</h2>
 				<p>
-				(GS13 SECTOR PRINT EXCLUSIVE SECTION) As an employee of our thirteenth General Station, you've chosen (or have been chosen) to become a pioneer in some of our R&D projects! GS13 has been located in a relatively peaceful area of one of the rim-systems, home to immensely rare mineral known as "Calorite", exclusive to this sector! You'll get a chance to make your name in history by helping us furthen our knowledge of this strange material. Additionally, please be aware of employee shortages: GS13's location makes it a challenge to properly deliver supplies, but GATO assures you - you have nothing to worry about!
+				(GS13 SECTOR PRINT EXCLUSIVE SECTION) As an employee of our thirteenth General Station, you've chosen (or have been chosen) to become a pioneer in some of our R&D projects! GS13 has been located in a relatively peaceful area of one of the rim-systems, home to immensely rare mineral known as "Calorite", exclusive to this sector! You'll get a chance to make your name in history by helping us furthen our knowledge of this strange material. Additionally, please be aware of employee shortages: GS13's location makes it a challenge to properly deliver supplies, but Genesis assures you - you have nothing to worry about!
 				<p>
-				Got it? Good! Now you understand all that you might need to know about Gato Industrial Concern!
+				Got it? Good! Now you understand all that you might need to know about Genesis Industrial Concern!
 				<p>
                 <hr>
 

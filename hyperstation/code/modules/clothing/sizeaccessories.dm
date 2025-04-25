@@ -39,7 +39,7 @@
 //SynTech ring
 /obj/item/clothing/gloves/ring/syntech
 	name = "normalizer ring"
-	desc = "An expensive, shimmering SynTech ring gilded with golden GATO markings. It will 'normalize' the size of the user to a specified height approved for work-conditions, as long as it is equipped. The artificial violet gem inside twinkles ominously."
+	desc = "An expensive, shimmering SynTech ring gilded with golden Genesis markings. It will 'normalize' the size of the user to a specified height approved for work-conditions, as long as it is equipped. The artificial violet gem inside twinkles ominously."
 	icon = 'hyperstation/icons/obj/clothing/sizeaccessories.dmi'
 	icon_state = "ring"
 	item_state = "sring" //No use in a unique sprite since it's just one pixel
@@ -73,7 +73,7 @@
 //SynTech Wristband
 /obj/item/clothing/gloves/ring/syntech/band
 	name = "normalizer wristband"
-	desc = "An expensive technological wristband cast in SynTech purples with shimmering GATO hues. It will 'normalize' the size of the user to a specified height for approved work-conditions, as long as it is equipped. There is a small screen buzzing with information."
+	desc = "An expensive technological wristband cast in SynTech purples with shimmering Genesis hues. It will 'normalize' the size of the user to a specified height for approved work-conditions, as long as it is equipped. There is a small screen buzzing with information."
 	icon_state = "wristband"
 	item_state = "syntechband"
 
@@ -82,7 +82,7 @@
 //Syntech Pendant
 /obj/item/clothing/neck/syntech
 	name = "normalizer pendant"
-	desc = "A vibrant violet jewel cast in silvery-gold metals, sporting the elegance of GATO with SynTech prowess. It will 'normalize' the size of the user to a specified height for approved work-conditions, as long as it is equipped. The artificial violet gem inside twinkles ominously."
+	desc = "A vibrant violet jewel cast in silvery-gold metals, sporting the elegance of Genesis with SynTech prowess. It will 'normalize' the size of the user to a specified height for approved work-conditions, as long as it is equipped. The artificial violet gem inside twinkles ominously."
 	icon = 'hyperstation/icons/obj/clothing/sizeaccessories.dmi'
 	icon_state = "pendant"
 	item_state = "pendant"
@@ -109,7 +109,7 @@
 //Syntech Choker
 /obj/item/clothing/neck/syntech/choker
 	name = "normalizer choker"
-	desc = "A sleek, tight-fitting choker embezzled with silver to gold, adorned with vibrant purple studs; combined technology of GATO and SynTech. It will 'normalize' the size of the user to a specified height for approved work-conditions, as long as it is equipped. There is a small screen buzzing with information."
+	desc = "A sleek, tight-fitting choker embezzled with silver to gold, adorned with vibrant purple studs; combined technology of Genesis and SynTech. It will 'normalize' the size of the user to a specified height for approved work-conditions, as long as it is equipped. There is a small screen buzzing with information."
 	icon_state = "choker"
 	item_state = "collar"
 

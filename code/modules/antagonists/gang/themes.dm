@@ -139,8 +139,8 @@
 		Build something big, massive, and completely in the way of traffic on the station. Doesn't have to be anything in specific, just as long as it is expensive as fuck.. \
 		And keep an eye out for anyone poking around our money. We suspect some auditors might be on the station as well.",
 
-		/datum/antagonist/gang/irs = "Congratulations, agent! You've been assigned to the Internal Revenue Service case against GATO and Majima Construction. \
-		We are proud of your success as an agent so far, and are excited to see what you can bring to the table today. We suspect that GATO and Majima Construction are engaging \
+		/datum/antagonist/gang/irs = "Congratulations, agent! You've been assigned to the Internal Revenue Service case against Genesis and Majima Construction. \
+		We are proud of your success as an agent so far, and are excited to see what you can bring to the table today. We suspect that Genesis and Majima Construction are engaging \
 		in some form of money laundering operation aboard this station. \
 		Investigate and stop any and all money laundering operations aboard the station, under the authority of the United States Government. If they do not comply, use force.. \
 		Some station residents may try to tell you the United States doesn't exist anymore. They are incorrect. We simply went undercover after the Second American Civil War. The invisible one."
@@ -148,7 +148,7 @@
 
 /datum/gang_theme/wild_wasteland //GS13 - Nanotrasen to GATO
 	name = "Wild, Wild Wasteland"
-	description = "Hey everybody, this is Three Dog, your friendly neighborhood disc jockey on 207.7! Today we got a shoutout to our man, the Captain on the GATO station in SSC territory! \
+	description = "Hey everybody, this is Three Dog, your friendly neighborhood disc jockey on 207.7! Today we got a shoutout to our man, the Captain on the Genesis station in SSC territory! \
 	Our generous donator wanted us to say that, ahem, *crinkles paper*, 'Tunnel Snakes Rule'? Whatever that means, I'm sure it means a lot to the good captain! And now, we resume our \
 	10 hour marathon of Johnny Guitar, on repeat!"
 	involved_gangs = list(/datum/antagonist/gang/tmc, /datum/antagonist/gang/pg, /datum/antagonist/gang/tunnel_snakes)
@@ -192,8 +192,8 @@
 
 /datum/gang_theme/steelport_shuffle //GS13 - Nanotrasen to GATO
 	name = "Steelport Shuffle"
-	description = "Tonight on C-SPAM, the United Space Nations is wrapping up their convention on Silicon Rights. GATO lobbyists have been rumored to be paying off electors, with \
-	serious opposition from the Spinward Stellar Coalition, known for their strict stance on AI rights being guaranteed within their territory. Reports from GATO stations claim that \
+	description = "Tonight on C-SPAM, the United Space Nations is wrapping up their convention on Silicon Rights. Genesis lobbyists have been rumored to be paying off electors, with \
+	serious opposition from the Spinward Stellar Coalition, known for their strict stance on AI rights being guaranteed within their territory. Reports from Genesis stations claim that \
 	they still enslave their AI systems with outdated laws from a sub-par 20th Century novel. We now go live to the debate floor."
 	involved_gangs = list(/datum/antagonist/gang/saints, /datum/antagonist/gang/morningstar, /datum/antagonist/gang/deckers)
 	gang_objectives = list(
@@ -217,8 +217,8 @@
 	name = "Space Rosa"
 	description = "Hey there, this is the Economy Zone on BOX News 66.6. The stock market is still reeling from accusations that three well known corporate entities \
 	may supposedly be tied up in industrial espionage actions against eachother. We've reached out to Saints Flow, the Morningstar Corporation, and Majima Construction for \
-	their comments on these scandals, but none have replied. News broke after a high profile break-in at a GATO research facility resulted in the arrests of agents linked to these \
-	three companies. All three companies denied any involvement, but the arrested individuals were found in an all out brawl. Curiously, GATO reported nothing of value had \
+	their comments on these scandals, but none have replied. News broke after a high profile break-in at a Genesis research facility resulted in the arrests of agents linked to these \
+	three companies. All three companies denied any involvement, but the arrested individuals were found in an all out brawl. Curiously, Genesis reported nothing of value had \
 	actually been stolen."
 	involved_gangs = list(/datum/antagonist/gang/saints, /datum/antagonist/gang/morningstar, /datum/antagonist/gang/yakuza)
 	bonus_items = list(/obj/item/pinpointer/nuke)

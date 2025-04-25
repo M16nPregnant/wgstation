@@ -3,7 +3,7 @@
 		"Fugitive from the law due to",
 		"Needs to be interrogated for information about",
 		"Wanted by The Syndicate for",
-		"Ransomable to GATO for",
+		"Ransomable to Genesis for",
 		"Has exploitable information about"
 	],
 	"verb": [
@@ -33,7 +33,7 @@
 		"an NT CentCom uniform": 50,
 		"a supermatter shard": 50,
 		"internal Syndicate documents": 50,
-		"experimental GATO technology": 50,
+		"experimental Genesis technology": 50,
 		"bluespace crystals": 50,
 		"a cult": 50,
 		"shapeshifting creatures": 50,
@@ -62,7 +62,7 @@
 		"on Space Station 13": 50,
 		"somewhere in deep space": 50,
 		"on a remote syndicate base": 50,
-		"in a secure GATO facility": 50,
+		"in a secure Genesis facility": 50,
 		"while on an escape shuttle": 10,
 		"while infiltrating CentCom headquarters": 10,
 		"deep in the necropolis": 10,
