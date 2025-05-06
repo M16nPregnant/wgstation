@@ -2,17 +2,17 @@
 #AUTO_PROFILE
 
 ## Server name: This appears at the top of the screen in-game and in the BYOND hub. Uncomment and replace 'tgstation' with the name of your choice.
-SERVERNAME General Station 13
+SERVERNAME WGStation
 
 ## Community short-name: This appears in parentheses after the server's active station name
-COMMUNITYSHORTNAME GS13
+COMMUNITYSHORTNAME WG13
 
 ## Community link: Requires a community short-name defined. Attaches a link to the community's shortname, and requires a short-name defined.
 ## You could alternatively just add raw HTML to the above, but this is more newbie-friendly
 COMMUNITYLINK https://discord.gg/HHxHm6F
 
 ## Server tagline: This will appear right below the server's title.
-# SERVERTAGLINE A generic TG-based server
+# SERVERTAGLINE Expanding man's horizons
 
 ## Use tagline strings: Uncomment to have the server's tagline be randomly selected from taglines.txt
 # USETAGLINESTRINGS
@@ -21,7 +21,7 @@ COMMUNITYLINK https://discord.gg/HHxHm6F
 # SERVERSQLNAME tgstation
 
 ## Station name: The name of the station as it is referred to in-game. If commented out, the game will generate a random name instead.
-STATIONNAME General Station 13
+STATIONNAME Orbital Research Environment 13
 
 ## Put on byond hub: Uncomment this to put your server on the byond hub.
 #HUB
