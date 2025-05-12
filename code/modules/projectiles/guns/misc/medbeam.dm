@@ -156,6 +156,7 @@
 	var/powerbeam = "sm_arc_dbz_referance"
 	var/calgen = 0
 	var/opened = FALSE
+	var/intensity = 10
 
 	var/cell_type = /obj/item/stock_parts/cell/high
 	var/obj/item/stock_parts/cell/cell
@@ -184,7 +185,7 @@
 			to_chat(user, "<span class='notice'>You change the setting on the beam to thin.</span>")
 			powerbeam = "sm_arc_supercharged"
 			mode = "thin"
-			desc = "A device that uses gainium shards to siphon calories from organic beings. It is currently set to [mode], and it's cell is [(cell.charge/cell.maxcharge)*100]% charged."
+			desc = "A device that uses gainium shards to siphon calories from organic beings. It is currently set to [mode] at [intensity*2]% intensity, and it's cell is [(cell.charge/cell.maxcharge)*100]% charged."
 			icon_state = "caloray_pull"
 			playsound(user, 'sound/weapons/gun_slide_lock_1.ogg', 60, 1)
 			LoseTarget()
@@ -192,7 +193,7 @@
 			to_chat(user, "<span class='notice'>You change the setting on the beam to fatten.</span>")
 			powerbeam = "sm_arc_dbz_referance"
 			mode = "fatten"
-			desc = "A device that uses gainium shards to siphon calories from organic beings. It is currently set to [mode], and it's cell is [(cell.charge/cell.maxcharge)*100]% charged."
+			desc = "A device that uses gainium shards to siphon calories from organic beings. It is currently set to [mode] at [intensity*2]% intensity, and it's cell is [(cell.charge/cell.maxcharge)*100]% charged."
 			icon_state = "caloray_push"
 			playsound(user, 'sound/weapons/gun_slide_lock_1.ogg', 60, 1)
 			LoseTarget()
@@ -223,7 +224,7 @@
 		if(opened == FALSE)
 			W.play_tool_sound(src)
 			to_chat(user, "<span class='notice'>You open the Caloray's battery compartment.</span>")
-			desc = "A device that uses gainium shards to siphon calories from organic beings. It is currently set to [mode], and it's cell is [(cell.charge/cell.maxcharge)*100]% charged. It's battery compartment is currently open."
+			desc = "A device that uses gainium shards to siphon calories from organic beings. It is currently set to [mode] at [intensity*2]% intensity, and it's cell is [(cell.charge/cell.maxcharge)*100]% charged. It's battery compartment is currently open."
 			opened = TRUE
 			LoseTarget()
 			return
@@ -231,10 +232,11 @@
 		if(opened == TRUE)
 			W.play_tool_sound(src)
 			to_chat(user, "<span class='notice'>You close the Caloray's battery compartment.</span>")
-			desc = "It is currently switched off and has no power cell inserted."
+			desc = "A device that uses gainium shards to siphon calories from organic beings. It is currently switched off and has no power cell inserted."
 			opened = FALSE
 			LoseTarget()
 			return
+
 
 	if(istype(W, /obj/item/stock_parts/cell))
 		if(opened)
@@ -247,15 +249,23 @@
 				if(mode == "fatten")
 					powerbeam = "sm_arc_dbz_referance"
 					icon_state = "caloray_push"
-					desc = "A device that uses gainium shards to siphon calories from organic beings. It is currently set to [mode], and it's cell is [(cell.charge/cell.maxcharge)*100]% charged."
+					desc = desc = "A device that uses gainium shards to siphon calories from organic beings. It is currently set to [mode] at [intensity*2]% intensity, and it's cell is [(cell.charge/cell.maxcharge)*100]% charged. It's battery compartment is currently open."
 				if(mode == "thin")
 					powerbeam = "sm_arc_supercharged"
 					icon_state = "caloray_pull"
-					desc = "A device that uses gainium shards to siphon calories from organic beings. It is currently set to [mode], and it's cell is [(cell.charge/cell.maxcharge)*100]% charged."
+					desc = desc = "A device that uses gainium shards to siphon calories from organic beings. It is currently set to [mode] at [intensity*2]% intensity, and it's cell is [(cell.charge/cell.maxcharge)*100]% charged. It's battery compartment is currently open."
 				return
 			else
 				to_chat(user, "<span class='notice'>[src] already has \a [cell] installed!</span>")
 				return
+
+	if(W.tool_behaviour == TOOL_MULTITOOL)
+		if(intensity < 50)
+			intensity += 10
+		else
+			intensity = 10
+		W.play_tool_sound(src)
+		to_chat(user, "<span class='notice'>You set the Caloray's beam intensity to [intensity*2]%.</span>")
 
 
 
@@ -350,14 +360,14 @@
 	if(target.fatness > 0)
 		if(mode == "thin")
 			new /obj/effect/temp_visual/heal(get_turf(target), "#1100ff")
-			target.adjust_fatness(-10)
-			cell.charge += cell.maxcharge*0.05
+			target.adjust_fatness(-intensity)
+			cell.charge += ((cell.maxcharge*0.05) + intensity)
 	if(target.fatness >= 0)
 		if(mode == "fatten")
 			if(cell.charge > 0)
 				new /obj/effect/temp_visual/heal(get_turf(target), "#ff0000")
-				target.adjust_fatness(10)
-				cell.charge -= cell.maxcharge*0.05
+				target.adjust_fatness(intensity)
+				cell.charge -= ((cell.maxcharge*0.05) + intensity)
 	if(target.fatness <= 0)
 		if(mode == "thin")
 			LoseTarget()
@@ -370,7 +380,7 @@
 		if(mode == "thin")
 			LoseTarget()
 			return
-	desc = "A device that uses gainium shards to siphon calories from organic beings. It is currently set to [mode], and it's cell is [cell.charge*0.01]% charged."
+	desc = "A device that uses gainium shards to siphon calories from organic beings. It is currently set to [mode] at [intensity*2]% intensity, and it's cell is [(cell.charge/cell.maxcharge)*100]% charged. It's battery compartment is currently open."
 	return
 
 /obj/item/gun/caloray/proc/on_beam_release(var/mob/living/target)
