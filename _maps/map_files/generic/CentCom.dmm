@@ -830,7 +830,7 @@
 /turf/open/floor/plasteel/dark,
 /area/centcom/ferry)
 "aJh" = (
-/obj/structure/statue/calorite/fatty,
+/obj/structure/statue/gainium/fatty,
 /obj/effect/turf_decal/box,
 /turf/open/floor/engine,
 /area/fatlab)
@@ -1272,7 +1272,7 @@
 	dir = 8;
 	id = "fatfacility_cargo_right"
 	},
-/turf/open/floor/mineral/calorite/strong,
+/turf/open/floor/mineral/gainium/strong,
 /area/fatlab)
 "bdT" = (
 /obj/machinery/shower{
@@ -1645,7 +1645,7 @@
 	dir = 5;
 	id = "fatfacility_cargo_right"
 	},
-/turf/open/floor/mineral/calorite/strong,
+/turf/open/floor/mineral/gainium/strong,
 /area/fatlab)
 "bqO" = (
 /obj/machinery/conveyor{
@@ -1968,7 +1968,7 @@
 /area/centcom/ferry)
 "bBh" = (
 /obj/machinery/porta_turret/fattening/heavy,
-/turf/open/floor/mineral/calorite/dance,
+/turf/open/floor/mineral/gainium/dance,
 /area/awaymission/jungleresort)
 "bCl" = (
 /obj/structure/table/wood,
@@ -3095,8 +3095,8 @@
 /obj/structure/rack/shelf,
 /obj/item/clothing/suit/straight_jacket,
 /obj/item/clothing/suit/straight_jacket,
-/obj/item/clothing/neck/petcollar/calorite,
-/obj/item/clothing/neck/petcollar/calorite,
+/obj/item/clothing/neck/petcollar/gainium,
+/obj/item/clothing/neck/petcollar/gainium,
 /obj/effect/turf_decal/bot,
 /obj/machinery/light{
 	dir = 4
@@ -4664,7 +4664,7 @@
 /turf/open/floor/plasteel/dark,
 /area/centcom/control)
 "dES" = (
-/turf/closed/wall/mineral/calorite,
+/turf/closed/wall/mineral/gainium,
 /area/awaymission/jungleresort)
 "dFd" = (
 /obj/machinery/door/airlock/centcom{
@@ -5523,7 +5523,7 @@
 /area/tdome/tdomeobserve)
 "ena" = (
 /obj/item/projectile/alter_ray/gainrate_increase,
-/turf/open/floor/mineral/calorite/hide,
+/turf/open/floor/mineral/gainium/hide,
 /area/awaymission/jungleresort)
 "ene" = (
 /obj/structure/table,
@@ -5944,7 +5944,7 @@
 /turf/open/floor/plasteel/dark,
 /area/tdome/tdomeadmin)
 "eDl" = (
-/turf/open/floor/mineral/calorite/hide,
+/turf/open/floor/mineral/gainium/hide,
 /area/awaymission/jungleresort)
 "eDm" = (
 /obj/item/storage/firstaid/regular{
@@ -7974,7 +7974,7 @@
 /obj/machinery/door/poddoor/shutters/old/preopen{
 	id = "fat_trial"
 	},
-/turf/open/floor/mineral/calorite/hide,
+/turf/open/floor/mineral/gainium/hide,
 /area/awaymission/jungleresort)
 "gey" = (
 /obj/machinery/button/door{
@@ -8501,7 +8501,7 @@
 /area/centcom/control)
 "gzH" = (
 /obj/item/grown/bananapeel,
-/turf/open/floor/mineral/calorite/hide,
+/turf/open/floor/mineral/gainium/hide,
 /area/awaymission/jungleresort)
 "gAi" = (
 /obj/structure/table/wood,
@@ -9739,7 +9739,7 @@
 /obj/machinery/door/poddoor/shutters/old/preopen{
 	id = "fat_trial"
 	},
-/turf/open/floor/mineral/calorite/dance,
+/turf/open/floor/mineral/gainium/dance,
 /area/awaymission/jungleresort)
 "hyw" = (
 /obj/structure/table,
@@ -12237,7 +12237,7 @@
 /area/awaymission/jungleresort)
 "jkE" = (
 /obj/structure/sign/poster/contraband/chonk,
-/turf/closed/wall/mineral/calorite,
+/turf/closed/wall/mineral/gainium,
 /area/awaymission/jungleresort)
 "jkF" = (
 /obj/structure/closet/abductor,
@@ -12553,7 +12553,7 @@
 	dir = 6;
 	id = "fatfacility_cargo_right"
 	},
-/turf/open/floor/mineral/calorite/strong,
+/turf/open/floor/mineral/gainium/strong,
 /area/fatlab)
 "jwn" = (
 /obj/effect/turf_decal/tile/brown{
@@ -13270,7 +13270,7 @@
 /obj/machinery/conveyor/inverted{
 	id = "fatfacility_cargo_left"
 	},
-/turf/open/floor/mineral/calorite,
+/turf/open/floor/mineral/gainium,
 /area/fatlab)
 "kbH" = (
 /obj/machinery/vending/coffee,
@@ -14281,7 +14281,7 @@
 	dir = 8;
 	id = "fatfacility_cargo_left"
 	},
-/turf/open/floor/mineral/calorite,
+/turf/open/floor/mineral/gainium,
 /area/fatlab)
 "kNK" = (
 /obj/structure/chair/comfy/brown{
@@ -15311,7 +15311,7 @@
 	dir = 6;
 	id = "fatfacility_cargo_left"
 	},
-/turf/open/floor/mineral/calorite,
+/turf/open/floor/mineral/gainium,
 /area/fatlab)
 "lEx" = (
 /obj/effect/turf_decal/stripes/line{
@@ -17943,7 +17943,7 @@
 /obj/machinery/conveyor/inverted{
 	id = "fatfacility_cargo_right"
 	},
-/turf/open/floor/mineral/calorite/strong,
+/turf/open/floor/mineral/gainium/strong,
 /area/fatlab)
 "nyv" = (
 /obj/effect/turf_decal/stripes/asteroid/line{
@@ -19368,7 +19368,7 @@
 /area/centcom/ferry)
 "ozL" = (
 /obj/structure/sign/poster/contraband/chefpropaganda,
-/turf/closed/wall/mineral/calorite,
+/turf/closed/wall/mineral/gainium,
 /area/awaymission/jungleresort)
 "oAa" = (
 /obj/effect/turf_decal/sand,
@@ -19538,7 +19538,7 @@
 /obj/machinery/conveyor{
 	id = "fatfacility_cargo_left"
 	},
-/turf/open/floor/mineral/calorite,
+/turf/open/floor/mineral/gainium,
 /area/fatlab)
 "oFi" = (
 /obj/effect/turf_decal/tile/yellow{
@@ -21688,7 +21688,7 @@
 	dir = 5;
 	id = "fatfacility_cargo_left"
 	},
-/turf/open/floor/mineral/calorite,
+/turf/open/floor/mineral/gainium,
 /area/fatlab)
 "qgi" = (
 /obj/machinery/door/firedoor,
@@ -23720,11 +23720,11 @@
 	dir = 10;
 	id = "fatfacility_cargo_right"
 	},
-/turf/open/floor/mineral/calorite/strong,
+/turf/open/floor/mineral/gainium/strong,
 /area/fatlab)
 "rHS" = (
 /obj/structure/sign/poster/contraband/corn_oil,
-/turf/closed/wall/mineral/calorite,
+/turf/closed/wall/mineral/gainium,
 /area/awaymission/jungleresort)
 "rIa" = (
 /obj/structure/closet/secure_closet/brig{
@@ -23812,7 +23812,7 @@
 /obj/machinery/door/poddoor/shutters/old/preopen{
 	id = "fat_trial"
 	},
-/turf/open/floor/mineral/calorite/dance,
+/turf/open/floor/mineral/gainium/dance,
 /area/awaymission/jungleresort)
 "rLH" = (
 /obj/effect/turf_decal/tile/yellow{
@@ -23951,7 +23951,7 @@
 	dir = 9;
 	id = "fatfacility_cargo_left"
 	},
-/turf/open/floor/mineral/calorite,
+/turf/open/floor/mineral/gainium,
 /area/fatlab)
 "rUi" = (
 /obj/structure/window/reinforced,
@@ -25508,7 +25508,7 @@
 /obj/machinery/door/poddoor/shutters/old/preopen{
 	id = "fat_trial"
 	},
-/turf/open/floor/mineral/calorite/dance,
+/turf/open/floor/mineral/gainium/dance,
 /area/awaymission/jungleresort)
 "taC" = (
 /obj/structure/table,
@@ -25666,10 +25666,10 @@
 /obj/item/reagent_containers/glass/beaker/extilphite{
 	pixel_x = 16
 	},
-/obj/item/reagent_containers/glass/beaker/calorite_blessing{
+/obj/item/reagent_containers/glass/beaker/gainium_blessing{
 	pixel_x = -8
 	},
-/obj/item/reagent_containers/glass/beaker/calorite_blessing{
+/obj/item/reagent_containers/glass/beaker/gainium_blessing{
 	pixel_x = -16
 	},
 /obj/item/reagent_containers/syringe{
@@ -26017,27 +26017,27 @@
 /area/centcom/ferry)
 "ttQ" = (
 /obj/structure/rack/shelf,
-/obj/item/stack/sheet/mineral/calorite,
-/obj/item/stack/sheet/mineral/calorite,
-/obj/item/stack/sheet/mineral/calorite,
-/obj/item/stack/sheet/mineral/calorite,
-/obj/item/stack/sheet/mineral/calorite,
-/obj/item/stack/sheet/mineral/calorite,
-/obj/item/stack/sheet/mineral/calorite,
-/obj/item/stack/sheet/mineral/calorite,
-/obj/item/stack/sheet/mineral/calorite,
-/obj/item/stack/sheet/mineral/calorite,
-/obj/item/stack/sheet/mineral/calorite,
-/obj/item/stack/sheet/mineral/calorite,
-/obj/item/stack/sheet/mineral/calorite,
-/obj/item/stack/tile/mineral/calorite/strong,
-/obj/item/stack/tile/mineral/calorite/strong,
-/obj/item/stack/tile/mineral/calorite/strong,
-/obj/item/stack/tile/mineral/calorite/strong,
-/obj/item/stack/tile/mineral/calorite/strong,
-/obj/item/stack/tile/mineral/calorite/strong,
-/obj/item/stack/tile/mineral/calorite/strong,
-/obj/item/stack/tile/mineral/calorite/strong,
+/obj/item/stack/sheet/mineral/gainium,
+/obj/item/stack/sheet/mineral/gainium,
+/obj/item/stack/sheet/mineral/gainium,
+/obj/item/stack/sheet/mineral/gainium,
+/obj/item/stack/sheet/mineral/gainium,
+/obj/item/stack/sheet/mineral/gainium,
+/obj/item/stack/sheet/mineral/gainium,
+/obj/item/stack/sheet/mineral/gainium,
+/obj/item/stack/sheet/mineral/gainium,
+/obj/item/stack/sheet/mineral/gainium,
+/obj/item/stack/sheet/mineral/gainium,
+/obj/item/stack/sheet/mineral/gainium,
+/obj/item/stack/sheet/mineral/gainium,
+/obj/item/stack/tile/mineral/gainium/strong,
+/obj/item/stack/tile/mineral/gainium/strong,
+/obj/item/stack/tile/mineral/gainium/strong,
+/obj/item/stack/tile/mineral/gainium/strong,
+/obj/item/stack/tile/mineral/gainium/strong,
+/obj/item/stack/tile/mineral/gainium/strong,
+/obj/item/stack/tile/mineral/gainium/strong,
+/obj/item/stack/tile/mineral/gainium/strong,
 /obj/effect/turf_decal/bot,
 /turf/open/floor/plasteel,
 /area/fatlab)
@@ -26325,7 +26325,7 @@
 	dir = 10;
 	id = "fatfacility_cargo_left"
 	},
-/turf/open/floor/mineral/calorite,
+/turf/open/floor/mineral/gainium,
 /area/fatlab)
 "tGr" = (
 /obj/effect/turf_decal/tile/red{
@@ -26647,7 +26647,7 @@
 /area/centcom/control)
 "tVd" = (
 /obj/structure/sign/poster/official/antifat,
-/turf/closed/wall/mineral/calorite,
+/turf/closed/wall/mineral/gainium,
 /area/awaymission/jungleresort)
 "tVQ" = (
 /obj/effect/turf_decal/tile/blue{
@@ -28600,7 +28600,7 @@
 /area/fatlab)
 "vtV" = (
 /obj/item/projectile/beam/fattening/cannon_weak,
-/turf/open/floor/mineral/calorite/hide,
+/turf/open/floor/mineral/gainium/hide,
 /area/awaymission/jungleresort)
 "vua" = (
 /obj/structure/flora/ausbushes/fernybush,
@@ -29106,7 +29106,7 @@
 	id = "fatfacility_cargo_left"
 	},
 /obj/structure/scale,
-/turf/open/floor/mineral/calorite,
+/turf/open/floor/mineral/gainium,
 /area/fatlab)
 "vJV" = (
 /obj/structure/chair{
@@ -29617,7 +29617,7 @@
 	id = "fatfacility_cargo_right"
 	},
 /obj/structure/scale,
-/turf/open/floor/mineral/calorite/strong,
+/turf/open/floor/mineral/gainium/strong,
 /area/fatlab)
 "wdH" = (
 /obj/structure/chair/sofa,
@@ -30906,7 +30906,7 @@
 /obj/machinery/conveyor{
 	id = "fatfacility_cargo_right"
 	},
-/turf/open/floor/mineral/calorite/strong,
+/turf/open/floor/mineral/gainium/strong,
 /area/fatlab)
 "wXR" = (
 /obj/effect/turf_decal/stripes/line{
@@ -32107,10 +32107,10 @@
 /obj/structure/rack,
 /obj/item/gun/syringe,
 /obj/effect/turf_decal/bot,
-/obj/item/clothing/neck/petcollar/calorite,
-/obj/item/clothing/neck/petcollar/calorite,
-/obj/item/clothing/neck/petcollar/calorite,
-/obj/item/clothing/neck/petcollar/calorite,
+/obj/item/clothing/neck/petcollar/gainium,
+/obj/item/clothing/neck/petcollar/gainium,
+/obj/item/clothing/neck/petcollar/gainium,
+/obj/item/clothing/neck/petcollar/gainium,
 /obj/item/electropack/shockcollar,
 /obj/item/electropack/shockcollar,
 /obj/item/assembly/signaler,
@@ -32565,7 +32565,7 @@
 	dir = 9;
 	id = "fatfacility_cargo_right"
 	},
-/turf/open/floor/mineral/calorite/strong,
+/turf/open/floor/mineral/gainium/strong,
 /area/fatlab)
 "yhL" = (
 /obj/effect/turf_decal/stripes/line{

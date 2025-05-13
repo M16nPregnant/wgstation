@@ -3509,7 +3509,7 @@
 "rEx" = (/obj/machinery/atmospherics/pipe/simple/cyan/visible{dir = 4},/obj/structure/cable{icon_state = "4-8"},/obj/effect/turf_decal/stripes/line,/turf/open/floor/plasteel)
 "rKl" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden{dir = 4},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer1{dir = 4},/turf/open/floor/plating)
 "rLA" = (/obj/structure/lattice/catwalk,/obj/structure/cable{icon_state = "1-8"},/turf/open/space/basic,/area/maintenance/solars/starboard/aft)
-"rMX" = (/obj/structure/statue/calorite/fatty,/turf/open/floor/mineral/calorite,/area/asteroid/nearstation)
+"rMX" = (/obj/structure/statue/gainium/fatty,/turf/open/floor/mineral/gainium,/area/asteroid/nearstation)
 "rOq" = (/obj/machinery/iv_drip/feeding_tube,/turf/open/floor/plating,/area/maintenance/port)
 "rON" = (/obj/machinery/light{dir = 8},/turf/open/floor/plasteel/dark/side{dir = 8})
 "rPz" = (/obj/machinery/atmospherics/components/unary/vent_pump/on{dir = 1},/turf/open/floor/plasteel/white,/area/medical/virology)

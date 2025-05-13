@@ -2766,7 +2766,7 @@
 "gm" = (
 /obj/effect/turf_decal/delivery,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "gn" = (
 /obj/machinery/door/airlock/glass{
 	name = "Public Freezer"
@@ -3745,7 +3745,7 @@
 /obj/structure/table,
 /obj/item/stack/medical/bruise_pack,
 /turf/open/floor/plasteel/white,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "iF" = (
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer1,
 /turf/closed/wall,
@@ -3833,7 +3833,7 @@
 "iS" = (
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "iT" = (
 /obj/machinery/camera{
 	c_tag = "Xenoarchaeology Entrance East";
@@ -4313,7 +4313,7 @@
 /obj/structure/table,
 /obj/machinery/reagentgrinder,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "ka" = (
 /obj/structure/chair/office{
 	dir = 4
@@ -5105,7 +5105,7 @@
 	name = "steel pannel"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "lx" = (
 /obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden/layer1,
 /obj/machinery/atmospherics/pipe/simple/supply/hidden{
@@ -5374,7 +5374,7 @@
 /obj/structure/closet/radiation,
 /obj/effect/turf_decal/box,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "ma" = (
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer1,
 /obj/structure/trash_pile,
@@ -5905,7 +5905,7 @@
 "ny" = (
 /obj/machinery/portable_atmospherics/scrubber,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "nz" = (
 /obj/structure/bed,
 /obj/item/bedsheet/pirate,
@@ -6992,11 +6992,11 @@
 	},
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "qm" = (
 /obj/machinery/washing_machine,
 /turf/open/floor/carpet/red,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "qp" = (
 /obj/machinery/computer{
 	desc = "This screen is broken beyond repairs... What little you can make out of it reads as follows... '-The skin of employee 228, mimicking them after consuming them.'";
@@ -7015,12 +7015,12 @@
 /obj/effect/turf_decal/box,
 /obj/structure/trash_pile,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "qs" = (
 /obj/structure/table,
 /obj/item/healthanalyzer,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "qt" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 8
@@ -7030,7 +7030,7 @@
 	icon_state = "steel_decals7"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "qu" = (
 /obj/structure/disposalpipe/trunk{
 	dir = 1
@@ -7043,7 +7043,7 @@
 	dir = 8
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "qv" = (
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -7064,15 +7064,15 @@
 "qy" = (
 /obj/effect/decal/cleanable/ash,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "qz" = (
 /obj/structure/barricade/security,
 /turf/open/floor/engine,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "qB" = (
 /obj/structure/lattice,
 /turf/open/lava/smooth/lava_land_surface,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "qD" = (
 /obj/structure/chair/office{
 	dir = 8
@@ -7083,7 +7083,7 @@
 	dir = 1
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "qF" = (
 /obj/machinery/chem_master/condimaster{
 	name = "CondiMaster Neo"
@@ -7145,7 +7145,7 @@
 /turf/open/floor/plating{
 	icon_state = "panelscorched"
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "qM" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 5;
@@ -7156,7 +7156,7 @@
 	icon_state = "steel_decals3"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "qO" = (
 /obj/effect/turf_decal/box,
 /obj/item/mecha_parts/part/ripley_right_arm,
@@ -7173,7 +7173,7 @@
 	icon_state = "0-4"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "qV" = (
 /obj/machinery/atmospherics/pipe/simple/supply/hidden{
 	dir = 7
@@ -7192,7 +7192,7 @@
 /obj/machinery/porta_turret/fattening,
 /obj/effect/turf_decal/stripes/box,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "qZ" = (
 /obj/structure/table/reinforced,
 /obj/item/paper/crumpled/robertsworkjournal{
@@ -7208,10 +7208,10 @@
 	id = "calorietrash"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "rb" = (
 /turf/open/floor/wood,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "rc" = (
 /turf/open/floor/plasteel/dark/side,
 /area/xenoarch/gen)
@@ -7230,7 +7230,7 @@
 	},
 /obj/item/pen,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "rf" = (
 /turf/open/floor/plasteel/grimy{
 	icon_state = "engine"
@@ -7239,7 +7239,7 @@
 "rg" = (
 /obj/machinery/door/airlock/public,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "rh" = (
 /turf/open/floor/plating/lavaland_baseturf,
 /area/lavaland/surface/outdoors)
@@ -7248,26 +7248,26 @@
 	dir = 1
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "rj" = (
 /obj/structure/chair/office/light{
 	dir = 8
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "rk" = (
 /obj/structure/window/reinforced/spawner{
 	dir = 8
 	},
 /turf/open/floor/plating/lavaland_baseturf,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "rl" = (
 /obj/structure/trash_pile,
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "rm" = (
 /obj/effect/turf_decal/loading_area{
 	dir = 9;
@@ -7277,24 +7277,24 @@
 /obj/machinery/porta_turret/fattening/heavy,
 /obj/effect/turf_decal/stripes/box,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "ro" = (
 /obj/machinery/jukebox,
 /obj/machinery/light{
 	dir = 1
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "rp" = (
 /obj/structure/disposaloutlet{
 	dir = 4
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "rq" = (
 /obj/structure/reagent_dispensers/watertank,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "rt" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 1;
@@ -7306,14 +7306,14 @@
 	},
 /obj/structure/table,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "ru" = (
 /obj/structure/window/reinforced{
 	dir = 1;
 	layer = 2.9
 	},
 /turf/open/floor/engine,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "ry" = (
 /obj/item/bodypart/l_leg{
 	pixel_y = 8;
@@ -7323,13 +7323,13 @@
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "rB" = (
 /obj/structure/chair/stool{
 	pixel_y = 8
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "rC" = (
 /obj/item/reagent_containers/food/snacks/candyheart,
 /obj/effect/light_emitter,
@@ -7353,7 +7353,7 @@
 	icon_state = "steel_decals7"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "rE" = (
 /mob/living/simple_animal/hostile/feed/chocolate_slime,
 /obj/item/reagent_containers/food/snacks/candy_corn,
@@ -7368,7 +7368,7 @@
 	pixel_x = 28
 	},
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "rL" = (
 /obj/effect/turf_decal/tile/red,
 /obj/effect/turf_decal/tile/red{
@@ -7392,18 +7392,18 @@
 /obj/effect/turf_decal/tile/neutral,
 /obj/structure/chair/bench,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "rT" = (
 /obj/structure/bed/double,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "rU" = (
 /obj/structure/chair/sofa/right,
 /obj/machinery/computer/security/telescreen/entertainment{
 	pixel_y = 32
 	},
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "rW" = (
 /obj/machinery/power/emitter{
 	dir = 1
@@ -7412,11 +7412,11 @@
 	icon_state = "0-8"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "sa" = (
 /obj/structure/door_assembly/door_assembly_vault,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "sc" = (
 /obj/effect/turf_decal/loading_area{
 	dir = 6;
@@ -7437,7 +7437,7 @@
 "sh" = (
 /obj/structure/chair/stool,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "si" = (
 /obj/effect/turf_decal/tile/bar,
 /obj/effect/turf_decal/tile/bar{
@@ -7448,21 +7448,21 @@
 	name = "candle holder"
 	},
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "sk" = (
 /obj/machinery/autolathe,
 /obj/machinery/light/small{
 	dir = 1
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "sl" = (
 /obj/structure/chair/sofa,
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "sn" = (
 /turf/closed/wall/rust,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "so" = (
 /turf/closed/wall/r_wall,
 /area/xenoarch/nothinghere)
@@ -7483,30 +7483,30 @@
 /obj/item/trash/tray,
 /obj/item/trash/plate,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "st" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 8;
 	icon_state = "steel_decals_central4"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "su" = (
 /obj/machinery/light{
 	dir = 8
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "sv" = (
 /turf/open/floor/plasteel,
 /area/ruin/space/has_grav/powered)
 "sx" = (
 /obj/structure/fluff/paper,
 /obj/structure/filingcabinet,
-/obj/item/paper/fluff/ruins/calorite_facility/note1,
-/obj/item/paper/fluff/ruins/calorite_facility/note18,
+/obj/item/paper/fluff/ruins/gainium_facility/note1,
+/obj/item/paper/fluff/ruins/gainium_facility/note18,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "sy" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -7519,11 +7519,11 @@
 	},
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "sC" = (
 /obj/structure/ore_box,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "sF" = (
 /obj/item/stack/marker_beacon{
 	anchored = 1;
@@ -7550,7 +7550,7 @@
 /obj/effect/turf_decal/tile/neutral,
 /obj/item/trash/can,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "sI" = (
 /obj/item/melee/cultblade{
 	pixel_x = -20
@@ -7561,7 +7561,7 @@
 /obj/structure/table,
 /obj/item/pen,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "sK" = (
 /obj/structure/table,
 /obj/item/newspaper,
@@ -7570,12 +7570,12 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/airless,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "sL" = (
 /obj/structure/fans/tiny/invisible,
 /obj/machinery/door/airlock/maintenance_hatch,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "sM" = (
 /obj/effect/turf_decal{
 	dir = 1
@@ -7615,14 +7615,14 @@
 	name = "steel pannel"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "sT" = (
 /obj/machinery/conveyor{
 	dir = 1;
-	id = "calorite_inspec"
+	id = "gainium_inspec"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "sU" = (
 /obj/effect/turf_decal/tile/purple,
 /turf/open/floor/plasteel/dark,
@@ -7642,14 +7642,14 @@
 /obj/item/mecha_parts/mecha_equipment/drill/diamonddrill,
 /obj/effect/turf_decal/box,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "sZ" = (
 /obj/item/stack/cable_coil/cut/red,
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "tc" = (
 /obj/structure/window/reinforced/tinted{
 	dir = 4
@@ -7660,7 +7660,7 @@
 	},
 /obj/item/projectile/beam/fattening/cannon,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "tf" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -7678,11 +7678,11 @@
 	dir = 8
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "tj" = (
 /obj/structure/trash_pile,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "tl" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 10;
@@ -7697,13 +7697,13 @@
 	icon_state = "steel_decals7"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "tm" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "tp" = (
 /obj/effect/turf_decal/tile/brown{
 	dir = 8
@@ -7718,11 +7718,11 @@
 	icon_state = "steel_decals7"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "tr" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating/airless,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "tv" = (
 /obj/item/kirbyplants/random,
 /obj/effect/turf_decal/tile/bar{
@@ -7732,7 +7732,7 @@
 	dir = 8
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "tx" = (
 /obj/effect/turf_decal,
 /turf/open/floor/plating,
@@ -7743,7 +7743,7 @@
 	icon_state = "0-8"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "tz" = (
 /obj/item/flashlight/lantern,
 /turf/open/floor/plating/asteroid/basalt/lava_land_surface,
@@ -7756,7 +7756,7 @@
 	},
 /obj/item/pen,
 /turf/open/floor/carpet/red,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "tB" = (
 /obj/effect/turf_decal/tile/bar,
 /obj/effect/turf_decal/tile/bar{
@@ -7765,24 +7765,24 @@
 /obj/structure/table/reinforced,
 /obj/item/storage/box/mre/menu3,
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "tC" = (
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "tD" = (
 /obj/machinery/door/airlock/public/glass{
 	dir = 4
 	},
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "tE" = (
 /obj/structure/table,
 /obj/item/storage/box/donkpockets,
 /obj/item/storage/box/donkpockets,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "tG" = (
 /obj/structure/chair/office,
 /obj/effect/decal/cleanable/dirt,
@@ -7793,8 +7793,8 @@
 	dir = 1;
 	id = "fatchamber"
 	},
-/turf/open/floor/mineral/calorite,
-/area/xenoarch/caloriteresearch_powered)
+/turf/open/floor/mineral/gainium,
+/area/xenoarch/gainiumresearch_powered)
 "tL" = (
 /obj/effect/turf_decal/loading_area{
 	icon_state = "drain";
@@ -7811,7 +7811,7 @@
 /obj/structure/chair/stool,
 /obj/effect/decal/cleanable/ash,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "tN" = (
 /obj/structure/window/reinforced/tinted{
 	dir = 8
@@ -7820,12 +7820,12 @@
 	dir = 1;
 	id = "fatchamber"
 	},
-/turf/open/floor/mineral/calorite/strong,
-/area/xenoarch/caloriteresearch_powered)
+/turf/open/floor/mineral/gainium/strong,
+/area/xenoarch/gainiumresearch_powered)
 "tT" = (
 /obj/machinery/vending/engivend,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "tW" = (
 /obj/effect/decal/cleanable/oil,
 /obj/effect/decal/cleanable/robot_debris,
@@ -7842,11 +7842,11 @@
 	name = "drain"
 	},
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "tZ" = (
 /obj/structure/girder,
 /turf/open/floor/plating/airless,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "uc" = (
 /obj/structure/toilet,
 /obj/effect/turf_decal/loading_area{
@@ -7855,7 +7855,7 @@
 	name = "drain"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "uh" = (
 /obj/effect/turf_decal/tile/bar,
 /obj/effect/turf_decal/tile/bar{
@@ -7863,7 +7863,7 @@
 	},
 /obj/machinery/vending/dinnerware,
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "uj" = (
 /obj/machinery/atmospherics/pipe/simple/supply/hidden{
 	dir = 7
@@ -7882,7 +7882,7 @@
 "uk" = (
 /obj/item/shard,
 /turf/open/floor/plating/lavaland_baseturf,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "um" = (
 /obj/effect/turf_decal/tile/neutral{
 	dir = 8
@@ -7896,18 +7896,18 @@
 /obj/effect/turf_decal/tile/neutral,
 /obj/structure/table/wood,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "up" = (
 /obj/structure/door_assembly/door_assembly_vault,
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "uq" = (
 /obj/structure/table,
 /obj/machinery/light/small,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "ur" = (
 /obj/item/trash/can,
 /obj/effect/turf_decal/tile/bar{
@@ -7917,11 +7917,11 @@
 	dir = 1
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "us" = (
 /obj/structure/closet/wardrobe/mixed,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "ut" = (
 /obj/structure/cable,
 /turf/open/floor/plating,
@@ -7932,11 +7932,11 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "uv" = (
 /obj/structure/rack,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "uz" = (
 /obj/effect/turf_decal/tile/bar{
 	dir = 4
@@ -7945,22 +7945,22 @@
 	dir = 1
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "uD" = (
 /obj/effect/turf_decal/candy/redwhite2,
 /turf/open/candyfloor,
 /area/ruin/powered/candyland)
 "uE" = (
-/obj/item/stack/sheet/mineral/calorite,
-/obj/item/stack/sheet/mineral/calorite,
-/obj/item/stack/sheet/mineral/calorite,
-/obj/item/stack/sheet/mineral/calorite,
+/obj/item/stack/sheet/mineral/gainium,
+/obj/item/stack/sheet/mineral/gainium,
+/obj/item/stack/sheet/mineral/gainium,
+/obj/item/stack/sheet/mineral/gainium,
 /obj/machinery/light/small{
 	dir = 1
 	},
 /obj/structure/rack/shelf,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "uF" = (
 /obj/effect/turf_decal/tile/red,
 /obj/effect/turf_decal/tile/red{
@@ -7970,30 +7970,30 @@
 /area/xenoarch/gen)
 "uG" = (
 /obj/item/projectile/beam/fattening/cannon,
-/turf/open/floor/mineral/calorite,
-/area/xenoarch/caloriteresearch_powered)
+/turf/open/floor/mineral/gainium,
+/area/xenoarch/gainiumresearch_powered)
 "uH" = (
 /obj/structure/table,
 /obj/item/multitool,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "uL" = (
 /obj/item/stack/cable_coil/cut/red,
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "uO" = (
 /obj/machinery/field/generator,
 /turf/open/floor/engine,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "uR" = (
 /obj/structure/closet/firecloset,
 /obj/machinery/light/small{
 	dir = 8
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "uT" = (
 /obj/effect/turf_decal/tile/brown{
 	dir = 8
@@ -8004,7 +8004,7 @@
 	icon_state = "steel_decals7"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "uW" = (
 /obj/effect/turf_decal/tile/purple{
 	dir = 1
@@ -8014,7 +8014,7 @@
 	},
 /obj/structure/closet/l3closet/janitor,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "va" = (
 /obj/structure/toilet{
 	dir = 4
@@ -8024,13 +8024,13 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "vb" = (
 /obj/effect/decal/cleanable/ash,
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "ve" = (
 /obj/structure/toilet{
 	dir = 4
@@ -8039,7 +8039,7 @@
 /obj/effect/decal/cleanable/blood/gibs/xeno,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/airless,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "vf" = (
 /obj/structure/chair/stool,
 /obj/effect/turf_decal/stripes/white/line{
@@ -8051,7 +8051,7 @@
 	icon_state = "steel_decals6"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "vg" = (
 /obj/structure/table,
 /obj/item/reagent_containers/glass/beaker/waterbottle,
@@ -8068,40 +8068,40 @@
 	pixel_y = 28
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "vk" = (
 /obj/effect/turf_decal/stripes{
 	dir = 1
 	},
 /obj/machinery/light/floor,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "vm" = (
 /obj/structure/dresser,
 /obj/machinery/light/small{
 	dir = 1
 	},
 /turf/open/floor/wood,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "vn" = (
 /obj/structure/trash_pile,
 /turf/open/floor/circuit,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "vo" = (
 /obj/machinery/door/airlock/public/glass,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "vq" = (
 /obj/structure/closet/crate/trashcart,
 /obj/item/seeds/cannabis/death,
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/lattice/catwalk,
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "vr" = (
 /obj/structure/falsewall,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "vu" = (
 /obj/item/reagent_containers/food/snacks/cakeslice/birthday,
 /turf/open/indestructible/chocolate,
@@ -8111,9 +8111,9 @@
 	dir = 1
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "vx" = (
-/turf/closed/mineral/calorite,
+/turf/closed/mineral/gainium,
 /area/lavaland/surface/outdoors)
 "vz" = (
 /obj/effect/turf_decal/tile/bar{
@@ -8123,13 +8123,13 @@
 	dir = 8
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "vC" = (
 /obj/effect/decal/cleanable/glass,
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "vD" = (
 /obj/structure/lollipop{
 	icon_state = "lollipop_tree_red"
@@ -8145,7 +8145,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "vI" = (
 /obj/structure/sink{
 	dir = 8;
@@ -8153,10 +8153,10 @@
 	pixel_y = 2
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "vK" = (
 /obj/structure/flora/rock,
-/turf/open/floor/mineral/calorite,
+/turf/open/floor/mineral/gainium,
 /area/lavaland/surface/outdoors)
 "vQ" = (
 /obj/structure/trap/fattening,
@@ -8176,19 +8176,19 @@
 	dir = 8
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "vU" = (
 /obj/structure/cable,
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "vX" = (
 /obj/machinery/light{
 	dir = 1
 	},
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "vY" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 4
@@ -8198,7 +8198,7 @@
 	dir = 4
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "vZ" = (
 /obj/structure/flora/rock,
 /turf/open/floor/carpet/orange,
@@ -8215,17 +8215,17 @@
 	icon_state = "steel_decals6"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "we" = (
 /obj/structure/bed,
 /obj/item/bedsheet/black,
 /turf/open/floor/wood,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "wg" = (
 /obj/structure/frame/computer,
 /obj/item/trash/odd_disk,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "wh" = (
 /obj/effect/turf_decal/tile/purple{
 	dir = 1
@@ -8235,7 +8235,7 @@
 	},
 /obj/structure/reagent_dispensers/watertank,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "wj" = (
 /obj/structure/table,
 /obj/item/storage/box/handcuffs,
@@ -8243,18 +8243,18 @@
 	dir = 4
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "wk" = (
 /obj/item/folder/white,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "wl" = (
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
 /turf/open/floor/plating/airless,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "wm" = (
 /mob/living/simple_animal/hostile/feed/chocolate_slime/creambeast,
 /turf/open/candyfloor,
@@ -8265,7 +8265,7 @@
 	name = "Experiment #3 Plaque"
 	},
 /turf/closed/wall,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "wt" = (
 /obj/effect/turf_decal/tile/bar{
 	dir = 8
@@ -8275,14 +8275,14 @@
 	icon_state = "steel_decals8"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "wu" = (
 /obj/structure/table/wood,
 /obj/item/ashtray{
 	name = "candle holder"
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "wv" = (
 /mob/living/simple_animal/hostile/feed/chocolate_slime,
 /turf/open/chocolateriver,
@@ -8290,14 +8290,14 @@
 "wx" = (
 /obj/structure/tank_dispenser/oxygen,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "wy" = (
 /obj/effect/turf_decal/tile/bar{
 	dir = 4
 	},
 /obj/effect/turf_decal/tile/bar,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "wz" = (
 /obj/structure/chair/foldingchair{
 	dir = 8
@@ -8306,7 +8306,7 @@
 	dir = 8
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "wB" = (
 /obj/effect/turf_decal/stripes/corner,
 /turf/open/floor/plating/asteroid/basalt/lava_land_surface,
@@ -8317,25 +8317,25 @@
 /area/lavaland/surface/outdoors)
 "wE" = (
 /turf/closed/wall/r_wall/rust,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "wF" = (
 /obj/structure/lattice,
 /turf/open/floor/plating/airless,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "wH" = (
 /obj/effect/turf_decal/tile/bar{
 	dir = 8
 	},
 /obj/effect/turf_decal/tile/bar,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "wI" = (
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "wK" = (
 /obj/structure/sign/warning,
-/turf/closed/wall/mineral/calorite,
-/area/xenoarch/caloriteresearch_powered)
+/turf/closed/wall/mineral/gainium,
+/area/xenoarch/gainiumresearch_powered)
 "wM" = (
 /obj/structure/chair/stool,
 /obj/effect/turf_decal/loading_area{
@@ -8344,14 +8344,14 @@
 	name = "steel pannel"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "wP" = (
 /obj/structure/rack,
 /obj/item/storage/bag/ore,
 /obj/item/storage/bag/ore,
 /obj/item/storage/bag/ore,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "wQ" = (
 /obj/machinery/light/small/broken{
 	dir = 1
@@ -8359,7 +8359,7 @@
 /obj/item/autosurgeon/nutripump_turbo,
 /obj/structure/rack/shelf,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "wR" = (
 /obj/structure/rack/shelf,
 /obj/item/storage/firstaid/regular,
@@ -8368,7 +8368,7 @@
 	pixel_y = 3
 	},
 /turf/open/floor/plasteel/white,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "wT" = (
 /obj/structure/table,
 /obj/item/storage/box/donkpockets/donkpocketberry,
@@ -8379,7 +8379,7 @@
 	pixel_y = 6
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "wW" = (
 /obj/item/reagent_containers/food/snacks/candy,
 /turf/open/candyfloor,
@@ -8396,7 +8396,7 @@
 	},
 /obj/effect/turf_decal/tile/neutral,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "wZ" = (
 /obj/machinery/door/airlock/highsecurity{
 	req_access = 207
@@ -8418,14 +8418,14 @@
 	icon_state = "steel_decals_central4"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "xd" = (
 /obj/structure/cable{
 	icon_state = "2-4"
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "xe" = (
 /obj/effect/turf_decal/tile/neutral{
 	dir = 8
@@ -8440,18 +8440,18 @@
 /obj/structure/chair/bench,
 /obj/item/trash/popcorn,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "xf" = (
 /obj/structure/cable,
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "xg" = (
 /obj/machinery/mech_bay_recharge_port,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "xi" = (
 /obj/effect/turf_decal/box,
 /obj/effect/decal/cleanable/oil,
@@ -8461,21 +8461,21 @@
 /obj/structure/table,
 /obj/structure/bedsheetbin,
 /turf/open/floor/carpet/red,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "xk" = (
 /obj/machinery/conveyor{
 	dir = 8;
-	id = "calorite_inspec"
+	id = "gainium_inspec"
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "xl" = (
 /obj/structure/closet/secure_closet/medical3,
 /obj/machinery/light/broken{
 	dir = 8
 	},
 /turf/open/floor/plasteel/white,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "xm" = (
 /turf/open/chocolateriver,
 /area/ruin/powered/candyland)
@@ -8495,7 +8495,7 @@
 	name = "steel pannel"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "xt" = (
 /obj/structure/cable,
 /obj/machinery/quantumpad{
@@ -8525,7 +8525,7 @@
 	icon_state = "steel_decals7"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "xv" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 6;
@@ -8544,7 +8544,7 @@
 	icon_state = "steel_decals7"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "xA" = (
 /obj/structure/reagent_dispensers/cooking_oil,
 /turf/open/floor/plating,
@@ -8554,7 +8554,7 @@
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "xG" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/grimy{
@@ -8564,7 +8564,7 @@
 "xH" = (
 /obj/machinery/vending/kink,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "xJ" = (
 /obj/structure/disposalpipe/broken{
 	dir = 4
@@ -8583,12 +8583,12 @@
 	},
 /obj/structure/trash_pile,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "xQ" = (
 /obj/structure/flora/grass/both,
 /obj/structure/window/reinforced/fulltile,
 /turf/open/floor/light,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "xR" = (
 /obj/item/pickaxe,
 /turf/open/floor/plating/asteroid/basalt/lava_land_surface,
@@ -8603,13 +8603,13 @@
 "xT" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "xU" = (
 /obj/structure/chair/wood/normal{
 	dir = 8
 	},
 /turf/open/floor/carpet/royalblue,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "xV" = (
 /obj/effect/turf_decal/loading_area{
 	dir = 9;
@@ -8621,7 +8621,7 @@
 	icon_state = "steel_decals4"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "xW" = (
 /obj/machinery/shower{
 	dir = 8
@@ -8633,7 +8633,7 @@
 	name = "drain"
 	},
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "xX" = (
 /obj/effect/turf_decal/candy/redwhite3,
 /turf/open/candyfloor,
@@ -8645,11 +8645,11 @@
 	dir = 4
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "yb" = (
 /obj/structure/girder,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "yc" = (
 /obj/structure/lattice/catwalk,
 /obj/structure/closet/crate/miningcar,
@@ -8662,12 +8662,12 @@
 	dir = 8
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "yg" = (
 /turf/open/floor/plating{
 	icon_state = "panelscorched"
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "yh" = (
 /obj/effect/turf_decal/tile/neutral{
 	dir = 1
@@ -8678,7 +8678,7 @@
 /obj/effect/turf_decal/tile/neutral,
 /obj/machinery/door/airlock/public/glass,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "yi" = (
 /obj/structure/window/reinforced/tinted{
 	dir = 4
@@ -8690,7 +8690,7 @@
 	dir = 1
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "yk" = (
 /obj/effect/turf_decal/tile/bar,
 /obj/effect/turf_decal/tile/bar{
@@ -8706,7 +8706,7 @@
 	},
 /obj/item/reagent_containers/glass/beaker/large,
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "yl" = (
 /obj/effect/turf_decal/tile/bar,
 /obj/effect/turf_decal/tile/bar{
@@ -8715,7 +8715,7 @@
 /obj/machinery/reagentgrinder,
 /obj/structure/table,
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "yn" = (
 /obj/machinery/shower{
 	pixel_y = 19
@@ -8725,20 +8725,20 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "yp" = (
 /obj/machinery/light/broken,
 /obj/item/kirbyplants,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "yq" = (
 /obj/machinery/iv_drip/feeding_tube,
 /obj/machinery/light/small/broken{
 	dir = 8
 	},
 /turf/open/floor/engine,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "yr" = (
 /obj/structure/table,
 /obj/effect/turf_decal/loading_area{
@@ -8747,11 +8747,11 @@
 	dir = 1
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "ys" = (
 /obj/effect/decal/cleanable/oil,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "yu" = (
 /obj/effect/turf_decal/tile/purple{
 	dir = 1
@@ -8763,7 +8763,7 @@
 /obj/structure/table,
 /obj/structure/bedsheetbin,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "yw" = (
 /turf/closed/mineral/random,
 /area/lavaland/surface/outdoors)
@@ -8775,7 +8775,7 @@
 "yz" = (
 /obj/effect/decal/cleanable/robot_debris,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "yA" = (
 /obj/machinery/recharge_station,
 /obj/effect/turf_decal/box,
@@ -8783,22 +8783,22 @@
 	dir = 1
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "yD" = (
 /obj/structure/cable,
 /obj/effect/turf_decal/box/white,
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "yE" = (
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "yG" = (
 /obj/structure/fans/tiny/invisible,
 /obj/machinery/door/airlock/hatch,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "yJ" = (
 /obj/effect/decal/cleanable/glass,
 /obj/structure/cable{
@@ -8808,7 +8808,7 @@
 	icon_state = "1-2"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "yK" = (
 /obj/structure/barricade/wooden,
 /turf/open/candyfloor,
@@ -8819,7 +8819,7 @@
 	id = "fatchamber"
 	},
 /turf/open/floor/plating/lavaland_baseturf,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "yN" = (
 /obj/structure/closet/secure_closet/personal,
 /obj/effect/turf_decal/tile/bar{
@@ -8830,7 +8830,7 @@
 	icon_state = "steel_decals8"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "yO" = (
 /obj/effect/turf_decal/tile/bar,
 /obj/effect/turf_decal/tile/bar{
@@ -8838,7 +8838,7 @@
 	},
 /obj/structure/table/reinforced,
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "yP" = (
 /obj/structure/flora/rock,
 /turf/open/floor/plating,
@@ -8851,7 +8851,7 @@
 "yT" = (
 /obj/structure/table,
 /turf/open/floor/carpet/red,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "yU" = (
 /obj/effect/turf_decal/tile/neutral{
 	dir = 8
@@ -8866,17 +8866,17 @@
 /obj/structure/table/wood,
 /obj/effect/spawner/lootdrop/mre,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "yX" = (
 /obj/machinery/conveyor{
 	dir = 4;
-	id = "calorite_inspec"
+	id = "gainium_inspec"
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "yZ" = (
 /turf/open/floor/plating/lavaland_baseturf,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "za" = (
 /obj/structure/table,
 /obj/item/clothing/gloves/color/yellow,
@@ -8884,7 +8884,7 @@
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "zc" = (
 /obj/structure/lollipop,
 /turf/open/candyfloor,
@@ -8914,7 +8914,7 @@
 "zg" = (
 /obj/item/crowbar,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "zh" = (
 /obj/effect/turf_decal/loading_area{
 	dir = 1;
@@ -8927,17 +8927,17 @@
 	name = "steel pannel"
 	},
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "zj" = (
 /obj/item/trash/cheesie,
 /turf/open/floor/carpet/red,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "zl" = (
 /obj/structure/disposalpipe/segment{
 	dir = 9
 	},
 /turf/open/floor/plating/airless,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "zm" = (
 /obj/item/pickaxe/drill,
 /turf/open/floor/plating/asteroid/basalt/lava_land_surface,
@@ -8947,22 +8947,22 @@
 	dir = 1;
 	id = "fatloop"
 	},
-/turf/open/floor/mineral/calorite,
-/area/xenoarch/caloriteresearch_powered)
+/turf/open/floor/mineral/gainium,
+/area/xenoarch/gainiumresearch_powered)
 "zq" = (
 /obj/machinery/vending/dinnerware,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "zr" = (
 /obj/effect/turf_decal/caution,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "zs" = (
 /obj/structure/cable{
 	icon_state = "0-8"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "zu" = (
 /obj/structure/fans/tiny/invisible,
 /obj/structure/barricade/wooden,
@@ -8970,7 +8970,7 @@
 /turf/open/indestructible/chocolate,
 /area/ruin/powered/candyland)
 "zv" = (
-/turf/open/floor/mineral/calorite,
+/turf/open/floor/mineral/gainium,
 /area/lavaland/surface/outdoors)
 "zw" = (
 /obj/structure/table/reinforced/brass,
@@ -8983,12 +8983,12 @@
 	pixel_y = 9;
 	pixel_x = -5
 	},
-/turf/open/floor/mineral/calorite/strong,
+/turf/open/floor/mineral/gainium/strong,
 /area/lavaland/surface/outdoors)
 "zz" = (
 /obj/structure/table,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "zA" = (
 /obj/structure/flora/redgrass/redg,
 /obj/structure/flora/rock/pile,
@@ -9002,10 +9002,10 @@
 "zI" = (
 /obj/machinery/conveyor{
 	dir = 1;
-	id = "calorite_inspec"
+	id = "gainium_inspec"
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "zJ" = (
 /obj/effect/turf_decal/candy/greenwhite1,
 /mob/living/simple_animal/hostile/feed/chocolate_slime,
@@ -9018,7 +9018,7 @@
 /obj/item/newspaper,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "zM" = (
 /obj/machinery/power/smes{
 	charge = 20
@@ -9027,11 +9027,11 @@
 	icon_state = "0-2"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "zQ" = (
 /obj/structure/reagent_dispensers/water_cooler,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "zS" = (
 /obj/item/reagent_containers/food/snacks/store/cake/apple,
 /turf/open/indestructible/chocolate,
@@ -9042,7 +9042,7 @@
 	id = "fatchamber"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "zX" = (
 /obj/structure/lattice/catwalk,
 /obj/structure/railing,
@@ -9072,7 +9072,7 @@
 	name = "steel pannel"
 	},
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ab" = (
 /obj/item/trash/pistachios,
 /obj/effect/turf_decal/tile/bar{
@@ -9082,7 +9082,7 @@
 	dir = 1
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ad" = (
 /obj/effect/light_emitter,
 /turf/open/chocolateriver,
@@ -9092,7 +9092,7 @@
 	dir = 8
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ai" = (
 /obj/effect/turf_decal/candy/purplewhite1,
 /turf/open/candyfloor,
@@ -9100,15 +9100,15 @@
 "Ak" = (
 /obj/machinery/conveyor{
 	dir = 5;
-	id = "calorite_inspec"
+	id = "gainium_inspec"
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Al" = (
 /obj/structure/holosign/barrier/atmos,
 /obj/structure/lattice,
 /turf/open/floor/plating/lavaland_baseturf,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "Aq" = (
 /obj/structure/table,
 /obj/item/reagent_containers/food/drinks/soda_cans/thirteenloko{
@@ -9116,29 +9116,29 @@
 	},
 /obj/item/clothing/glasses/meson/engine,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ar" = (
 /obj/structure/fluff/paper/stack{
 	dir = 1
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "As" = (
 /obj/effect/decal/cleanable/glass,
 /turf/open/floor/plating/airless,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "At" = (
 /obj/machinery/computer/operating,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Av" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 8
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Aw" = (
-/turf/closed/wall/mineral/calorite,
+/turf/closed/wall/mineral/gainium,
 /area/lavaland/surface/outdoors)
 "Ax" = (
 /obj/effect/turf_decal/loading_area{
@@ -9156,7 +9156,7 @@
 	},
 /obj/item/carpentry/hammer,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "AB" = (
 /obj/structure/scale,
 /obj/effect/turf_decal/box,
@@ -9165,7 +9165,7 @@
 	pixel_y = 16
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "AC" = (
 /obj/structure/table,
 /obj/item/surgicaldrill{
@@ -9177,7 +9177,7 @@
 "AD" = (
 /obj/effect/decal/cleanable/vomit/old,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "AE" = (
 /obj/item/export/bottle/absinthe{
 	pixel_x = 8;
@@ -9185,7 +9185,7 @@
 	},
 /obj/effect/decal/cleanable/vomit/old,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "AF" = (
 /obj/structure/closet/firecloset,
 /turf/open/floor/plating{
@@ -9201,7 +9201,7 @@
 	name = "steel pannel"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "AH" = (
 /obj/machinery/light/small{
 	dir = 8
@@ -9209,7 +9209,7 @@
 /obj/item/reagent_containers/food/snacks/fuegoburrito,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/airless,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "AJ" = (
 /obj/structure/cable{
 	icon_state = "2-8"
@@ -9218,7 +9218,7 @@
 	icon_state = "0-8"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "AL" = (
 /obj/machinery/conveyor{
 	dir = 4;
@@ -9230,12 +9230,12 @@
 	name = "drain"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "AM" = (
 /obj/structure/table,
 /obj/item/clothing/gloves/color/red/insulated,
 /turf/open/floor/engine,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "AN" = (
 /obj/effect/turf_decal/tile/purple{
 	dir = 1
@@ -9245,7 +9245,7 @@
 	},
 /obj/machinery/vending/wardrobe/jani_wardrobe,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "AO" = (
 /obj/effect/turf_decal/tile/yellow{
 	dir = 4
@@ -9259,7 +9259,7 @@
 	layer = 2.9
 	},
 /turf/open/floor/engine,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "AP" = (
 /obj/effect/turf_decal/candy/greenwhite1,
 /turf/open/candyfloor,
@@ -9276,29 +9276,29 @@
 	dir = 5;
 	id = "fatchamber"
 	},
-/turf/open/floor/mineral/calorite,
-/area/xenoarch/caloriteresearch_powered)
+/turf/open/floor/mineral/gainium,
+/area/xenoarch/gainiumresearch_powered)
 "AV" = (
 /obj/structure/lattice,
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "AX" = (
-/obj/item/stack/ore/calorite,
+/obj/item/stack/ore/gainium,
 /obj/machinery/conveyor{
 	dir = 1;
-	id = "calorite_inspec"
+	id = "gainium_inspec"
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "AY" = (
 /obj/structure/lattice/catwalk,
 /obj/effect/turf_decal{
 	dir = 4
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "AZ" = (
 /obj/machinery/mineral/unloading_machine{
 	dir = 1;
@@ -9308,7 +9308,7 @@
 	},
 /obj/effect/turf_decal/stripes/full,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ba" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 4;
@@ -9319,14 +9319,14 @@
 	icon_state = "steel_decals_central7"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Bc" = (
 /obj/machinery/light{
 	dir = 1
 	},
 /obj/machinery/vending/cola/random,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Bd" = (
 /obj/structure/table/reinforced/brass,
 /obj/item/reagent_containers/food/snacks/grown/ash_flora/shavings,
@@ -9334,7 +9334,7 @@
 	pixel_y = 8;
 	pixel_x = 10
 	},
-/turf/open/floor/mineral/calorite/strong,
+/turf/open/floor/mineral/gainium/strong,
 /area/lavaland/surface/outdoors)
 "Bg" = (
 /obj/structure/bed,
@@ -9343,7 +9343,7 @@
 	pixel_x = 12
 	},
 /turf/open/floor/wood,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Bh" = (
 /obj/machinery/atmospherics/pipe/simple/supply/hidden{
 	dir = 9
@@ -9364,12 +9364,12 @@
 /area/lavaland/surface/outdoors)
 "Bl" = (
 /obj/structure/filingcabinet,
-/obj/item/paper/fluff/ruins/calorite_facility/note4,
+/obj/item/paper/fluff/ruins/gainium_facility/note4,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Bm" = (
 /turf/closed/mineral/random/volcanic/strangerock,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Bp" = (
 /obj/item/reagent_containers/food/snacks/candy,
 /turf/open/indestructible/bubblegum,
@@ -9377,29 +9377,29 @@
 "Bq" = (
 /obj/structure/window/reinforced,
 /turf/open/floor/engine,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Br" = (
 /obj/structure/dresser,
 /turf/open/floor/carpet/royalblue,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Bt" = (
 /obj/structure/table,
 /obj/item/pickaxe,
 /obj/item/pickaxe,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Bu" = (
 /obj/structure/toilet{
 	dir = 8
 	},
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Bw" = (
 /obj/structure/chair/sofa/right{
 	dir = 1
 	},
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Bx" = (
 /obj/machinery/door/airlock/glass{
 	dir = 1;
@@ -9437,7 +9437,7 @@
 	icon_state = "steel_decals9"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "BC" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 4;
@@ -9448,7 +9448,7 @@
 	icon_state = "steel_decals1"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "BF" = (
 /obj/effect/turf_decal/stripes{
 	dir = 1
@@ -9457,11 +9457,11 @@
 	icon_state = "4-8"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "BG" = (
 /obj/structure/chair/sofa/right,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "BH" = (
 /obj/effect/turf_decal{
 	dir = 1
@@ -9478,21 +9478,21 @@
 /obj/effect/decal/cleanable/molten_object/large,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "BL" = (
 /obj/structure/rack/shelf,
 /obj/item/storage/backpack/duffelbag/med/surgery{
 	pixel_y = 12
 	},
 /turf/open/floor/plasteel/white,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "BM" = (
 /obj/machinery/conveyor{
 	dir = 2;
 	id = "fatchamber"
 	},
-/turf/open/floor/mineral/calorite/hide,
-/area/xenoarch/caloriteresearch_powered)
+/turf/open/floor/mineral/gainium/hide,
+/area/xenoarch/gainiumresearch_powered)
 "BP" = (
 /obj/structure/flora/redgrass/redg,
 /turf/open/floor/plating/asteroid/basalt/lava_land_surface,
@@ -9500,22 +9500,22 @@
 "BS" = (
 /obj/structure/window/reinforced/fulltile,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "BV" = (
 /obj/structure/girder,
 /turf/open/floor/plating/lavaland_baseturf,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "BY" = (
-/obj/structure/mineral_door/calorite,
+/obj/structure/mineral_door/gainium,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Cc" = (
 /obj/effect/turf_decal/loading_area,
 /obj/effect/turf_decal/stripes/line{
 	dir = 4
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Cg" = (
 /obj/structure/flora/grass/jungle,
 /turf/open/floor/plating/asteroid/basalt/lava_land_surface,
@@ -9523,7 +9523,7 @@
 "Cj" = (
 /obj/structure/table,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ck" = (
 /obj/effect/turf_decal/tile/bar,
 /obj/effect/turf_decal/tile/bar{
@@ -9531,24 +9531,24 @@
 	},
 /obj/machinery/vending/boozeomat/all_access,
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Cm" = (
 /obj/machinery/door/airlock/public/glass{
 	dir = 4
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Cn" = (
 /obj/structure/cable{
 	icon_state = "4-8"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Cp" = (
 /obj/item/stack/cable_coil/cut/red,
 /obj/item/stack/cable_coil/cut/red,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Cr" = (
 /obj/structure/cable{
 	icon_state = "1-4"
@@ -9558,7 +9558,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Cs" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 2;
@@ -9573,11 +9573,11 @@
 	},
 /obj/effect/decal/cleanable/ash,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Cu" = (
 /obj/effect/turf_decal/box,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Cw" = (
 /obj/effect/turf_decal/tile/bar{
 	dir = 1
@@ -9587,7 +9587,7 @@
 	icon_state = "steel_decals8"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "CA" = (
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -9607,11 +9607,11 @@
 	icon_state = "0-4"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "CC" = (
 /obj/effect/turf_decal/stripes/line,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "CD" = (
 /obj/structure/table,
 /obj/machinery/microwave{
@@ -9619,7 +9619,7 @@
 	pixel_y = 6
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "CE" = (
 /obj/structure/lattice/catwalk,
 /obj/structure/railing,
@@ -9633,14 +9633,14 @@
 	},
 /obj/structure/table,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "CG" = (
 /obj/structure/chair/sofa,
 /obj/machinery/light{
 	dir = 1
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "CH" = (
 /obj/structure/table,
 /turf/open/floor/plating,
@@ -9648,7 +9648,7 @@
 "CI" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/airless,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "CK" = (
 /obj/effect/turf_decal{
 	dir = 8
@@ -9661,14 +9661,14 @@
 "CN" = (
 /obj/structure/scale,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "CO" = (
 /obj/machinery/conveyor{
 	dir = 2;
 	id = "calorietrash"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "CP" = (
 /obj/effect/turf_decal/loading_area{
 	dir = 10;
@@ -9676,7 +9676,7 @@
 	name = "steel pannel"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "CQ" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 1;
@@ -9690,13 +9690,13 @@
 	dir = 1
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "CR" = (
 /obj/effect/turf_decal/arrows{
 	dir = 4
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "CT" = (
 /obj/effect/turf_decal/tile/purple{
 	dir = 4
@@ -9708,7 +9708,7 @@
 	pixel_x = -4
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "CU" = (
 /obj/item/flashlight/lamp,
 /obj/item/export/bottle/vodka{
@@ -9716,7 +9716,7 @@
 	pixel_x = -9
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "CV" = (
 /obj/structure/sink{
 	dir = 8;
@@ -9724,17 +9724,17 @@
 	pixel_y = 2
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "CZ" = (
 /obj/structure/closet/secure_closet/personal,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Da" = (
 /obj/effect/turf_decal/stripes{
 	dir = 9
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Db" = (
 /obj/structure/window/reinforced/tinted{
 	dir = 8
@@ -9743,8 +9743,8 @@
 	dir = 1;
 	id = "fatchamber"
 	},
-/turf/open/floor/mineral/calorite/hide,
-/area/xenoarch/caloriteresearch_powered)
+/turf/open/floor/mineral/gainium/hide,
+/area/xenoarch/gainiumresearch_powered)
 "Dd" = (
 /obj/structure/sign/poster/official/random{
 	pixel_x = -32
@@ -9759,11 +9759,11 @@
 "De" = (
 /obj/machinery/suit_storage_unit/mining,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Dg" = (
 /obj/structure/lattice,
 /turf/open/lava/smooth/lava_land_surface,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "Dh" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 1;
@@ -9778,13 +9778,13 @@
 	icon_state = "steel_decals4"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Dj" = (
 /obj/structure/fluff/paper/stack{
 	dir = 1
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Dl" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 9
@@ -9800,7 +9800,7 @@
 	dir = 1
 	},
 /turf/open/floor/wood,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Do" = (
 /obj/structure/disposalpipe/trunk{
 	dir = 1
@@ -9810,13 +9810,13 @@
 	dir = 4
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Dp" = (
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "Dr" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 1;
@@ -9839,11 +9839,11 @@
 	icon_state = "steel_decals3"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Dt" = (
 /obj/effect/decal/cleanable/glass,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Dv" = (
 /obj/structure/cable{
 	icon_state = "2-4"
@@ -9851,7 +9851,7 @@
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "DA" = (
 /obj/structure/window/reinforced{
 	dir = 1;
@@ -9860,7 +9860,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/trash_pile,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "DC" = (
 /obj/structure/rack/shelf,
 /obj/item/storage/toolbox/mechanical{
@@ -9868,7 +9868,7 @@
 	pixel_y = -1
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "DE" = (
 /turf/open/indestructible/chocolate,
 /area/ruin/powered/candyland)
@@ -9877,7 +9877,7 @@
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "DK" = (
 /obj/effect/turf_decal/loading_area{
 	dir = 4;
@@ -9897,11 +9897,11 @@
 	dir = 1
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "DN" = (
 /obj/structure/fluff/paper/stack,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "DO" = (
 /obj/effect/turf_decal/candy/redwhite3,
 /obj/structure/fans/tiny/invisible,
@@ -9910,7 +9910,7 @@
 "DP" = (
 /obj/machinery/disposal/bin,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "DQ" = (
 /obj/effect/turf_decal/tile/red,
 /obj/effect/turf_decal/tile/red{
@@ -9924,7 +9924,7 @@
 "DW" = (
 /obj/structure/fluff/paper/stack,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "DX" = (
 /obj/effect/turf_decal/box,
 /obj/item/stack/marker_beacon{
@@ -9937,7 +9937,7 @@
 	picked_color = "Burgundy"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "DY" = (
 /obj/effect/turf_decal/tile/bar,
 /obj/effect/turf_decal/tile/bar{
@@ -9946,7 +9946,7 @@
 /obj/structure/table/reinforced,
 /obj/item/book/manual/wiki/barman_recipes,
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Eb" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 9
@@ -9961,7 +9961,7 @@
 	dir = 8
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ed" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -9975,7 +9975,7 @@
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Eh" = (
 /obj/effect/turf_decal/tile/neutral{
 	dir = 1
@@ -9988,14 +9988,14 @@
 "Ej" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "El" = (
 /obj/structure/disposalpipe/segment{
 	dir = 10
 	},
 /obj/effect/turf_decal,
 /turf/open/floor/plating/lavaland_baseturf,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "Em" = (
 /obj/effect/turf_decal/tile/bar,
 /obj/effect/turf_decal/tile/bar{
@@ -10006,13 +10006,13 @@
 	pixel_x = 11
 	},
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "En" = (
 /obj/item/shard{
 	icon_state = "small"
 	},
 /turf/open/floor/plating/lavaland_baseturf,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Eo" = (
 /obj/structure/lattice/catwalk,
 /obj/structure/chair/office,
@@ -10022,7 +10022,7 @@
 /obj/structure/rack/shelf,
 /obj/item/pickaxe/drill,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Er" = (
 /obj/structure/cable{
 	icon_state = "2-4"
@@ -10031,12 +10031,12 @@
 	icon_state = "4-8"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Es" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/lattice/catwalk,
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "Et" = (
 /obj/structure/trap/belch,
 /turf/open/floor/plating/asteroid/basalt/lava_land_surface,
@@ -10065,7 +10065,7 @@
 	icon_state = "steel_decals7"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ez" = (
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -10074,11 +10074,11 @@
 	icon_state = "2-8"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "EA" = (
 /obj/structure/trash_pile,
 /turf/open/floor/plating/airless,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "ED" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/rockvault,
@@ -10089,11 +10089,11 @@
 	id = "fatchamber"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "EI" = (
 /obj/structure/closet/emcloset,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "EJ" = (
 /obj/machinery/disposal/bin,
 /obj/structure/disposalpipe/trunk,
@@ -10112,17 +10112,17 @@
 "EL" = (
 /obj/machinery/conveyor{
 	dir = 9;
-	id = "calorite_inspec"
+	id = "gainium_inspec"
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "EN" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 8;
 	icon_state = "steel_decals8"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "EP" = (
 /obj/decal/stencil/left/seven{
 	pixel_y = 36
@@ -10147,7 +10147,7 @@
 	pixel_y = 4
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "EV" = (
 /obj/machinery/light/broken{
 	dir = 1
@@ -10156,7 +10156,7 @@
 	name = "bluescreened computer"
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "EW" = (
 /obj/structure/chair/sofa{
 	dir = 8
@@ -10165,7 +10165,7 @@
 	dir = 4
 	},
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "EY" = (
 /obj/effect/turf_decal/tile/purple{
 	dir = 8
@@ -10182,7 +10182,7 @@
 	},
 /obj/item/xenoarch/clean/hammer/cm15,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Fb" = (
 /obj/structure/lollipop{
 	icon_state = "lollipop_tree_red"
@@ -10199,7 +10199,7 @@
 	icon_state = "steel_decals7"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Fe" = (
 /obj/item/storage/toolbox/mechanical,
 /turf/open/floor/plating,
@@ -10223,19 +10223,19 @@
 	},
 /obj/item/trash/sosjerky,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "Fj" = (
 /obj/structure/window/reinforced/tinted{
 	dir = 4
 	},
 /turf/open/floor/plating/lavaland_baseturf,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Fk" = (
 /obj/machinery/light/small{
 	dir = 8
 	},
 /turf/open/floor/engine,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Fl" = (
 /obj/item/screwdriver{
 	pixel_y = 12;
@@ -10262,7 +10262,7 @@
 /obj/structure/table,
 /obj/item/storage/belt/utility,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Fq" = (
 /obj/structure/window/reinforced/tinted{
 	dir = 8
@@ -10274,30 +10274,30 @@
 	dir = 2
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Fr" = (
 /obj/structure/chair/foldingchair,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Fs" = (
 /obj/effect/turf_decal/stripes,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Fu" = (
 /obj/structure/fans/tiny,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Fw" = (
 /obj/item/trash/candy,
 /turf/open/floor/wood,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Fy" = (
 /obj/machinery/light{
 	dir = 1
 	},
 /obj/structure/frame/computer,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "FC" = (
 /obj/structure/plasticflaps,
 /obj/machinery/conveyor{
@@ -10305,7 +10305,7 @@
 	id = "fatchamber"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "FE" = (
 /turf/open/floor/plasteel/grimy,
 /area/xenoarch/nothinghere)
@@ -10321,7 +10321,7 @@
 /obj/structure/closet/emcloset,
 /obj/effect/turf_decal/box,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "FK" = (
 /obj/effect/turf_decal/tile/brown{
 	dir = 1
@@ -10338,7 +10338,7 @@
 	icon_state = "steel_decals7"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "FL" = (
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -10353,9 +10353,9 @@
 "FM" = (
 /obj/machinery/portable_atmospherics/canister/oxygen,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "FN" = (
-/obj/item/stack/ore/calorite,
+/obj/item/stack/ore/gainium,
 /turf/open/floor/carpet/orange,
 /area/lavaland/surface/outdoors)
 "FQ" = (
@@ -10379,11 +10379,11 @@
 	id = "calorietrash"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "FX" = (
 /obj/structure/closet/wardrobe/black,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "FZ" = (
 /turf/closed/wall,
 /area/xenoarch/bot{
@@ -10397,7 +10397,7 @@
 "Gc" = (
 /obj/structure/closet/secure_closet/medical1,
 /turf/open/floor/plasteel/white,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ge" = (
 /obj/item/restraints/handcuffs/cable{
 	pixel_y = -10;
@@ -10408,7 +10408,7 @@
 "Gf" = (
 /obj/effect/turf_decal/loading_area,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Gg" = (
 /obj/effect/turf_decal{
 	dir = 1
@@ -10423,22 +10423,22 @@
 /obj/structure/table/reinforced,
 /obj/item/storage/box/mre/menu4,
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Gj" = (
 /obj/item/soap/deluxe,
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Gn" = (
 /obj/structure/girder,
 /turf/open/floor/plating/airless,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Gp" = (
 /obj/structure/fans/tiny,
 /obj/machinery/door/airlock/public/glass{
 	dir = 4
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Gq" = (
 /turf/open/floor/plating,
 /area/xenoarch/bot{
@@ -10454,18 +10454,18 @@
 	dir = 1
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Gt" = (
 /obj/structure/table,
 /obj/item/folder/white,
 /obj/machinery/light/small,
 /turf/open/floor/plasteel/white,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Gu" = (
 /obj/structure/table,
 /obj/item/trash/plate,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Gw" = (
 /obj/structure/cable{
 	icon_state = "2-4"
@@ -10474,18 +10474,18 @@
 	icon_state = "1-4"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "GA" = (
 /obj/machinery/vending/cigarette,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "GD" = (
 /obj/structure/sign/warning,
 /turf/closed/wall/rust,
 /area/lavaland/surface/outdoors)
 "GE" = (
 /turf/closed/mineral/random,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "GF" = (
 /obj/effect/turf_decal/tile/bar,
 /obj/effect/turf_decal/tile/bar{
@@ -10493,21 +10493,21 @@
 	},
 /obj/machinery/vending/mealdor,
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "GI" = (
 /obj/structure/disposalpipe/segment{
 	dir = 6
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "GP" = (
-/obj/item/stack/ore/calorite,
+/obj/item/stack/ore/gainium,
 /obj/machinery/conveyor{
 	dir = 8;
-	id = "calorite_inspec"
+	id = "gainium_inspec"
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "GQ" = (
 /obj/machinery/computer/security/telescreen/entertainment{
 	pixel_x = -32
@@ -10517,7 +10517,7 @@
 	light_color = "#e8eaff"
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "GR" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/grimy,
@@ -10536,13 +10536,13 @@
 	dir = 1
 	},
 /turf/open/floor/engine,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "GU" = (
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "GW" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 4;
@@ -10553,18 +10553,18 @@
 	icon_state = "steel_decals3"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "GY" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 2;
 	icon_state = "steel_decals_central4"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Hf" = (
 /obj/effect/decal/cleanable/glass,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Hg" = (
 /obj/structure/flora/shadowtree/shadowtreee,
 /turf/open/floor/plating/asteroid/basalt/lava_land_surface,
@@ -10574,13 +10574,13 @@
 	dir = 4
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Hi" = (
 /obj/structure/closet/crate{
 	icon_state = "crateopen"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Hj" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -10588,7 +10588,7 @@
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Hk" = (
 /obj/structure/disposalpipe/trunk{
 	dir = 1
@@ -10598,7 +10598,7 @@
 	dir = 8
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Hl" = (
 /obj/effect/turf_decal/tile/bar,
 /obj/effect/turf_decal/tile/bar{
@@ -10606,7 +10606,7 @@
 	},
 /obj/machinery/vending/coffee,
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Hm" = (
 /obj/item/taperecorder/empty,
 /turf/open/floor/plating,
@@ -10621,20 +10621,20 @@
 	icon_state = "steel_decals1"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Hr" = (
 /obj/structure/chair/sofa/right,
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ht" = (
-/turf/closed/wall/mineral/calorite,
-/area/xenoarch/caloriteresearch_powered)
+/turf/closed/wall/mineral/gainium,
+/area/xenoarch/gainiumresearch_powered)
 "Hx" = (
 /turf/open/floor/carpet,
 /area/xenoarch/gen)
 "Hz" = (
 /turf/open/lava/smooth/lava_land_surface,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "HC" = (
 /obj/item/reagent_containers/food/snacks/candyheart,
 /turf/open/indestructible/chocolate,
@@ -10650,7 +10650,7 @@
 	pixel_y = 7;
 	pixel_x = 12
 	},
-/turf/open/floor/mineral/calorite/strong,
+/turf/open/floor/mineral/gainium/strong,
 /area/lavaland/surface/outdoors)
 "HF" = (
 /obj/effect/turf_decal/stripes/white/line{
@@ -10658,13 +10658,13 @@
 	icon_state = "steel_decals4"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "HG" = (
 /obj/structure/fluff/paper/stack{
 	dir = 9
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "HH" = (
 /obj/structure/table,
 /obj/item/storage/bag/ore,
@@ -10673,10 +10673,10 @@
 	dir = 1
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "HJ" = (
 /turf/closed/wall/r_wall,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "HK" = (
 /obj/structure/fans/tiny,
 /obj/machinery/door/airlock/public/glass{
@@ -10686,7 +10686,7 @@
 	dir = 8
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "HL" = (
 /obj/structure/railing{
 	dir = 1
@@ -10694,7 +10694,7 @@
 /obj/structure/tank_dispenser/oxygen,
 /obj/effect/turf_decal/box,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "HN" = (
 /obj/effect/turf_decal/tile/red,
 /obj/effect/turf_decal/tile/red{
@@ -10711,7 +10711,7 @@
 	dir = 1
 	},
 /turf/open/floor/carpet/royalblue,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "HR" = (
 /obj/effect/turf_decal/tile/bar,
 /obj/effect/turf_decal/tile/bar{
@@ -10723,7 +10723,7 @@
 	pixel_y = 6
 	},
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "HT" = (
 /obj/item/reagent_containers/food/snacks/candy,
 /turf/open/chocolateriver,
@@ -10738,14 +10738,14 @@
 	icon_state = "steel_decals3"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "HV" = (
 /obj/structure/cable{
 	icon_state = "4-8"
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "HZ" = (
 /obj/structure/barricade/wooden,
 /obj/structure/barricade/wooden/crude,
@@ -10755,7 +10755,7 @@
 /obj/effect/turf_decal/stripes,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ib" = (
 /obj/effect/turf_decal/tile/purple{
 	dir = 1
@@ -10768,7 +10768,7 @@
 /obj/structure/flora/ausbushes/ppflowers,
 /obj/structure/flora/ausbushes/genericbush,
 /turf/open/floor/grass,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "If" = (
 /obj/structure/window/reinforced/tinted{
 	dir = 4
@@ -10778,7 +10778,7 @@
 	id = "fatchamber"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ig" = (
 /obj/item/reagent_containers/food/snacks/candy,
 /turf/open/indestructible/chocolate,
@@ -10789,7 +10789,7 @@
 	},
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ik" = (
 /obj/item/reagent_containers/food/snacks/candy_corn,
 /turf/open/candyfloor,
@@ -10808,17 +10808,17 @@
 	icon_state = "steel_decals7"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ip" = (
 /obj/structure/table,
 /obj/item/weldingtool,
 /turf/open/floor/plating,
 /area/lavaland/surface/outdoors)
 "Iq" = (
-/obj/structure/statue/calorite/fatty,
+/obj/structure/statue/gainium/fatty,
 /obj/structure/table/reinforced/brass,
 /obj/item/book/granter/spell/fattening/belch,
-/turf/open/floor/mineral/calorite/strong,
+/turf/open/floor/mineral/gainium/strong,
 /area/lavaland/surface/outdoors)
 "It" = (
 /obj/machinery/light/small{
@@ -10826,15 +10826,15 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/white,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Iu" = (
 /obj/effect/decal/cleanable/glass,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Iw" = (
 /obj/item/stack/cable_coil/cut/red,
 /turf/open/floor/plating/asteroid/basalt/lava_land_surface,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "Iz" = (
 /obj/effect/turf_decal{
 	dir = 4
@@ -10850,12 +10850,12 @@
 	},
 /obj/structure/table/wood,
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "IE" = (
 /obj/structure/table,
 /obj/machinery/reagentgrinder,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "IF" = (
 /obj/item/reagent_containers/rag/towel{
 	pixel_y = 3
@@ -10869,11 +10869,11 @@
 	pixel_y = 3
 	},
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "IG" = (
 /obj/machinery/ore_silo,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "IH" = (
 /obj/structure/tree/candylight,
 /turf/open/candyfloor,
@@ -10888,7 +10888,7 @@
 	},
 /obj/structure/window/reinforced,
 /turf/open/floor/engine,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "IL" = (
 /obj/structure/chair/bench,
 /turf/open/floor/plasteel/dark,
@@ -10897,7 +10897,7 @@
 /obj/effect/turf_decal/stripes/box,
 /obj/machinery/porta_turret/fattening/heavy,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "IN" = (
 /obj/effect/turf_decal/stripes{
 	dir = 1
@@ -10907,15 +10907,15 @@
 	icon_state = "steel_decals_central6"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "IX" = (
 /obj/machinery/door/airlock/maintenance_hatch,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "IZ" = (
 /obj/machinery/light/floor,
 /turf/open/floor/pod,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ja" = (
 /obj/structure/cable{
 	icon_state = "1-8"
@@ -10925,7 +10925,7 @@
 	},
 /obj/machinery/space_heater,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Jc" = (
 /obj/effect/turf_decal/box,
 /obj/structure/mecha_wreckage/ripley/mkii,
@@ -10944,13 +10944,13 @@
 /obj/structure/table,
 /obj/item/folder/yellow,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Jg" = (
 /obj/machinery/door/airlock/public{
 	dir = 4
 	},
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Jh" = (
 /obj/structure/window/reinforced{
 	dir = 1;
@@ -10958,13 +10958,13 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Jj" = (
 /obj/structure/chair/foldingchair{
 	dir = 8
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Jl" = (
 /obj/effect/turf_decal/stripes/corner{
 	dir = 4
@@ -10993,10 +10993,10 @@
 	icon_state = "steel_decals7"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Jr" = (
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Jt" = (
 /obj/machinery/door/airlock/maintenance{
 	dir = 1;
@@ -11012,7 +11012,7 @@
 	pixel_y = 6
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Jv" = (
 /obj/structure/cable{
 	icon_state = "1-4"
@@ -11020,9 +11020,9 @@
 /obj/structure/cable{
 	icon_state = "4-8"
 	},
-/obj/item/paper/fluff/ruins/calorite_facility/engineer_note,
+/obj/item/paper/fluff/ruins/gainium_facility/engineer_note,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Jx" = (
 /obj/effect/turf_decal/tile/bar,
 /obj/effect/turf_decal/tile/bar{
@@ -11031,19 +11031,19 @@
 /obj/structure/table/reinforced,
 /obj/item/trash/tray,
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Jy" = (
 /obj/item/multitool,
 /obj/structure/cable{
 	icon_state = "2-4"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "JB" = (
 /obj/effect/turf_decal/stripes,
 /obj/effect/decal/cleanable/glass,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "JC" = (
 /obj/structure/rack/shelf,
 /obj/item/stack/packageWrap,
@@ -11052,13 +11052,13 @@
 /obj/item/stack/cable_coil/white,
 /obj/item/hand_labeler,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "JH" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 4
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "JI" = (
 /obj/structure/table,
 /obj/item/paper,
@@ -11072,7 +11072,7 @@
 	icon_state = "steel_decals6"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "JN" = (
 /obj/machinery/light{
 	dir = 1
@@ -11092,7 +11092,7 @@
 	icon_state = "steel_decals7"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "JP" = (
 /obj/effect/turf_decal/candy/redwhite,
 /turf/open/candyfloor,
@@ -11117,7 +11117,7 @@
 	icon_state = "steel_decals9"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "JT" = (
 /obj/structure/cable{
 	icon_state = "0-8"
@@ -11139,18 +11139,18 @@
 	icon_state = "steel_decals6"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "JZ" = (
 /obj/structure/rack/shelf,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ka" = (
 /obj/effect/turf_decal/tile/bar,
 /obj/effect/turf_decal/tile/bar{
 	dir = 1
 	},
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Kb" = (
 /obj/machinery/power/port_gen/pacman/mrs,
 /obj/structure/cable{
@@ -11159,7 +11159,7 @@
 /obj/item/stack/sheet/mineral/diamond,
 /obj/effect/turf_decal/box/white,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Kc" = (
 /obj/item/reagent_containers/food/snacks/bluecherrycupcake,
 /turf/open/candyfloor,
@@ -11186,7 +11186,7 @@
 	},
 /obj/effect/turf_decal/box,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Kg" = (
 /turf/open/floor/plasteel/dark/side{
 	dir = 1
@@ -11195,20 +11195,20 @@
 "Kh" = (
 /obj/effect/turf_decal/box/white,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ki" = (
 /obj/structure/table,
 /obj/item/geiger_counter,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Kj" = (
 /obj/machinery/conveyor_switch{
-	id = "calorite_inspec";
+	id = "gainium_inspec";
 	pixel_y = 6
 	},
 /obj/structure/table,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Kk" = (
 /obj/effect/turf_decal/stripes/line,
 /obj/effect/turf_decal/tile/yellow,
@@ -11222,7 +11222,7 @@
 	},
 /obj/item/pen,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ko" = (
 /obj/effect/turf_decal/tile/bar,
 /obj/effect/turf_decal/tile/bar{
@@ -11231,17 +11231,17 @@
 /obj/structure/table,
 /obj/machinery/chem_dispenser/drinks/beer/fullupgrade,
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Kp" = (
 /obj/machinery/door/airlock/medical,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Kq" = (
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Kt" = (
 /obj/structure/window/reinforced/tinted{
 	dir = 8
@@ -11251,7 +11251,7 @@
 	id = "fatchamber"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ku" = (
 /turf/closed/wall/r_wall/rust,
 /area/xenoarch/nothinghere)
@@ -11268,18 +11268,18 @@
 	pixel_y = 32
 	},
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ky" = (
 /obj/item/export/bottle/tequila{
 	pixel_y = 3;
 	pixel_x = -5
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Kz" = (
 /obj/structure/reagent_dispensers/fueltank,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "KC" = (
 /obj/effect/turf_decal/box,
 /obj/structure/mecha_wreckage/ripley/firefighter,
@@ -11294,17 +11294,17 @@
 	name = "steel pannel"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "KE" = (
 /obj/structure/cable{
 	icon_state = "1-4"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "KG" = (
 /obj/structure/trash_pile,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "KI" = (
 /mob/living/simple_animal/hostile/feed/chocolate_slime/creambeast,
 /turf/open/indestructible/chocolate,
@@ -11313,7 +11313,7 @@
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "KM" = (
 /obj/structure/sign/warning{
 	name = "\improper DEMONE TELEPORTER"
@@ -11324,13 +11324,13 @@
 /obj/structure/rack/shelf,
 /obj/item/taperecorder,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "KR" = (
 /obj/machinery/door/airlock/public{
 	dir = 4
 	},
 /turf/open/floor/plasteel/airless,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "KT" = (
 /obj/effect/turf_decal/tile/purple{
 	dir = 1
@@ -11342,13 +11342,13 @@
 	dir = 4
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "KU" = (
 /obj/item/stack/medical/gauze,
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "KW" = (
 /obj/structure/chair/office{
 	dir = 8
@@ -11366,13 +11366,13 @@
 "Ld" = (
 /obj/structure/chair/bench,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Le" = (
 /obj/effect/turf_decal/stripes{
 	dir = 4
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Lf" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 1;
@@ -11383,12 +11383,12 @@
 	icon_state = "steel_decals9"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Lh" = (
 /obj/item/kirbyplants,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/airless,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Li" = (
 /obj/structure/closet/secure_closet/brig{
 	id = "Cell 3";
@@ -11403,16 +11403,16 @@
 	dir = 1
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Lj" = (
 /obj/structure/closet/secure_closet/miner,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Lk" = (
 /obj/structure/scale,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Lm" = (
 /obj/effect/turf_decal/stripes{
 	dir = 1
@@ -11422,25 +11422,25 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Lo" = (
 /obj/structure/lattice/catwalk,
 /obj/machinery/conveyor{
 	dir = 4;
 	id = "fatchamber"
 	},
-/obj/item/stack/ore/calorite,
-/obj/item/stack/ore/calorite,
+/obj/item/stack/ore/gainium,
+/obj/item/stack/ore/gainium,
 /turf/open/floor/plating,
 /area/lavaland/surface/outdoors)
 "Ls" = (
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Lu" = (
 /obj/structure/table,
 /obj/item/clothing/glasses/sunglasses/blindfold,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Lx" = (
 /obj/item/stack/marker_beacon{
 	anchored = 1;
@@ -11467,27 +11467,27 @@
 	dir = 1
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "LH" = (
-/turf/open/floor/mineral/calorite/strong,
-/area/xenoarch/caloriteresearch_powered)
+/turf/open/floor/mineral/gainium/strong,
+/area/xenoarch/gainiumresearch_powered)
 "LJ" = (
 /obj/machinery/mineral/processing_unit{
 	dir = 1
 	},
 /obj/effect/turf_decal/stripes/full,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "LL" = (
 /obj/structure/window/fulltile,
 /obj/structure/flora/ausbushes/ywflowers,
 /obj/structure/flora/ausbushes/ppflowers,
 /turf/open/floor/grass,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "LM" = (
 /obj/effect/decal/cleanable/blood/old,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "LN" = (
 /obj/structure/chair/stool{
 	pixel_y = 8
@@ -11497,7 +11497,7 @@
 	},
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "LP" = (
 /obj/machinery/porta_turret/aux_base{
 	dir = 5;
@@ -11525,11 +11525,11 @@
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "LT" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating/lavaland_baseturf,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "LU" = (
 /obj/effect/turf_decal/tile/yellow{
 	dir = 4
@@ -11539,7 +11539,7 @@
 	dir = 4
 	},
 /turf/open/floor/engine,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "LV" = (
 /obj/item/flashlight/seclite{
 	pixel_y = 8;
@@ -11551,13 +11551,13 @@
 /obj/structure/bed/double,
 /obj/item/bedsheet/double_blue,
 /turf/open/floor/carpet/royalblue,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "LY" = (
 /obj/machinery/computer{
 	name = "broken computer"
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "LZ" = (
 /obj/effect/turf_decal/loading_area{
 	icon_state = "drain";
@@ -11588,7 +11588,7 @@
 	},
 /obj/effect/turf_decal/box/white,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Me" = (
 /obj/structure/barricade/wooden,
 /turf/open/indestructible/chocolate,
@@ -11599,15 +11599,15 @@
 	icon_state = "steel_decals4"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Mk" = (
 /obj/structure/chair/bench/right,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ml" = (
 /obj/structure/girder,
 /turf/open/floor/plating/lavaland_baseturf,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "Mm" = (
 /obj/structure/sink{
 	pixel_y = 20
@@ -11621,17 +11621,17 @@
 	name = "drain"
 	},
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Mn" = (
 /obj/effect/turf_decal/loading_area{
 	dir = 4
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ms" = (
 /obj/structure/closet/toolcloset,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Mt" = (
 /obj/item/stack/sheet/mineral/wood,
 /turf/open/floor/plating,
@@ -11641,7 +11641,7 @@
 /obj/item/restraints/legcuffs/beartrap,
 /obj/item/restraints/legcuffs/beartrap,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Mw" = (
 /obj/item/stack/marker_beacon{
 	anchored = 1;
@@ -11666,7 +11666,7 @@
 	dir = 4
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Mz" = (
 /obj/structure/flora/rock,
 /turf/closed/mineral/random/volcanic/strangerock,
@@ -11674,7 +11674,7 @@
 "MC" = (
 /obj/item/radio/off,
 /turf/open/floor/circuit,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "MD" = (
 /obj/effect/light_emitter,
 /turf/open/candyfloor,
@@ -11691,28 +11691,28 @@
 	dir = 4
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "MF" = (
 /obj/machinery/porta_turret/fattening,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "MH" = (
 /obj/structure/tank_dispenser,
 /obj/machinery/light/small{
 	dir = 8
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "MJ" = (
 /obj/item/stack/spacecash/c200{
 	pixel_y = 9
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "MN" = (
 /obj/structure/trash_pile,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "MP" = (
 /obj/structure/trap/fattening,
 /turf/open/floor/plating/asteroid/basalt/lava_land_surface,
@@ -11721,10 +11721,10 @@
 /obj/structure/table,
 /obj/item/storage/firstaid/regular,
 /turf/open/floor/carpet/red,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "MR" = (
 /turf/open/floor/carpet/red,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "MS" = (
 /obj/effect/turf_decal{
 	dir = 1
@@ -11734,7 +11734,7 @@
 	dir = 4
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "MU" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 4
@@ -11744,11 +11744,11 @@
 	name = "LIZARD CONTAINMENT SEAL"
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "MV" = (
 /obj/structure/disposalpipe/segment,
 /turf/closed/wall/r_wall,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "MX" = (
 /obj/effect/turf_decal/loading_area{
 	dir = 9;
@@ -11760,11 +11760,11 @@
 	icon_state = "steel_decals4"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "MZ" = (
 /obj/structure/scale,
 /turf/open/floor/engine,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Nb" = (
 /obj/machinery/power/terminal{
 	dir = 4
@@ -11773,12 +11773,12 @@
 	icon_state = "0-8"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Nc" = (
 /obj/structure/chair/bench/left,
 /obj/item/trash/sosjerky,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Nd" = (
 /obj/effect/turf_decal{
 	dir = 8
@@ -11796,14 +11796,14 @@
 	},
 /area/xenoarch/nothinghere)
 "Ng" = (
-/obj/item/paper/fluff/ruins/calorite_facility/charred,
+/obj/item/paper/fluff/ruins/gainium_facility/charred,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Nh" = (
 /obj/structure/table,
 /obj/item/plant_analyzer,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Nj" = (
 /obj/structure/table/reinforced,
 /obj/item/pen{
@@ -11829,7 +11829,7 @@
 	dir = 4
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Nn" = (
 /obj/structure/barricade/wooden,
 /turf/open/floor/plating/asteroid/basalt/lava_land_surface,
@@ -11838,11 +11838,11 @@
 /obj/structure/fluff/paper/stack,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Nq" = (
 /obj/structure/chair/bench/left,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Nt" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 8
@@ -11854,7 +11854,7 @@
 	dir = 4
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Nu" = (
 /obj/effect/turf_decal{
 	dir = 8
@@ -11863,7 +11863,7 @@
 /area/lavaland/surface/outdoors)
 "Ny" = (
 /turf/closed/wall/rust,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Nz" = (
 /obj/structure/table,
 /obj/item/flashlight/lamp,
@@ -11873,19 +11873,19 @@
 	name = "drain"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "NF" = (
 /obj/structure/chair/stool{
 	pixel_y = 8
 	},
 /turf/open/floor/carpet/red,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "NJ" = (
 /obj/structure/table,
 /obj/machinery/cell_charger,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "NK" = (
 /obj/effect/turf_decal/loading_area{
 	dir = 1;
@@ -11898,7 +11898,7 @@
 	pixel_y = 1
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "NL" = (
 /obj/effect/turf_decal/loading_area{
 	icon_state = "drain";
@@ -11909,7 +11909,7 @@
 /area/xenoarch/gen)
 "NN" = (
 /turf/closed/wall,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "NO" = (
 /obj/structure/table,
 /obj/item/storage/toolbox/mechanical{
@@ -11934,34 +11934,34 @@
 	},
 /obj/machinery/vending/snack/orange,
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "NT" = (
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "NU" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "NW" = (
 /obj/effect/turf_decal/box,
 /obj/structure/closet/crate{
 	icon_state = "crateopen"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "NX" = (
-/obj/structure/mineral_door/calorite,
-/turf/open/floor/mineral/calorite,
-/area/xenoarch/caloriteresearch_powered)
+/obj/structure/mineral_door/gainium,
+/turf/open/floor/mineral/gainium,
+/area/xenoarch/gainiumresearch_powered)
 "NZ" = (
 /obj/structure/rack,
 /obj/item/pickaxe,
 /obj/item/pickaxe,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Oa" = (
 /turf/open/floor/plasteel/white,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Oc" = (
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -11970,7 +11970,7 @@
 	dir = 1
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Od" = (
 /obj/effect/decal/cleanable/oil{
 	icon_state = "floor5"
@@ -11981,7 +11981,7 @@
 /obj/structure/curtain,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Oi" = (
 /obj/structure/table,
 /obj/effect/turf_decal/loading_area{
@@ -11992,32 +11992,32 @@
 /obj/item/pickaxe/drill/jackhammer,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "On" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/white,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Oo" = (
 /obj/item/export/bottle/rum{
 	pixel_x = 7;
 	pixel_y = -2
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Op" = (
 /obj/machinery/door/airlock/public{
 	dir = 4
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Oq" = (
 /turf/open/lava/smooth/lava_land_surface,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Or" = (
 /obj/machinery/light,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Os" = (
 /obj/effect/turf_decal/tile/bar,
 /obj/effect/turf_decal/tile/bar{
@@ -12033,17 +12033,17 @@
 	pixel_y = 16
 	},
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ou" = (
 /turf/open/floor/plating/airless,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "Ow" = (
 /obj/effect/turf_decal/stripes{
 	dir = 10
 	},
 /obj/effect/decal/cleanable/glass,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ox" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 1;
@@ -12062,7 +12062,7 @@
 	icon_state = "steel_decals7"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Oy" = (
 /obj/effect/turf_decal/tile/brown{
 	dir = 1
@@ -12080,7 +12080,7 @@
 	},
 /obj/effect/decal/cleanable/glass,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Oz" = (
 /obj/machinery/conveyor{
 	dir = 4;
@@ -12090,10 +12090,10 @@
 	dir = 1
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "OA" = (
 /turf/closed/wall,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "OB" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 8;
@@ -12103,23 +12103,23 @@
 	dir = 4
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "OF" = (
 /obj/structure/fans/tiny,
 /obj/machinery/door/airlock/public/glass,
 /turf/open/floor/plasteel/white,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "OH" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 9;
 	icon_state = "steel_decals4"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "OI" = (
 /obj/machinery/light/floor,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "OK" = (
 /obj/structure/table/wood,
 /obj/item/reagent_containers/food/drinks/bottle/vodka{
@@ -12127,24 +12127,24 @@
 	pixel_y = 8
 	},
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "OM" = (
 /obj/machinery/shower{
 	dir = 1
 	},
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "ON" = (
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
 /obj/machinery/door/airlock/maintenance_hatch,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "OO" = (
 /obj/effect/turf_decal,
 /turf/open/floor/plating/lavaland_baseturf,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "OP" = (
 /obj/structure/lollipop,
 /obj/effect/light_emitter,
@@ -12166,7 +12166,7 @@
 	dir = 4
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "OY" = (
 /obj/effect/turf_decal/tile/neutral{
 	dir = 8
@@ -12180,7 +12180,7 @@
 /obj/effect/turf_decal/tile/neutral,
 /obj/structure/chair/stool/bar,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "OZ" = (
 /obj/machinery/power/port_gen/pacman,
 /obj/structure/cable,
@@ -12189,7 +12189,7 @@
 	},
 /obj/effect/turf_decal/box/white,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Pa" = (
 /obj/machinery/mineral/ore_redemption,
 /obj/machinery/door/window/southright{
@@ -12201,13 +12201,13 @@
 "Pc" = (
 /obj/structure/lattice,
 /turf/open/floor/plating/lavaland_baseturf,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "Pd" = (
 /obj/structure/fluff/paper/stack{
 	dir = 4
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Pf" = (
 /obj/structure/table,
 /obj/item/pen,
@@ -12217,7 +12217,7 @@
 	name = "steel pannel"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Pg" = (
 /obj/effect/turf_decal/tile/bar,
 /obj/effect/turf_decal/stripes/white/line{
@@ -12225,11 +12225,11 @@
 	icon_state = "steel_decals8"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Pi" = (
 /obj/structure/scale,
-/turf/open/floor/mineral/calorite,
-/area/xenoarch/caloriteresearch_powered)
+/turf/open/floor/mineral/gainium,
+/area/xenoarch/gainiumresearch_powered)
 "Pn" = (
 /obj/effect/turf_decal/tile/bar,
 /obj/effect/turf_decal/tile/bar{
@@ -12246,20 +12246,20 @@
 	pixel_y = -2
 	},
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Pp" = (
 /obj/structure/chair/sofa/corner{
 	dir = 8
 	},
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Pq" = (
 /obj/structure/table,
 /obj/machinery/light{
 	dir = 1
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Pr" = (
 /obj/structure/sink{
 	pixel_y = 20
@@ -12274,7 +12274,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Pu" = (
 /obj/structure/table/wood,
 /obj/machinery/light/small{
@@ -12282,14 +12282,14 @@
 	},
 /obj/item/clothing/accessory/armband/science,
 /turf/open/floor/carpet/royalblue,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Pv" = (
 /turf/open/floor/plating/asteroid/basalt/lava_land_surface,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "Pw" = (
 /obj/structure/cable,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Px" = (
 /obj/item/reagent_containers/food/snacks/candyheart{
 	pixel_y = -8;
@@ -12313,13 +12313,13 @@
 	dir = 1
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "PA" = (
 /obj/structure/fluff/paper/stack{
 	dir = 5
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "PB" = (
 /obj/item/reagent_containers/food/snacks/candy_corn,
 /turf/open/floor/plating/asteroid/basalt/lava_land_surface,
@@ -12328,33 +12328,33 @@
 /obj/structure/closet/cabinet,
 /obj/item/clothing/accessory/armband/medblue,
 /turf/open/floor/wood,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "PF" = (
 /obj/structure/table,
 /obj/item/trash/tray,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "PH" = (
-/obj/structure/mineral_door/calorite,
+/obj/structure/mineral_door/gainium,
 /obj/structure/trap/fattening,
 /turf/open/floor/plasteel,
 /area/lavaland/surface/outdoors)
 "PJ" = (
 /turf/closed/wall/r_wall,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "PK" = (
 /obj/structure/chair/office/light{
 	dir = 8
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "PM" = (
 /obj/effect/turf_decal/stripes{
 	dir = 4
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "PS" = (
 /obj/machinery/power/port_gen/pacman,
 /obj/structure/cable{
@@ -12362,7 +12362,7 @@
 	},
 /obj/effect/turf_decal/box/white,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "PW" = (
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer1,
 /obj/effect/turf_decal/loading_area{
@@ -12383,34 +12383,34 @@
 	dir = 8
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Qb" = (
 /obj/machinery/conveyor{
 	dir = 4;
 	id = "calorietrash"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Qc" = (
 /obj/structure/fans/tiny/invisible,
 /obj/machinery/door/poddoor{
 	dir = 4
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "Qe" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/trash_pile,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Qg" = (
-/obj/item/stack/ore/calorite,
+/obj/item/stack/ore/gainium,
 /obj/machinery/conveyor{
 	dir = 4;
-	id = "calorite_inspec"
+	id = "gainium_inspec"
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Qj" = (
 /obj/machinery/processor,
 /turf/open/floor/plasteel/freezer,
@@ -12436,7 +12436,7 @@
 /obj/effect/turf_decal/tile/neutral,
 /obj/machinery/disposal/bin,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Qn" = (
 /obj/effect/turf_decal/tile/neutral{
 	dir = 8
@@ -12451,16 +12451,16 @@
 /obj/structure/table/wood,
 /obj/item/trash/tray,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Qr" = (
 /turf/open/floor/plating/lavaland_baseturf,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "Qy" = (
 /obj/machinery/shower{
 	pixel_y = 19
 	},
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Qz" = (
 /obj/item/reagent_containers/food/snacks/candyheart,
 /turf/open/chocolateriver,
@@ -12476,11 +12476,11 @@
 	},
 /obj/structure/trash_pile,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "QE" = (
-/obj/structure/statue/calorite/fatty,
-/turf/open/floor/mineral/calorite/strong,
-/area/xenoarch/caloriteresearch_powered)
+/obj/structure/statue/gainium/fatty,
+/turf/open/floor/mineral/gainium/strong,
+/area/xenoarch/gainiumresearch_powered)
 "QG" = (
 /obj/machinery/light{
 	dir = 1;
@@ -12495,12 +12495,12 @@
 	icon_state = "steel_decals6"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "QH" = (
 /obj/structure/table,
 /obj/item/paper,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "QL" = (
 /obj/machinery/newscaster{
 	pixel_y = 32
@@ -12522,7 +12522,7 @@
 /turf/open/floor/plating{
 	icon_state = "panelscorched"
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "QN" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 8;
@@ -12541,7 +12541,7 @@
 	icon_state = "steel_decals7"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "QQ" = (
 /obj/item/stack/marker_beacon{
 	anchored = 1;
@@ -12557,11 +12557,11 @@
 "QT" = (
 /obj/structure/closet/crate/large,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "QV" = (
 /obj/effect/decal/cleanable/molten_object/large,
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "QW" = (
 /obj/structure/rack/shelf,
 /obj/item/stack/cable_coil{
@@ -12582,7 +12582,7 @@
 	pixel_y = 5
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "QZ" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 4
@@ -12592,7 +12592,7 @@
 	icon_state = "steel_decals7"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ra" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 5
@@ -12611,24 +12611,24 @@
 	icon_state = "steel_decals1"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Rc" = (
 /turf/open/indestructible/bubblegum,
 /area/ruin/powered/candyland)
 "Rf" = (
 /obj/structure/chair/sofa/corner,
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Rh" = (
 /obj/structure/lattice/catwalk,
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "Rj" = (
 /obj/effect/turf_decal/loading_area{
 	dir = 8
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "Rm" = (
 /obj/structure/disposalpipe/trunk{
 	dir = 1
@@ -12641,7 +12641,7 @@
 	dir = 4
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Rp" = (
 /obj/item/reagent_containers/food/snacks/bluecherrycupcake,
 /turf/open/indestructible/bubblegum,
@@ -12649,11 +12649,11 @@
 "Rr" = (
 /obj/structure/window/plastitanium,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "Rx" = (
 /obj/structure/girder,
 /turf/open/floor/plating/asteroid/basalt/lava_land_surface,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "Rz" = (
 /turf/closed/indestructible/candy,
 /area/ruin/powered/candyland)
@@ -12670,15 +12670,15 @@
 "RC" = (
 /obj/structure/cable,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "RD" = (
 /obj/effect/turf_decal/stripes/full,
 /obj/machinery/conveyor{
 	dir = 1;
-	id = "calorite_inspec"
+	id = "gainium_inspec"
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "RE" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -12687,11 +12687,11 @@
 	icon_state = "1-8"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "RG" = (
 /obj/machinery/door/airlock/public,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "RH" = (
 /obj/item/reagent_containers/food/snacks/candyheart,
 /turf/open/candyfloor,
@@ -12699,31 +12699,31 @@
 "RI" = (
 /obj/machinery/mineral/processing_unit_console,
 /turf/closed/wall,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "RK" = (
 /obj/structure/closet/cabinet,
 /obj/item/clothing/under/rank/chief_engineer,
 /obj/item/clothing/shoes/workboots/toeless,
 /turf/open/floor/wood,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "RL" = (
 /obj/structure/closet/crate{
 	icon_state = "crateopen"
 	},
 /obj/effect/turf_decal/box,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "RM" = (
 /obj/effect/turf_decal/stripes,
 /obj/effect/decal/cleanable/ash,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "RS" = (
 /obj/effect/turf_decal/stripes{
 	dir = 1
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "RU" = (
 /obj/machinery/space_heater,
 /obj/structure/cable{
@@ -12733,10 +12733,10 @@
 	icon_state = "2-8"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "RV" = (
 /obj/structure/flora/rock/pile,
-/turf/open/floor/mineral/calorite,
+/turf/open/floor/mineral/gainium,
 /area/lavaland/surface/outdoors)
 "RW" = (
 /obj/effect/turf_decal/stripes/line{
@@ -12749,7 +12749,7 @@
 /obj/structure/table,
 /obj/item/taperecorder,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Sa" = (
 /obj/item/shard{
 	pixel_x = -6;
@@ -12763,7 +12763,7 @@
 "Sc" = (
 /obj/machinery/door/airlock/public,
 /turf/open/floor/plating/airless,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Sd" = (
 /obj/item/kirbyplants{
 	icon_state = "plant-21";
@@ -12771,7 +12771,7 @@
 	pixel_y = 3
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Se" = (
 /obj/effect/turf_decal/tile/purple{
 	dir = 1
@@ -12783,7 +12783,7 @@
 /obj/item/reagent_containers/glass/bucket,
 /obj/item/mop,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Sf" = (
 /obj/structure/window/reinforced/tinted{
 	dir = 8
@@ -12793,13 +12793,13 @@
 	id = "fatchamber"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Sh" = (
 /obj/machinery/suit_storage_unit/atmos,
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Si" = (
 /obj/effect/turf_decal/tile/neutral{
 	dir = 1
@@ -12812,32 +12812,32 @@
 	},
 /obj/machinery/door/airlock/public/glass,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Sj" = (
 /obj/structure/window/reinforced/fulltile,
 /turf/open/floor/light{
 	dir = 1
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Sn" = (
 /obj/item/shard,
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "So" = (
 /obj/item/trash/popcorn,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Sr" = (
 /obj/structure/ore_box,
 /obj/effect/turf_decal/box,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ss" = (
 /obj/machinery/porta_turret/fattening,
 /turf/open/floor/plating/lavaland_baseturf,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "St" = (
 /obj/machinery/light/broken{
 	dir = 1
@@ -12849,7 +12849,7 @@
 /obj/structure/closet/l3closet/scientist,
 /obj/effect/turf_decal/box,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Sw" = (
 /obj/effect/turf_decal,
 /turf/open/floor/plating/asteroid/basalt/lava_land_surface,
@@ -12862,7 +12862,7 @@
 	name = "steel pannel"
 	},
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Sy" = (
 /turf/closed/wall,
 /area/xenoarch/gen)
@@ -12878,12 +12878,12 @@
 	dir = 1
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "SB" = (
 /obj/structure/closet/crate/large,
 /obj/effect/turf_decal/box,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "SC" = (
 /obj/effect/turf_decal/box,
 /obj/effect/turf_decal/tile/purple,
@@ -12907,7 +12907,7 @@
 	dir = 6
 	},
 /turf/open/floor/plating/lavaland_baseturf,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "SF" = (
 /obj/effect/turf_decal/tile/neutral{
 	dir = 8
@@ -12920,10 +12920,10 @@
 	},
 /obj/effect/turf_decal/tile/bar,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "SG" = (
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "SH" = (
 /obj/structure/table,
 /obj/effect/turf_decal/loading_area{
@@ -12933,9 +12933,9 @@
 	},
 /obj/item/xenoarch/clean/brush,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "SJ" = (
-/obj/structure/mineral_door/calorite,
+/obj/structure/mineral_door/gainium,
 /obj/structure/barricade/wooden/crude,
 /turf/open/floor/plasteel,
 /area/lavaland/surface/outdoors)
@@ -12948,9 +12948,9 @@
 /area/xenoarch/gen)
 "SP" = (
 /obj/structure/table,
-/obj/item/paper/fluff/ruins/calorite_facility/note37,
+/obj/item/paper/fluff/ruins/gainium_facility/note37,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "SR" = (
 /obj/machinery/door/airlock/public/glass{
 	dir = 4
@@ -12962,7 +12962,7 @@
 	dir = 4
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "SS" = (
 /obj/effect/turf_decal/loading_area{
 	icon_state = "drain";
@@ -12980,20 +12980,20 @@
 /obj/item/stack/sheet/metal/fifty,
 /obj/item/stack/sheet/glass/fifty,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "SW" = (
 /obj/structure/table,
 /obj/effect/decal/cleanable/dirt,
 /obj/item/wrench/medical,
 /turf/open/floor/plasteel/white,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "SX" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 2;
 	icon_state = "steel_decals4"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "SZ" = (
 /obj/structure/barricade/wooden,
 /obj/structure/barricade/wooden/crude,
@@ -13009,12 +13009,12 @@
 "Te" = (
 /obj/structure/table/wood,
 /obj/item/trash/candle,
-/obj/item/paper/fluff/ruins/calorite_facility/security_note{
+/obj/item/paper/fluff/ruins/gainium_facility/security_note{
 	pixel_y = -7;
 	pixel_x = 9
 	},
 /turf/open/floor/wood,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Tg" = (
 /obj/effect/turf_decal/stripes/red/line{
 	dir = 1
@@ -13022,7 +13022,7 @@
 /obj/effect/turf_decal/caution/stand_clear/red,
 /obj/effect/turf_decal/stripes,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ti" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 2;
@@ -13037,19 +13037,19 @@
 	icon_state = "steel_decals7"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Tj" = (
 /obj/effect/spawner/structure/window/reinforced,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Tk" = (
 /obj/structure/holosign/barrier/atmos,
 /turf/open/floor/plating/lavaland_baseturf,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "Tl" = (
 /obj/structure/cursedfatfountain,
-/turf/open/floor/mineral/calorite,
-/area/xenoarch/caloriteresearch_powered)
+/turf/open/floor/mineral/gainium,
+/area/xenoarch/gainiumresearch_powered)
 "Tm" = (
 /obj/item/reagent_containers/food/snacks/candy_corn,
 /turf/open/indestructible/bubblegum,
@@ -13059,12 +13059,12 @@
 /obj/item/clothing/under/plasmaman/science,
 /obj/item/clothing/head/helmet/space/plasmaman/science,
 /turf/open/floor/carpet/royalblue,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "To" = (
 /obj/machinery/power/floodlight,
 /obj/machinery/light/floor,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Tp" = (
 /obj/machinery/shower{
 	dir = 4
@@ -13076,7 +13076,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Tq" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 8
@@ -13085,13 +13085,13 @@
 	dir = 1
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Tr" = (
 /obj/structure/chair/sofa{
 	dir = 1
 	},
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Tt" = (
 /obj/effect/turf_decal/loading_area{
 	dir = 9;
@@ -13099,7 +13099,7 @@
 	name = "steel pannel"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Tu" = (
 /obj/machinery/atmospherics/pipe/simple/supply/hidden{
 	dir = 4
@@ -13133,21 +13133,21 @@
 	icon_state = "steel_decals_central6"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Tw" = (
 /obj/machinery/power/smes{
 	charge = 20
 	},
 /obj/structure/cable,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Tx" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/fluff/paper/stack{
 	dir = 10
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ty" = (
 /obj/structure/window/reinforced/tinted{
 	dir = 4
@@ -13157,14 +13157,14 @@
 	id = "fatchamber"
 	},
 /turf/open/floor/plating/lavaland_baseturf,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "TA" = (
 /obj/machinery/door/airlock/hatch,
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "TB" = (
 /obj/item/reagent_containers/food/snacks/cakeslice/bscc,
 /turf/open/indestructible/bubblegum,
@@ -13179,7 +13179,7 @@
 	icon_state = "steel_decals6"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "TD" = (
 /obj/structure/table,
 /obj/structure/sign/poster/official/random{
@@ -13198,10 +13198,10 @@
 	dir = 8
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "TH" = (
 /turf/open/floor/pod,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "TJ" = (
 /obj/effect/turf_decal/stripes/line,
 /obj/effect/turf_decal/tile/yellow,
@@ -13211,11 +13211,11 @@
 /obj/structure/table,
 /obj/item/folder/yellow,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "TK" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/closed/wall,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "TL" = (
 /obj/structure/mecha_wreckage/ripley/firefighter,
 /turf/open/floor/plating/asteroid/basalt/lava_land_surface,
@@ -13226,7 +13226,7 @@
 	icon_state = "steel_decals_central6"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "TN" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 10;
@@ -13242,7 +13242,7 @@
 	},
 /obj/effect/decal/cleanable/glass,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "TO" = (
 /obj/structure/window/reinforced/tinted{
 	dir = 4
@@ -13251,37 +13251,37 @@
 	dir = 2;
 	id = "fatchamber"
 	},
-/turf/open/floor/mineral/calorite,
-/area/xenoarch/caloriteresearch_powered)
+/turf/open/floor/mineral/gainium,
+/area/xenoarch/gainiumresearch_powered)
 "TP" = (
 /obj/machinery/vending/cigarette,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "TR" = (
 /obj/machinery/light/small{
 	dir = 4
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "TS" = (
 /obj/effect/turf_decal/stripes/box,
 /obj/structure/mecha_wreckage/ripley/firefighter,
 /turf/open/floor/mech_bay_recharge_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "TU" = (
 /obj/structure/cable,
 /obj/structure/disposalpipe/segment{
 	dir = 9
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "TV" = (
 /obj/effect/turf_decal/tile/bar,
 /obj/effect/turf_decal/tile/bar{
 	dir = 4
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "TX" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -13307,7 +13307,7 @@
 	},
 /obj/effect/decal/cleanable/glass,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "Ui" = (
 /obj/structure/flora/ashtree/ashtreee,
 /turf/open/floor/plating/asteroid/basalt/lava_land_surface,
@@ -13319,11 +13319,11 @@
 	},
 /obj/item/stack/spacecash/c1000,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Uk" = (
 /obj/item/shard,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ul" = (
 /obj/effect/turf_decal/tile/bar{
 	dir = 4
@@ -13333,7 +13333,7 @@
 	icon_state = "steel_decals8"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Un" = (
 /obj/effect/turf_decal/loading_area{
 	icon_state = "drain";
@@ -13345,7 +13345,7 @@
 	pixel_y = -4
 	},
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Up" = (
 /obj/effect/turf_decal/box,
 /obj/effect/decal/cleanable/robot_debris,
@@ -13368,7 +13368,7 @@
 "UA" = (
 /obj/structure/chair/stool,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "UB" = (
 /obj/structure/toilet{
 	dir = 4
@@ -13377,7 +13377,7 @@
 	dir = 8
 	},
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "UE" = (
 /obj/structure/toilet{
 	dir = 4
@@ -13391,11 +13391,11 @@
 	dir = 8
 	},
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "UF" = (
 /obj/structure/table/wood,
 /obj/item/book/granter/spell/fattening/traps,
-/turf/open/floor/mineral/calorite,
+/turf/open/floor/mineral/gainium,
 /area/lavaland/surface/outdoors)
 "UG" = (
 /mob/living/simple_animal/hostile/lizard{
@@ -13411,7 +13411,7 @@
 	name = "LIZARD CONTAINMENT SEAL"
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "UK" = (
 /obj/machinery/shower{
 	dir = 4
@@ -13422,22 +13422,22 @@
 	name = "drain"
 	},
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "UL" = (
 /obj/structure/closet/cabinet,
 /turf/open/floor/wood,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "UM" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 4;
 	icon_state = "steel_decals_central4"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "UN" = (
 /obj/machinery/porta_turret/fattening,
 /turf/open/floor/plating/asteroid/basalt/lava_land_surface,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "UO" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 1;
@@ -13445,11 +13445,11 @@
 	},
 /obj/effect/decal/cleanable/glass,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "UQ" = (
 /obj/structure/curtain,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "UV" = (
 /obj/effect/turf_decal,
 /obj/structure/cable{
@@ -13465,13 +13465,13 @@
 	dir = 8
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "UZ" = (
-/obj/item/clothing/neck/petcollar/calorite,
+/obj/item/clothing/neck/petcollar/gainium,
 /obj/item/trash/fatoray_scrap1,
 /obj/structure/rack/shelf,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ve" = (
 /obj/structure/table,
 /obj/machinery/light/small/broken{
@@ -13482,26 +13482,26 @@
 	pixel_y = -3
 	},
 /turf/open/floor/plasteel/white,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Vh" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Vi" = (
 /obj/machinery/portable_atmospherics/canister/oxygen,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Vj" = (
 /obj/structure/table/wood,
 /obj/item/flashlight/lamp,
 /turf/open/floor/wood,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Vk" = (
 /obj/machinery/conveyor_switch/oneway{
 	id = "fatloop"
 	},
 /turf/open/floor/engine,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Vl" = (
 /obj/structure/disposaloutlet{
 	dir = 1
@@ -13510,21 +13510,21 @@
 	dir = 2
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Vm" = (
 /obj/item/export/bottle/applejack{
 	pixel_x = 6
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Vn" = (
 /obj/effect/turf_decal,
 /obj/item/stack/cable_coil/cut/red,
 /turf/open/floor/plating/asteroid/basalt/lava_land_surface,
 /area/lavaland/surface/outdoors)
 "Vt" = (
-/turf/open/floor/mineral/calorite,
-/area/xenoarch/caloriteresearch_powered)
+/turf/open/floor/mineral/gainium,
+/area/xenoarch/gainiumresearch_powered)
 "Vu" = (
 /obj/effect/turf_decal/tile/blue,
 /obj/effect/turf_decal/tile/blue{
@@ -13541,7 +13541,7 @@
 	dir = 8
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Vy" = (
 /obj/structure/window/reinforced/tinted{
 	dir = 4
@@ -13550,14 +13550,14 @@
 	dir = 2
 	},
 /turf/open/floor/plating/lavaland_baseturf,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "VD" = (
 /obj/effect/decal/cleanable/blood/innards{
 	pixel_x = -16
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/airless,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "VE" = (
 /turf/open/floor/plasteel,
 /area/xenoarch/bot{
@@ -13568,18 +13568,18 @@
 	dir = 2;
 	id = "fatloop"
 	},
-/turf/open/floor/mineral/calorite,
-/area/xenoarch/caloriteresearch_powered)
+/turf/open/floor/mineral/gainium,
+/area/xenoarch/gainiumresearch_powered)
 "VL" = (
 /obj/structure/window/reinforced/fulltile,
 /turf/open/floor/plating/lavaland_baseturf,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "VN" = (
 /obj/effect/turf_decal/stripes{
 	dir = 1
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "VO" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 1;
@@ -13603,7 +13603,7 @@
 	},
 /obj/structure/trash_pile,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "VP" = (
 /obj/machinery/atmospherics/pipe/simple/supply/hidden{
 	dir = 4
@@ -13623,27 +13623,27 @@
 	},
 /obj/effect/turf_decal/tile/brown,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "VU" = (
 /obj/machinery/conveyor{
 	dir = 4;
 	id = "fatchamber"
 	},
-/turf/open/floor/mineral/calorite,
-/area/xenoarch/caloriteresearch_powered)
+/turf/open/floor/mineral/gainium,
+/area/xenoarch/gainiumresearch_powered)
 "VW" = (
 /obj/structure/window/fulltile,
 /obj/structure/flora/ausbushes/ywflowers,
 /obj/structure/flora/junglebush,
 /turf/open/floor/grass,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "VZ" = (
 /obj/machinery/conveyor{
 	dir = 2;
 	id = "fatchamber"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Wa" = (
 /obj/machinery/shower{
 	dir = 8
@@ -13654,7 +13654,7 @@
 	name = "drain"
 	},
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "We" = (
 /obj/effect/turf_decal/candy/bluewhite1,
 /turf/open/candyfloor,
@@ -13664,7 +13664,7 @@
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "Wo" = (
 /obj/effect/turf_decal/loading_area{
 	dir = 1;
@@ -13677,14 +13677,14 @@
 	pixel_y = -4
 	},
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Wp" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/fluff/paper/stack{
 	dir = 8
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ws" = (
 /obj/structure/flora/rock/pile,
 /obj/effect/decal/remains/xeno,
@@ -13701,16 +13701,16 @@
 	dir = 5
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Wx" = (
-/obj/item/stack/sheet/mineral/calorite,
-/turf/open/floor/mineral/calorite,
-/area/xenoarch/caloriteresearch_powered)
+/obj/item/stack/sheet/mineral/gainium,
+/turf/open/floor/mineral/gainium,
+/area/xenoarch/gainiumresearch_powered)
 "Wy" = (
 /obj/structure/table,
 /obj/item/analyzer/ranged,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Wz" = (
 /obj/effect/turf_decal/tile/bar,
 /obj/effect/turf_decal/tile/bar{
@@ -13718,7 +13718,7 @@
 	},
 /obj/machinery/vending/cola/random,
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "WA" = (
 /obj/structure/lattice/catwalk,
 /obj/item/reagent_containers/food/drinks/beer{
@@ -13747,7 +13747,7 @@
 "WD" = (
 /obj/structure/lattice,
 /turf/open/floor/plating/asteroid/basalt/lava_land_surface,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "WE" = (
 /obj/effect/turf_decal/tile/bar,
 /obj/effect/turf_decal/tile/bar{
@@ -13755,7 +13755,7 @@
 	},
 /obj/machinery/processor,
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "WF" = (
 /obj/item/reagent_containers/food/snacks/candy_corn{
 	pixel_x = -10;
@@ -13772,7 +13772,7 @@
 /area/ruin/powered/candyland)
 "WM" = (
 /turf/open/floor/carpet/royalblue,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "WN" = (
 /obj/structure/fans/tiny,
 /obj/machinery/door/airlock/external{
@@ -13780,28 +13780,28 @@
 	name = "Mining Passage"
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "WO" = (
 /obj/item/shard{
 	icon_state = "small"
 	},
 /turf/open/floor/plasteel/white,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "WP" = (
 /obj/effect/turf_decal/stripes{
 	dir = 1
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "WQ" = (
 /obj/machinery/vending/tool,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "WS" = (
 /obj/structure/table/wood,
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "WT" = (
 /turf/open/candyfloor,
 /area/ruin/powered/candyland)
@@ -13815,7 +13815,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/airless,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "WZ" = (
 /obj/structure/cable{
 	icon_state = "2-4"
@@ -13823,7 +13823,7 @@
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Xa" = (
 /obj/structure/railing{
 	dir = 1
@@ -13831,7 +13831,7 @@
 /obj/machinery/portable_atmospherics/canister/oxygen,
 /obj/effect/turf_decal/box,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "Xc" = (
 /obj/structure/flora/rock/pile,
 /turf/open/floor/carpet/orange,
@@ -13851,19 +13851,19 @@
 	},
 /obj/structure/table,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Xf" = (
 /obj/machinery/light{
 	dir = 4
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Xg" = (
 /obj/machinery/light/broken,
 /obj/structure/reagent_dispensers/water_cooler,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Xi" = (
 /obj/effect/turf_decal/loading_area{
 	dir = 4;
@@ -13886,7 +13886,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Xk" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 1;
@@ -13901,7 +13901,7 @@
 	icon_state = "steel_decals7"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Xl" = (
 /obj/effect/turf_decal/loading_area{
 	dir = 8;
@@ -13918,13 +13918,13 @@
 "Xo" = (
 /obj/structure/chair/sofa/left,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Xq" = (
 /obj/machinery/computer/crew{
 	dir = 4
 	},
 /turf/open/floor/plasteel/white,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Xs" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 10
@@ -13937,29 +13937,29 @@
 	dir = 1
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Xw" = (
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Xx" = (
 /obj/effect/turf_decal/caution{
 	dir = 1
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "XA" = (
 /obj/item/trash/can,
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "XB" = (
 /turf/closed/wall/r_wall/rust,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "XC" = (
 /turf/open/floor/circuit,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "XD" = (
 /obj/structure/chair/bench/right,
 /turf/open/floor/plasteel/checker,
@@ -13976,7 +13976,7 @@
 	dir = 4
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "XG" = (
 /obj/effect/turf_decal/tile/neutral{
 	dir = 8
@@ -13994,7 +13994,7 @@
 	pixel_y = 8
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "XH" = (
 /obj/structure/cable{
 	icon_state = "1-8"
@@ -14003,7 +14003,7 @@
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "XI" = (
 /obj/structure/window/reinforced/tinted{
 	dir = 4
@@ -14013,7 +14013,7 @@
 	id = "fatchamber"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "XJ" = (
 /obj/machinery/shower{
 	dir = 1
@@ -14023,11 +14023,11 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "XK" = (
 /obj/machinery/computer/mech_bay_power_console,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "XL" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 5;
@@ -14046,7 +14046,7 @@
 	icon_state = "steel_decals7"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "XQ" = (
 /obj/structure/table/reinforced/brass,
 /obj/item/reagent_containers/food/snacks/grown/ash_flora/cactus_fruit{
@@ -14058,7 +14058,7 @@
 	pixel_y = -8;
 	pixel_x = -8
 	},
-/turf/open/floor/mineral/calorite/strong,
+/turf/open/floor/mineral/gainium/strong,
 /area/lavaland/surface/outdoors)
 "XS" = (
 /obj/machinery/computer/arcade{
@@ -14068,7 +14068,7 @@
 	dir = 1
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "XU" = (
 /obj/effect/decal/cleanable/oil,
 /turf/open/floor/plating,
@@ -14076,7 +14076,7 @@
 "XV" = (
 /obj/machinery/vending/clothing,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "XX" = (
 /obj/machinery/mineral/processing_unit{
 	dir = 1
@@ -14091,7 +14091,7 @@
 	name = "drain"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "XY" = (
 /obj/item/storage/toolbox/mechanical{
 	pixel_x = 4;
@@ -14101,7 +14101,7 @@
 	icon_state = "0-8"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "XZ" = (
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -14109,17 +14109,17 @@
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Yd" = (
 /obj/effect/turf_decal/tile/bar,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ye" = (
 /obj/effect/turf_decal/caution{
 	dir = 8
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Yf" = (
 /obj/structure/weightmachine/stacklifter,
 /obj/effect/turf_decal/box/red,
@@ -14128,7 +14128,7 @@
 "Yg" = (
 /obj/effect/spawner/structure/window/plasma/reinforced,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ym" = (
 /obj/effect/turf_decal/tile/purple{
 	dir = 1
@@ -14137,22 +14137,22 @@
 	dir = 4
 	},
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Yn" = (
 /obj/effect/turf_decal/stripes/box,
 /turf/open/floor/mech_bay_recharge_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Yp" = (
 /obj/machinery/space_heater,
 /turf/open/floor/engine,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Yr" = (
 /obj/machinery/conveyor{
 	dir = 10;
 	id = "calorietrash"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Ys" = (
 /obj/item/shard{
 	icon_state = "small"
@@ -14160,7 +14160,7 @@
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Yu" = (
 /obj/structure/lattice/catwalk,
 /turf/open/floor/plating,
@@ -14169,11 +14169,11 @@
 /obj/structure/closet/cabinet,
 /obj/item/clothing/accessory/armband/science,
 /turf/open/floor/carpet/royalblue,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "YC" = (
 /obj/structure/rack/shelf,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "YF" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 1
@@ -14185,15 +14185,15 @@
 	dir = 4
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "YJ" = (
 /obj/machinery/door/airlock/public,
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "YK" = (
 /obj/item/wrench,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "YO" = (
 /obj/structure/table,
 /obj/effect/turf_decal/loading_area{
@@ -14202,7 +14202,7 @@
 	name = "steel pannel"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "YR" = (
 /obj/structure/table,
 /obj/item/stock_parts/cell/crap{
@@ -14218,19 +14218,19 @@
 "YT" = (
 /obj/effect/decal/cleanable/ash,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "YV" = (
 /obj/machinery/porta_turret/fattening,
 /obj/structure/lattice/catwalk,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "YW" = (
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "YX" = (
 /obj/structure/closet/cabinet,
 /obj/item/clothing/under/rank/security/blueshirt,
@@ -14238,7 +14238,7 @@
 /obj/item/clothing/suit/armor/vest/blueshirt,
 /obj/item/clothing/shoes/jackboots,
 /turf/open/floor/wood,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "YZ" = (
 /obj/structure/fans/tiny/invisible,
 /turf/open/chocolateriver,
@@ -14261,11 +14261,11 @@
 "Ze" = (
 /obj/structure/trash_pile,
 /turf/open/floor/plating/asteroid/basalt/lava_land_surface,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "Zg" = (
 /obj/machinery/conveyor{
 	dir = 5;
-	id = "calorite_inspec"
+	id = "gainium_inspec"
 	},
 /obj/machinery/mineral/unloading_machine{
 	dir = 1;
@@ -14279,19 +14279,19 @@
 	name = "drain"
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "Zh" = (
 /obj/structure/closet/crate/trashcart,
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/lattice/catwalk,
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_unpowered)
+/area/xenoarch/gainiumresearch_unpowered)
 "Zk" = (
 /obj/structure/disposalpipe/segment{
 	dir = 9
 	},
 /turf/open/floor/plating,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Zl" = (
 /obj/structure/tree/candylight,
 /turf/open/indestructible/bubblegum,
@@ -14300,10 +14300,10 @@
 /obj/structure/table/optable,
 /obj/structure/curtain,
 /turf/open/floor/plasteel/white,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Zt" = (
 /turf/open/floor/engine,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Zu" = (
 /obj/effect/turf_decal/tile/bar,
 /obj/effect/turf_decal/tile/bar{
@@ -14316,13 +14316,13 @@
 	pixel_y = 16
 	},
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Zw" = (
 /obj/item/stack/cable_coil/cut/red,
 /turf/open/floor/plating{
 	icon_state = "platingdmg1"
 	},
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "Zx" = (
 /obj/effect/turf_decal/tile/bar,
 /obj/effect/turf_decal/tile/bar{
@@ -14338,13 +14338,13 @@
 	},
 /obj/item/storage/box/drinkingglasses,
 /turf/open/floor/mineral/basaltstone_floor,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "ZA" = (
 /obj/item/shard{
 	icon_state = "medium"
 	},
 /turf/open/floor/plating/lavaland_baseturf,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "ZC" = (
 /obj/machinery/light{
 	dir = 8
@@ -14362,7 +14362,7 @@
 	icon_state = "steel_decals4"
 	},
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "ZE" = (
 /obj/effect/turf_decal/tile/purple{
 	dir = 4
@@ -14372,7 +14372,7 @@
 "ZF" = (
 /obj/item/trash/plate,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "ZH" = (
 /turf/open/floor/carpet/orange,
 /area/lavaland/surface/outdoors)
@@ -14390,7 +14390,7 @@
 "ZP" = (
 /obj/structure/chair/stool/bar,
 /turf/open/floor/plasteel/dark,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "ZV" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 2;
@@ -14398,7 +14398,7 @@
 	},
 /obj/effect/decal/cleanable/glass,
 /turf/open/floor/plasteel,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 "ZX" = (
 /obj/structure/sink{
 	dir = 4;
@@ -14409,7 +14409,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/freezer,
-/area/xenoarch/caloriteresearch_powered)
+/area/xenoarch/gainiumresearch_powered)
 
 (1,1,1) = {"
 ms

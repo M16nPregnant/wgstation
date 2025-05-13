@@ -24,7 +24,7 @@
 /obj/item/reagent_containers/glass/beaker/lipoifier{
 	pixel_y = 8
 	},
-/turf/open/floor/mineral/calorite/hide,
+/turf/open/floor/mineral/gainium/hide,
 /area/ruin/powered/gluttony)
 "g" = (
 /obj/effect/gluttony,
@@ -57,7 +57,7 @@
 /turf/open/floor/plasteel,
 /area/ruin/powered/gluttony)
 "k" = (
-/turf/closed/wall/mineral/calorite,
+/turf/closed/wall/mineral/gainium,
 /area/ruin/powered/gluttony)
 "l" = (
 /obj/item/trash/candy,
@@ -158,7 +158,7 @@
 /area/ruin/powered/gluttony)
 "x" = (
 /obj/effect/gluttony,
-/turf/open/floor/mineral/calorite/hide,
+/turf/open/floor/mineral/gainium/hide,
 /area/ruin/powered/gluttony)
 "z" = (
 /obj/item/trash/plate,
@@ -225,7 +225,7 @@
 	},
 /obj/effect/turf_decal/tile/brown,
 /obj/effect/gluttony,
-/turf/open/floor/mineral/calorite/hide,
+/turf/open/floor/mineral/gainium/hide,
 /area/ruin/powered/gluttony)
 "G" = (
 /obj/effect/turf_decal/tile/brown{
@@ -267,7 +267,7 @@
 	dir = 8
 	},
 /obj/effect/gluttony,
-/turf/open/floor/mineral/calorite/hide,
+/turf/open/floor/mineral/gainium/hide,
 /area/ruin/powered/gluttony)
 "P" = (
 /obj/effect/turf_decal/tile/brown,
@@ -280,13 +280,13 @@
 /turf/open/floor/plasteel,
 /area/ruin/powered/gluttony)
 "R" = (
-/obj/structure/statue/calorite/fatty,
+/obj/structure/statue/gainium/fatty,
 /obj/item/book/granter/spell/fattening/transfer,
-/turf/open/floor/mineral/calorite/hide,
+/turf/open/floor/mineral/gainium/hide,
 /area/ruin/powered/gluttony)
 "S" = (
 /obj/structure/fans/tiny/invisible,
-/obj/structure/mineral_door/calorite,
+/obj/structure/mineral_door/gainium,
 /turf/open/floor/mineral/basaltstone_floor,
 /area/ruin/powered/gluttony)
 "T" = (
@@ -314,7 +314,7 @@
 	dir = 8
 	},
 /obj/effect/gluttony,
-/turf/open/floor/mineral/calorite/hide,
+/turf/open/floor/mineral/gainium/hide,
 /area/ruin/powered/gluttony)
 "W" = (
 /obj/effect/turf_decal/tile/brown{
@@ -335,7 +335,7 @@
 	},
 /obj/effect/turf_decal/tile/brown,
 /obj/effect/gluttony,
-/turf/open/floor/mineral/calorite/hide,
+/turf/open/floor/mineral/gainium/hide,
 /area/ruin/powered/gluttony)
 "Y" = (
 /obj/effect/gluttony,

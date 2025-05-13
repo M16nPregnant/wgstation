@@ -1019,7 +1019,7 @@
 "Wc" = (/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer1{dir = 4},/obj/machinery/atmospherics/pipe/manifold/supply/hidden,/obj/effect/turf_decal/loading_area{dir = 1; icon_state = "drain"; name = "drain"},/turf/open/floor/carpet/gato,/area/lavaland/demone/living)
 "We" = (/obj/structure/sink/kitchen{dir = 4; pixel_x = -12},/turf/open/floor/plasteel/freezer,/area/lavaland/demone/demonevillage)
 "Wg" = (/obj/machinery/atmospherics/components/unary/vent_pump/on,/obj/effect/turf_decal/stripes/line{dir = 1},/obj/machinery/light{dir = 4; light_color = "#e8eaff"},/turf/open/floor/plasteel,/area/lavaland/demone/living)
-"Wh" = (/obj/structure/statue/calorite/fatty,/turf/open/chocolateriver,/area/ruin/powered/candyland)
+"Wh" = (/obj/structure/statue/gainium/fatty,/turf/open/chocolateriver,/area/ruin/powered/candyland)
 "Wi" = (/obj/structure/table/wood,/obj/item/stamp/denied,/obj/item/stamp{pixel_x = 8},/obj/item/paper{pixel_x = -12},/obj/item/pen/fountain{pixel_x = -10; pixel_y = 3},/turf/open/floor/carpet/black,/area/lavaland/demone/factoryoffice)
 "Wl" = (/obj/machinery/jukebox,/turf/open/floor/plaswood,/area/lavaland/demone/factoryoffice)
 "Wp" = (/obj/machinery/light{dir = 8},/obj/structure/table/wood,/obj/item/reagent_containers/food/drinks/sillycup,/obj/item/reagent_containers/food/drinks/sillycup,/obj/item/reagent_containers/food/drinks/sillycup,/obj/item/reagent_containers/food/drinks/sillycup,/obj/item/reagent_containers/food/drinks/sillycup,/obj/item/reagent_containers/food/drinks/sillycup,/obj/item/reagent_containers/food/drinks/sillycup,/obj/item/reagent_containers/food/drinks/sillycup,/obj/item/reagent_containers/food/drinks/sillycup,/turf/open/floor/mineral/sandstone_floor,/area/lavaland/demone/lobby)

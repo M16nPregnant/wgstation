@@ -52775,7 +52775,7 @@
 	name = "Asshole Containment"
 	},
 /obj/item/banhammer,
-/turf/open/floor/mineral/calorite/dance,
+/turf/open/floor/mineral/gainium/dance,
 /area/space/nearstation)
 "gAV" = (
 /obj/item/radio/intercom{

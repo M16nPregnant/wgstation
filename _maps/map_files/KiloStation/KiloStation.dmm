@@ -45920,10 +45920,10 @@
 /turf/open/floor/plasteel/dark,
 /area/commons/storage/primary)
 "byR" = (
-/obj/item/stack/ore/calorite{
+/obj/item/stack/ore/gainium{
 	amount = 3
 	},
-/turf/open/floor/mineral/calorite/strong,
+/turf/open/floor/mineral/gainium/strong,
 /area/space/nearstation)
 "byT" = (
 /turf/closed/wall,
@@ -46509,7 +46509,7 @@
 	},
 /area/commons/fitness/recreation)
 "bzR" = (
-/turf/closed/wall/mineral/calorite,
+/turf/closed/wall/mineral/gainium,
 /area/space/nearstation)
 "bzS" = (
 /obj/structure/lattice/catwalk,
@@ -49410,8 +49410,8 @@
 /turf/open/floor/plating,
 /area/engineering/atmos)
 "bEK" = (
-/obj/item/clothing/neck/petcollar/calorite,
-/turf/open/floor/mineral/calorite/strong,
+/obj/item/clothing/neck/petcollar/gainium,
+/turf/open/floor/mineral/gainium/strong,
 /area/space/nearstation)
 "bEL" = (
 /obj/effect/turf_decal/tile/neutral{
@@ -53718,7 +53718,7 @@
 /turf/open/floor/plasteel/showroomfloor,
 /area/security/prison)
 "bLR" = (
-/obj/item/stack/ore/calorite{
+/obj/item/stack/ore/gainium{
 	amount = 17
 	},
 /turf/closed/mineral/random/labormineral,
@@ -81376,10 +81376,10 @@
 /obj/structure/closet/crate{
 	icon_state = "crateopen"
 	},
-/obj/item/stack/sheet/mineral/calorite{
+/obj/item/stack/sheet/mineral/gainium{
 	amount = 5
 	},
-/turf/open/floor/mineral/calorite,
+/turf/open/floor/mineral/gainium,
 /area/space/nearstation)
 "edN" = (
 /obj/machinery/atmospherics/pipe/layer_manifold{
@@ -82573,7 +82573,7 @@
 /turf/open/floor/plasteel/dark,
 /area/ruin/space/has_grav/powered/dinner_for_two)
 "jWv" = (
-/turf/open/floor/mineral/calorite,
+/turf/open/floor/mineral/gainium,
 /area/space/nearstation)
 "kam" = (
 /obj/structure/lattice/catwalk,
@@ -82825,7 +82825,7 @@
 /obj/structure/closet/crate{
 	icon_state = "crateopen"
 	},
-/turf/open/floor/mineral/calorite,
+/turf/open/floor/mineral/gainium,
 /area/space/nearstation)
 "lpV" = (
 /obj/machinery/door/airlock/maintenance{
@@ -84849,7 +84849,7 @@
 /turf/open/floor/catwalk_floor,
 /area/maintenance/port/aft)
 "wba" = (
-/obj/structure/statue/calorite/fatty,
+/obj/structure/statue/gainium/fatty,
 /turf/open/floor/plating/asteroid/airless,
 /area/space/nearstation)
 "wcN" = (

@@ -2261,7 +2261,7 @@
 	pixel_y = 24;
 	pixel_x = 24
 	},
-/obj/item/stack/sheet/mineral/calorite{
+/obj/item/stack/sheet/mineral/gainium{
 	amount = 10
 	},
 /obj/item/trash/popcorn,
