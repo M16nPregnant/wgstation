@@ -65,6 +65,11 @@ GLOBAL_LIST_INIT(gainium_recipes, list ( \
 	. = ..()
 	. += GLOB.gainium_recipes
 
+/obj/item/stack/sheet/mineral/gainium/attack(mob/living/carbon/M, mob/living/carbon/user) //WG13 Edible Gainium
+	to_chat(user, "<span class='notice'>You crunch down on the gainium shard. It tastes like rock candy!</span>")
+	playsound(user, 'sound/items/eatfood.ogg', 60, 1)
+	qdel(src)
+
 
 /obj/item/stack/tile/mineral/gainium  //GS13
 	name = "gainium tile"

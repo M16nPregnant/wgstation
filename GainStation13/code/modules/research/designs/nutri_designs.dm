@@ -5,12 +5,12 @@
 
 //nutritech weapons
 /datum/design/fatoray_weak
-	name = "Basic Fatoray"
+	name = "Caloray MK1"
 	id = "fatoray_weak"
 	build_type = PROTOLATHE
 	materials = list(/datum/material/iron = 8000, /datum/material/glass = 6000, /datum/material/gainium = 10000)
 	construction_time = 75
-	build_path = /obj/item/gun/energy/fatoray/weak
+	build_path = /obj/item/gun/caloray
 	category = list("Weapons")
 	departmental_flags = DEPARTMENTAL_FLAG_MEDICAL | DEPARTMENTAL_FLAG_SCIENCE | DEPARTMENTAL_FLAG_SECURITY
 
@@ -44,6 +44,7 @@
 	build_path = /obj/item/gun/energy/laser/alter_ray/noloss
 	category = list("Weapons")
 	departmental_flags = DEPARTMENTAL_FLAG_MEDICAL | DEPARTMENTAL_FLAG_SCIENCE | DEPARTMENTAL_FLAG_SECURITY
+
 
 //nutritech tools
 /datum/design/gainium_collar
