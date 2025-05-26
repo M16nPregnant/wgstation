@@ -67,7 +67,7 @@ GLOBAL_LIST_INIT(uncapped_resize_areas, list(/area/command/bridge, /area/mainten
 
 	// Handle Awards
 	if(client)
-		if(fatness > FATNESS_LEVEL_BLOB)
+		if(fatness > FATNESS_LEVEL_9)
 			client.give_award(/datum/award/achievement/fat/blob, src)
 		if(fatness > 10000)
 			client.give_award(/datum/award/achievement/fat/milestone_one, src)
@@ -218,7 +218,7 @@ GLOBAL_LIST_INIT(uncapped_resize_areas, list(/area/command/bridge, /area/mainten
 
 /mob/living/carbon/proc/xwg_resize()
 	if(client?.prefs?.weight_gain_extreme && !normalized)
-		var/xwg_size = sqrt(fatness/FATNESS_LEVEL_BLOB)
+		var/xwg_size = sqrt(fatness/FATNESS_LEVEL_9)
 		xwg_size = min(xwg_size, RESIZE_MACRO)
 		xwg_size = max(xwg_size, custom_body_size)
 		if(xwg_size > RESIZE_A_HUGEBIG) //check if the size needs capping otherwise don't bother searching the list
@@ -227,49 +227,89 @@ GLOBAL_LIST_INIT(uncapped_resize_areas, list(/area/command/bridge, /area/mainten
 		resize(xwg_size)
 
 /proc/get_fatness_level_name(fatness_amount)
-	if(fatness_amount < FATNESS_LEVEL_FAT)
+	if(fatness_amount < FATNESS_LEVEL_1)
 		return "Normal"
-	if(fatness_amount < FATNESS_LEVEL_FATTER)
+	if(fatness_amount < FATNESS_LEVEL_2)
 		return "Fat"
-	if(fatness_amount < FATNESS_LEVEL_VERYFAT)
+	if(fatness_amount < FATNESS_LEVEL_3)
 		return "Fatter"
-	if(fatness_amount < FATNESS_LEVEL_OBESE)
+	if(fatness_amount < FATNESS_LEVEL_4)
 		return "Very Fat"
-	if(fatness_amount < FATNESS_LEVEL_MORBIDLY_OBESE)
+	if(fatness_amount < FATNESS_LEVEL_5)
 		return "Obese"
-	if(fatness_amount < FATNESS_LEVEL_EXTREMELY_OBESE)
+	if(fatness_amount < FATNESS_LEVEL_6)
 		return "Very Obese"
-	if(fatness_amount < FATNESS_LEVEL_BARELYMOBILE)
+	if(fatness_amount < FATNESS_LEVEL_7)
 		return "Extremely Obese"
-	if(fatness_amount < FATNESS_LEVEL_IMMOBILE)
+	if(fatness_amount < FATNESS_LEVEL_8)
 		return "Barely Mobile"
-	if(fatness_amount < FATNESS_LEVEL_BLOB)
+	if(fatness_amount < FATNESS_LEVEL_9)
+		return "Immobile"
+	if(fatness_amount < FATNESS_LEVEL_10)
+		return "Lardass"
+	if(fatness_amount < FATNESS_LEVEL_11)
+		return "Normal"
+	if(fatness_amount < FATNESS_LEVEL_12)
+		return "Fat"
+	if(fatness_amount < FATNESS_LEVEL_13)
+		return "Fatter"
+	if(fatness_amount < FATNESS_LEVEL_14)
+		return "Very Fat"
+	if(fatness_amount < FATNESS_LEVEL_15)
+		return "Obese"
+	if(fatness_amount < FATNESS_LEVEL_16)
+		return "Very Obese"
+	if(fatness_amount < FATNESS_LEVEL_17)
+		return "Extremely Obese"
+	if(fatness_amount < FATNESS_LEVEL_18)
+		return "Barely Mobile"
+	if(fatness_amount < FATNESS_LEVEL_19)
 		return "Immobile"
 
 	return "Blob"
 
 /// Finds what the next fatness level for the parent mob would be based off of fatness_real.
 /mob/living/carbon/proc/get_next_fatness_level()
-	if(fatness_real < FATNESS_LEVEL_FAT)
-		return FATNESS_LEVEL_FAT
-	if(fatness_real < FATNESS_LEVEL_FATTER)
-		return FATNESS_LEVEL_FATTER
-	if(fatness_real < FATNESS_LEVEL_VERYFAT)
-		return FATNESS_LEVEL_VERYFAT
-	if(fatness_real < FATNESS_LEVEL_OBESE)
-		return FATNESS_LEVEL_OBESE
-	if(fatness_real < FATNESS_LEVEL_MORBIDLY_OBESE)
-		return FATNESS_LEVEL_MORBIDLY_OBESE
-	if(fatness_real < FATNESS_LEVEL_EXTREMELY_OBESE)
-		return FATNESS_LEVEL_EXTREMELY_OBESE
-	if(fatness_real < FATNESS_LEVEL_BARELYMOBILE)
-		return FATNESS_LEVEL_BARELYMOBILE
-	if(fatness_real < FATNESS_LEVEL_IMMOBILE)
-		return FATNESS_LEVEL_IMMOBILE
-	if(fatness_real < FATNESS_LEVEL_BLOB)
-		return FATNESS_LEVEL_BLOB
+	if(fatness_real < FATNESS_LEVEL_1)
+		return FATNESS_LEVEL_1
+	if(fatness_real < FATNESS_LEVEL_2)
+		return FATNESS_LEVEL_2
+	if(fatness_real < FATNESS_LEVEL_3)
+		return FATNESS_LEVEL_3
+	if(fatness_real < FATNESS_LEVEL_4)
+		return FATNESS_LEVEL_4
+	if(fatness_real < FATNESS_LEVEL_5)
+		return FATNESS_LEVEL_5
+	if(fatness_real < FATNESS_LEVEL_6)
+		return FATNESS_LEVEL_6
+	if(fatness_real < FATNESS_LEVEL_7)
+		return FATNESS_LEVEL_7
+	if(fatness_real < FATNESS_LEVEL_8)
+		return FATNESS_LEVEL_8
+	if(fatness_real < FATNESS_LEVEL_9)
+		return FATNESS_LEVEL_9
+	if(fatness_real < FATNESS_LEVEL_10)
+		return FATNESS_LEVEL_10
+	if(fatness_real < FATNESS_LEVEL_11)
+		return FATNESS_LEVEL_11
+	if(fatness_real < FATNESS_LEVEL_12)
+		return FATNESS_LEVEL_12
+	if(fatness_real < FATNESS_LEVEL_13)
+		return FATNESS_LEVEL_13
+	if(fatness_real < FATNESS_LEVEL_14)
+		return FATNESS_LEVEL_14
+	if(fatness_real < FATNESS_LEVEL_15)
+		return FATNESS_LEVEL_15
+	if(fatness_real < FATNESS_LEVEL_16)
+		return FATNESS_LEVEL_16
+	if(fatness_real < FATNESS_LEVEL_17)
+		return FATNESS_LEVEL_17
+	if(fatness_real < FATNESS_LEVEL_18)
+		return FATNESS_LEVEL_18
+	if(fatness_real < FATNESS_LEVEL_19)
+		return FATNESS_LEVEL_19
 
-	return FATNESS_LEVEL_BLOB
+	return FATNESS_LEVEL_19
 
 /// How much real fatness does the current mob have to gain until they reach the next level? Return FALSE if they are maxed out.
 /mob/living/carbon/proc/fatness_until_next_level()

@@ -173,15 +173,15 @@ GLOBAL_LIST_INIT(gainium_recipes, list ( \
 		to_chat(M, "<span class='warning'>Nothing happens.</span>")
 		return
 
-	if(M.fatness < FATNESS_LEVEL_FATTER)
+	if(M.fatness < FATNESS_LEVEL_2)
 		to_chat(M, "<span class='warning'>The moment your hand meets the statue, you feel a little warmer...</span>")
-	else if(M.fatness < FATNESS_LEVEL_OBESE)
+	else if(M.fatness < FATNESS_LEVEL_4)
 		to_chat(M, "<span class='warning'>Upon each poke of the statue, you feel yourself get a little heavier.</span>")
-	else if(M.fatness < FATNESS_LEVEL_EXTREMELY_OBESE)
+	else if(M.fatness < FATNESS_LEVEL_6)
 		to_chat(M, "<span class='warning'>With each touch you keep getting fatter... But the fatter you grow, the more enticed you feel to poke the statue.</span>")
-	else if(M.fatness < FATNESS_LEVEL_BARELYMOBILE)
+	else if(M.fatness < FATNESS_LEVEL_7)
 		to_chat(M, "<span class='warning'>The world around you blur slightly as you focus on prodding the statue, your waistline widening further...</span>")
-	else if(M.fatness < FATNESS_LEVEL_IMMOBILE)
+	else if(M.fatness < FATNESS_LEVEL_8)
 		to_chat(M, "<span class='warning'>A whispering voice gently compliments your massive body, your own mind begging to touch the statue.</span>")
 	else
 		to_chat(M, "<span class='warning'>You can barely reach the statue past your floor-covering stomach! And yet, it still calls to you...</span>")

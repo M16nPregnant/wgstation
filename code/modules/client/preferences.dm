@@ -2823,12 +2823,12 @@ GLOBAL_LIST_EMPTY(preferences_datums)
 					// GS13: Adjust sprite ranges in char setup
 					var/new_bellysize = input(user, "Belly size :\n(1-10)", "Character Preference") as num|null
 					if(new_bellysize)
-						features["belly_size"] = clamp(round(new_bellysize), 1, 10)
+						features["belly_size"] = clamp(round(new_bellysize), 1, BELLY_SIZE_MAX)
 
 				if("max_belly_size")
 					var/new_bellymax = input(user, "Max belly fat size :\n(0-9)", "Character Preference") as num|null
 					if(new_bellymax)
-						features["max_belly_size"] = clamp(round(new_bellymax), 0, 10)
+						features["max_belly_size"] = clamp(round(new_bellymax), 0, BELLY_SIZE_MAX)
 
 				if("belly_shape") //GS13 - belly shapes
 					var/new_shape

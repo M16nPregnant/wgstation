@@ -322,7 +322,7 @@
 		return FALSE
 
 	switch(L.fatness)
-		if(FATNESS_LEVEL_FAT to INFINITY)
+		if(FATNESS_LEVEL_1 to INFINITY)
 			if(HAS_TRAIT(L, TRAIT_FAT_GOOD))
 				add_event(null, "fatness", /datum/mood_event/fat_good)
 			else if(HAS_TRAIT(L, TRAIT_FAT_BAD))

@@ -149,7 +149,7 @@
 
 	var/obj/item/melee/arm_blade/false/blade = new(target,1)
 	target.put_in_hands(blade)
-	target.visible_message("<span class='warning'>A grotesque blade forms around [target.name]\'s arm!</span>", "<span class='userdanger'>Your arm twists and mutates, transforming into a horrific monstrosity!</span>", "<span class='italics'>You hear organic matter ripping and tearing!</span>")
+	target.visible_message("<span class='warning'>A grotesque blade forms around [target.name]'s arm!</span>", "<span class='userdanger'>Your arm twists and mutates, transforming into a horrific monstrosity!</span>", "<span class='italics'>You hear organic matter ripping and tearing!</span>")
 	playsound(target, 'sound/effects/blobattack.ogg', 30, 1)
 
 	addtimer(CALLBACK(src, PROC_REF(remove_fake), target, blade), 600)
@@ -184,6 +184,8 @@
 	var/datum/antagonist/changeling/changeling = user.mind.has_antag_datum(/datum/antagonist/changeling)
 	if(!(changeling.has_dna(target.dna)))
 		changeling.add_new_profile(target)
+	if(target.reagents)
+		target.reagents.add_reagent(/datum/reagent/consumable/lipoifier, 30)
 	return TRUE
 
 /datum/action/changeling/sting/mute
@@ -247,7 +249,7 @@
 	loudness = 1
 
 /datum/action/changeling/sting/cryo/sting_action(mob/user, mob/target)
-	log_combat(user, target, "stung", "cryo sting")
+	log_combat(user, target, "stung", "fatty sting")
 	if(target.reagents)
-		target.reagents.add_reagent(/datum/reagent/consumable/frostoil, 30)
+		target.reagents.add_reagent(/datum/reagent/consumable/lipoifier, 30)
 	return TRUE

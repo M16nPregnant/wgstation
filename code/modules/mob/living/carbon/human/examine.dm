@@ -407,28 +407,58 @@
 	if(nutrition < NUTRITION_LEVEL_STARVING - 50)
 		. += "[t_He] [t_is] severely malnourished.\n"
 
-	if(fatness >= FATNESS_LEVEL_BLOB)
+	if(fatness >= FATNESS_LEVEL_19)
 		. += span_boldwarning("[t_He] [t_is] completely engulfed in rolls upon rolls of flab. [t_His] head is poking out on top of [t_His] body, akin to a marble on top of a hill.")
 
-	else if(fatness >= FATNESS_LEVEL_IMMOBILE)
+	else if(fatness >= FATNESS_LEVEL_18)
 		. += span_boldwarning("[t_His] body is buried in an overflowing surplus of adipose, and [t_His] legs are completely buried beneath layers of meaty, obese flesh.")
 
-	else if(fatness >= FATNESS_LEVEL_BARELYMOBILE)
+	else if(fatness >= FATNESS_LEVEL_17)
 		. += span_warning("[t_He] [t_is] as wide as [t_He] [t_is] tall, barely able to move [t_His] masssive body that seems to be overtaken with piles of flab.")
 
-	else if(fatness >= FATNESS_LEVEL_EXTREMELY_OBESE)
+	else if(fatness >= FATNESS_LEVEL_16)
+		. += span_boldwarning("[t_His] body is buried in an overflowing surplus of adipose, and [t_His] legs are completely buried beneath layers of meaty, obese flesh.")
+
+	else if(fatness >= FATNESS_LEVEL_15)
+		. += span_warning("[t_He] [t_is] as wide as [t_He] [t_is] tall, barely able to move [t_His] masssive body that seems to be overtaken with piles of flab.")
+
+	else if(fatness >= FATNESS_LEVEL_14)
 		. += span_warning("[t_He] [t_is] ripe with numerous rolls of fat, almost all of [t_His] body layered with adipose.")
 
-	else if(fatness >= FATNESS_LEVEL_MORBIDLY_OBESE)
+	else if(fatness >= FATNESS_LEVEL_13)
 		. += span_warning("[t_He] [t_is] utterly stuffed with abundant lard, [t_He] doesn't seem to be able to move much.")
 
-	else if(fatness >= FATNESS_LEVEL_OBESE)
+	else if(fatness >= FATNESS_LEVEL_12)
 		. += span_warning("[t_He] [t_is] engorged with fat, [t_His] body laden in rolls of fattened flesh.")
 
-	else if(fatness >= FATNESS_LEVEL_VERYFAT)
+	else if(fatness >= FATNESS_LEVEL_11)
 		. += span_notice("[t_He] [t_is] pleasantly plushy, [t_His] body gently wobbling whenever they move.")
 
-	else if(fatness >= FATNESS_LEVEL_FATTER)
+	else if(fatness >= FATNESS_LEVEL_10)
+		. += span_notice("[t_He] [t_is] soft and curvy, [t_His] belly looking like a small pillow.")
+
+	else if(fatness >= FATNESS_LEVEL_9)
+		. += span_boldwarning("[t_He] [t_is] completely engulfed in rolls upon rolls of flab. [t_His] head is poking out on top of [t_His] body, akin to a marble on top of a hill.")
+
+	else if(fatness >= FATNESS_LEVEL_8)
+		. += span_boldwarning("[t_His] body is buried in an overflowing surplus of adipose, and [t_His] legs are completely buried beneath layers of meaty, obese flesh.")
+
+	else if(fatness >= FATNESS_LEVEL_7)
+		. += span_warning("[t_He] [t_is] as wide as [t_He] [t_is] tall, barely able to move [t_His] masssive body that seems to be overtaken with piles of flab.")
+
+	else if(fatness >= FATNESS_LEVEL_6)
+		. += span_warning("[t_He] [t_is] ripe with numerous rolls of fat, almost all of [t_His] body layered with adipose.")
+
+	else if(fatness >= FATNESS_LEVEL_5)
+		. += span_warning("[t_He] [t_is] utterly stuffed with abundant lard, [t_He] doesn't seem to be able to move much.")
+
+	else if(fatness >= FATNESS_LEVEL_4)
+		. += span_warning("[t_He] [t_is] engorged with fat, [t_His] body laden in rolls of fattened flesh.")
+
+	else if(fatness >= FATNESS_LEVEL_3)
+		. += span_notice("[t_He] [t_is] pleasantly plushy, [t_His] body gently wobbling whenever they move.")
+
+	else if(fatness >= FATNESS_LEVEL_2)
 		. += span_notice("[t_He] [t_is] soft and curvy, [t_His] belly looking like a small pillow.")
 
 	//GS13 EDIT START

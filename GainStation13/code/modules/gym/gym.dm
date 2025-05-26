@@ -55,7 +55,7 @@
 		playsound(src, "sound/machines/tractor_running.ogg", 25, TRUE, -2) //Rumblin'
 	if(iscarbon(M))
 		var/mob/living/carbon/C = M
-		if(C.fatness > FATNESS_LEVEL_BARELYMOBILE)
+		if(C.fatness > FATNESS_LEVEL_7)
 			if(prob(5))
 				visible_message(pick(list(	//Really testing the poor thing, huh?
 					"\the [src] audibly strains under [C]'s weight...",

@@ -285,10 +285,10 @@
 			fatness_delay = fatness_delay * FATNESS_STRONGLEGS_MODIFIER
 
 		if(HAS_TRAIT(H, TRAIT_WEAKLEGS))
-			if(H.fatness <= FATNESS_LEVEL_IMMOBILE)
+			if(H.fatness <= FATNESS_LEVEL_8)
 				fatness_delay += fatness_delay * FATNESS_WEAKLEGS_MODIFIER / 100
-			if(H.fatness > FATNESS_LEVEL_IMMOBILE)
-				fatness_delay += (H.fatness / FATNESS_LEVEL_IMMOBILE) * FATNESS_WEAKLEGS_MODIFIER
+			if(H.fatness > FATNESS_LEVEL_8)
+				fatness_delay += (H.fatness / FATNESS_LEVEL_8) * FATNESS_WEAKLEGS_MODIFIER
 				fatness_delay = min(fatness_delay, 60)
 
 	if(fatness_delay)
@@ -303,7 +303,7 @@
 			TRAIT_BLOB,
 			TRAIT_IMMOBILE,
 			null,
-			FATNESS_LEVEL_BLOB,
+			FATNESS_LEVEL_9,
 			INFINITY,
 			"<span class='notice'>You feel like you've regained some mobility!</span>",
 			null)
@@ -314,8 +314,8 @@
 			TRAIT_IMMOBILE,
 			TRAIT_BARELYMOBILE,
 			TRAIT_BLOB,
-			FATNESS_LEVEL_IMMOBILE,
-			FATNESS_LEVEL_BLOB,
+			FATNESS_LEVEL_8,
+			FATNESS_LEVEL_9,
 			"<span class='notice'>You feel less restrained by your fat!</span>",
 			"<span class='danger'>You feel like you've become a mountain of fat!</span>")
 		return
@@ -325,8 +325,8 @@
 			TRAIT_BARELYMOBILE,
 			TRAIT_EXTREMELYOBESE,
 			TRAIT_IMMOBILE,
-			FATNESS_LEVEL_BARELYMOBILE,
-			FATNESS_LEVEL_IMMOBILE,
+			FATNESS_LEVEL_7,
+			FATNESS_LEVEL_8,
 			"<span class='notice'>You feel less restrained by your fat!</span>",
 			"<span class='danger'>You feel your belly smush against the floor!</span>")
 		return
@@ -336,8 +336,8 @@
 			TRAIT_EXTREMELYOBESE,
 			TRAIT_MORBIDLYOBESE,
 			TRAIT_BARELYMOBILE,
-			FATNESS_LEVEL_EXTREMELY_OBESE,
-			FATNESS_LEVEL_BARELYMOBILE,
+			FATNESS_LEVEL_6,
+			FATNESS_LEVEL_7,
 			"<span class='notice'>You feel less restrained by your fat!</span>",
 			"<span class='danger'>You feel like you can barely move!</span>")
 		return
@@ -347,8 +347,8 @@
 			TRAIT_MORBIDLYOBESE,
 			TRAIT_OBESE,
 			TRAIT_EXTREMELYOBESE,
-			FATNESS_LEVEL_MORBIDLY_OBESE,
-			FATNESS_LEVEL_EXTREMELY_OBESE,
+			FATNESS_LEVEL_5,
+			FATNESS_LEVEL_6,
 			"<span class='notice'>You feel a bit less fat!</span>",
 			"<span class='danger'>You feel your belly rest heavily on your lap!</span>")
 		return
@@ -358,8 +358,8 @@
 			TRAIT_OBESE,
 			TRAIT_VERYFAT,
 			TRAIT_MORBIDLYOBESE,
-			FATNESS_LEVEL_OBESE,
-			FATNESS_LEVEL_MORBIDLY_OBESE,
+			FATNESS_LEVEL_4,
+			FATNESS_LEVEL_5,
 			"<span class='notice'>You feel like you've lost weight!</span>",
 			"<span class='danger'>Your thighs begin to rub against each other.</span>")
 		return
@@ -369,8 +369,8 @@
 			TRAIT_VERYFAT,
 			TRAIT_FATTER,
 			TRAIT_OBESE,
-			FATNESS_LEVEL_VERYFAT,
-			FATNESS_LEVEL_OBESE,
+			FATNESS_LEVEL_3,
+			FATNESS_LEVEL_4,
 			"<span class='notice'>You feel like you've lost weight!</span>",
 			"<span class='danger'>You feel like you're starting to get really heavy.</span>")
 		return
@@ -380,8 +380,8 @@
 			TRAIT_FATTER,
 			TRAIT_FAT,
 			TRAIT_VERYFAT,
-			FATNESS_LEVEL_FATTER,
-			FATNESS_LEVEL_VERYFAT,
+			FATNESS_LEVEL_2,
+			FATNESS_LEVEL_3,
 			"<span class='notice'>You feel like you've lost weight!</span>",
 			"<span class='danger'>Your clothes creak quietly!</span>")
 		return
@@ -391,8 +391,8 @@
 			TRAIT_FAT,
 			null,
 			TRAIT_FATTER,
-			FATNESS_LEVEL_FAT,
-			FATNESS_LEVEL_FATTER,
+			FATNESS_LEVEL_1,
+			FATNESS_LEVEL_2,
 			"<span class='notice'>You feel fit again!</span>",
 			"<span class='danger'>You feel even plumper!</span>")
 	else
@@ -402,6 +402,6 @@
 			null,
 			TRAIT_FAT,
 			0,
-			FATNESS_LEVEL_FAT,
+			FATNESS_LEVEL_1,
 			null,
 			"<span class='danger'>You suddenly feel blubbery!</span>")

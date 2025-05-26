@@ -130,28 +130,28 @@
 	if(nutrition < NUTRITION_LEVEL_STARVING - 50)
 		msg += "[t_He] [t_is] severely malnourished.\n"
 
-	if(fatness >= FATNESS_LEVEL_BLOB)
+	if(fatness >= FATNESS_LEVEL_9)
 		msg += "[t_He] [t_is] completely engulfed in rolls upon rolls of flab. [t_His] head is poking out on top of [t_His] body, akin to a marble on top of a hill.\n"
 
-	else if(fatness >= FATNESS_LEVEL_IMMOBILE)
+	else if(fatness >= FATNESS_LEVEL_8)
 		msg += "[t_His] body is buried in an overflowing surplus of adipose, and [t_His] legs are completely buried beneath layers of meaty, obese flesh.\n"
 
-	else if(fatness >= FATNESS_LEVEL_BARELYMOBILE)
+	else if(fatness >= FATNESS_LEVEL_7)
 		msg += "[t_He] [t_is] as wide as [t_He] [t_is] tall, barely able to move [t_His] masssive body that seems to be overtaken with piles of flab.\n"
 
-	else if(fatness >= FATNESS_LEVEL_EXTREMELY_OBESE)
+	else if(fatness >= FATNESS_LEVEL_6)
 		msg += "[t_He] [t_is] ripe with numerous rolls of fat, almost all of [t_His] body layered with adipose.\n"
 
-	else if(fatness >= FATNESS_LEVEL_MORBIDLY_OBESE)
+	else if(fatness >= FATNESS_LEVEL_5)
 		msg += "[t_He] [t_is] utterly stuffed with abundant lard, [t_He] doesn't seem to be able to move much.\n"
 
-	else if(fatness >= FATNESS_LEVEL_OBESE)
+	else if(fatness >= FATNESS_LEVEL_4)
 		msg += "[t_He] [t_is] engorged with fat, [t_His] body laden in rolls of fattened flesh.\n"
 
-	else if(fatness >= FATNESS_LEVEL_VERYFAT)
+	else if(fatness >= FATNESS_LEVEL_3)
 		msg += "[t_He] [t_is] pleasantly plushy, [t_His] body gently wobbling whenever they move. \n"
 
-	else if(fatness >= FATNESS_LEVEL_FATTER)
+	else if(fatness >= FATNESS_LEVEL_2)
 		msg += "[t_He] [t_is] soft and curvy, [t_His] belly looking like a small pillow.\n"
 
 	if(msg.len)

@@ -231,7 +231,7 @@
 
 	if(href_list["inflate_belly"])
 		var/obj/item/organ/genital/belly/E = usr.getorganslot("belly")
-		if(E.size < 11)
+		if(E.size < 60)
 			to_chat(usr, "<span class='userlove'>You feel your belly bloat out..</span>")
 			E.size += 1
 			H.update_genitals()

@@ -1642,34 +1642,64 @@ GLOBAL_LIST_EMPTY(roundstart_race_names)
 
 	//GS13 EDIT
 	switch(H.fatness)
-		if(FATNESS_LEVEL_BLOB to INFINITY)
-			H.throw_alert("fatness", /atom/movable/screen/alert/gs13/blob)
+		if(FATNESS_LEVEL_19 to INFINITY)
+			H.throw_alert("fatness", /atom/movable/screen/alert/gs13/fatness_19)
 
-		if(FATNESS_LEVEL_IMMOBILE to FATNESS_LEVEL_BLOB)
-			H.throw_alert("fatness", /atom/movable/screen/alert/gs13/immobile)
+		if(FATNESS_LEVEL_18 to FATNESS_LEVEL_19)
+			H.throw_alert("fatness", /atom/movable/screen/alert/gs13/fatness_18)
 
-		if(FATNESS_LEVEL_BARELYMOBILE to FATNESS_LEVEL_IMMOBILE)
-			H.throw_alert("fatness", /atom/movable/screen/alert/gs13/barelymobile)
+		if(FATNESS_LEVEL_17 to FATNESS_LEVEL_18)
+			H.throw_alert("fatness", /atom/movable/screen/alert/gs13/fatness_17)
 
-		if(FATNESS_LEVEL_EXTREMELY_OBESE to FATNESS_LEVEL_BARELYMOBILE)
-			H.throw_alert("fatness", /atom/movable/screen/alert/gs13/extremelyobese)
+		if(FATNESS_LEVEL_16 to FATNESS_LEVEL_17)
+			H.throw_alert("fatness", /atom/movable/screen/alert/gs13/fatness_16)
 
-		if(FATNESS_LEVEL_MORBIDLY_OBESE to FATNESS_LEVEL_EXTREMELY_OBESE)
-			H.throw_alert("fatness", /atom/movable/screen/alert/gs13/morbidlyobese)
+		if(FATNESS_LEVEL_15 to FATNESS_LEVEL_16)
+			H.throw_alert("fatness", /atom/movable/screen/alert/gs13/fatness_15)
 
-		if(FATNESS_LEVEL_OBESE to FATNESS_LEVEL_MORBIDLY_OBESE)
-			H.throw_alert("fatness", /atom/movable/screen/alert/gs13/obese)
+		if(FATNESS_LEVEL_14 to FATNESS_LEVEL_15)
+			H.throw_alert("fatness", /atom/movable/screen/alert/gs13/fatness_14)
 
-		if(FATNESS_LEVEL_VERYFAT to FATNESS_LEVEL_OBESE)
-			H.throw_alert("fatness", /atom/movable/screen/alert/gs13/veryfat)
+		if(FATNESS_LEVEL_13 to FATNESS_LEVEL_14)
+			H.throw_alert("fatness", /atom/movable/screen/alert/gs13/fatness_13)
 
-		if(FATNESS_LEVEL_FATTER to FATNESS_LEVEL_VERYFAT)
-			H.throw_alert("fatness", /atom/movable/screen/alert/gs13/fatter)
+		if(FATNESS_LEVEL_12 to FATNESS_LEVEL_13)
+			H.throw_alert("fatness", /atom/movable/screen/alert/gs13/fatness_12)
 
-		if(FATNESS_LEVEL_FAT to FATNESS_LEVEL_FATTER)
-			H.throw_alert("fatness", /atom/movable/screen/alert/gs13/fat)
+		if(FATNESS_LEVEL_11 to FATNESS_LEVEL_12)
+			H.throw_alert("fatness", /atom/movable/screen/alert/gs13/fatness_11)
 
-		if(0 to FATNESS_LEVEL_FAT)
+		if(FATNESS_LEVEL_10 to FATNESS_LEVEL_11)
+			H.throw_alert("fatness", /atom/movable/screen/alert/gs13/fatness_10)
+
+		if(FATNESS_LEVEL_9 to FATNESS_LEVEL_10)
+			H.throw_alert("fatness", /atom/movable/screen/alert/gs13/fatness_9)
+
+		if(FATNESS_LEVEL_8 to FATNESS_LEVEL_9)
+			H.throw_alert("fatness", /atom/movable/screen/alert/gs13/fatness_8)
+
+		if(FATNESS_LEVEL_7 to FATNESS_LEVEL_8)
+			H.throw_alert("fatness", /atom/movable/screen/alert/gs13/fatness_7)
+
+		if(FATNESS_LEVEL_6 to FATNESS_LEVEL_7)
+			H.throw_alert("fatness", /atom/movable/screen/alert/gs13/fatness_6)
+
+		if(FATNESS_LEVEL_5 to FATNESS_LEVEL_6)
+			H.throw_alert("fatness", /atom/movable/screen/alert/gs13/fatness_5)
+
+		if(FATNESS_LEVEL_4 to FATNESS_LEVEL_5)
+			H.throw_alert("fatness", /atom/movable/screen/alert/gs13/fatness_4)
+
+		if(FATNESS_LEVEL_3 to FATNESS_LEVEL_4)
+			H.throw_alert("fatness", /atom/movable/screen/alert/gs13/fatness_3)
+
+		if(FATNESS_LEVEL_2 to FATNESS_LEVEL_3)
+			H.throw_alert("fatness", /atom/movable/screen/alert/gs13/fatness_2)
+
+		if(FATNESS_LEVEL_1 to FATNESS_LEVEL_2)
+			H.throw_alert("fatness", /atom/movable/screen/alert/gs13/fatness_1)
+
+		if(0 to FATNESS_LEVEL_1)
 			H.clear_alert("fatness")
 
 /datum/species/proc/update_health_hud(mob/living/carbon/human/H)

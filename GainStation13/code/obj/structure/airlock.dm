@@ -12,26 +12,26 @@
 	if(!fatness_type)
 		return	FALSE
 
-	var/fatness_amount = 0	
+	var/fatness_amount = 0
 	switch(fatness_type)
 		if("Fat")
-			fatness_amount = FATNESS_LEVEL_FAT
+			fatness_amount = FATNESS_LEVEL_1
 		if("Fatter")
-			fatness_amount = FATNESS_LEVEL_FATTER 
+			fatness_amount = FATNESS_LEVEL_2
 		if("Very Fat")
-			fatness_amount = FATNESS_LEVEL_VERYFAT
+			fatness_amount = FATNESS_LEVEL_3
 		if("Obese")
-			fatness_amount = FATNESS_LEVEL_OBESE
+			fatness_amount = FATNESS_LEVEL_4
 		if("Morbidly Obese")
-			fatness_amount = FATNESS_LEVEL_MORBIDLY_OBESE
+			fatness_amount = FATNESS_LEVEL_5
 		if("Extremely Obese")
-			fatness_amount = FATNESS_LEVEL_EXTREMELY_OBESE
+			fatness_amount = FATNESS_LEVEL_6
 		if("Barely Mobile")
-			fatness_amount = FATNESS_LEVEL_BARELYMOBILE
+			fatness_amount = FATNESS_LEVEL_7
 		if("Immobile")
-			fatness_amount = FATNESS_LEVEL_IMMOBILE
+			fatness_amount = FATNESS_LEVEL_8
 		if("Blob")
-			fatness_amount = FATNESS_LEVEL_BLOB
-		
-	fatness_to_check = fatness_amount	
+			fatness_amount = FATNESS_LEVEL_9
+
+	fatness_to_check = fatness_amount
 	return TRUE

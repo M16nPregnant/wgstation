@@ -89,21 +89,21 @@
 
 	switch(picked_weight_class)
 		if("Fat")
-			chosen_weight = FATNESS_LEVEL_FATTER
+			chosen_weight = FATNESS_LEVEL_2
 		if("Fatter")
-			chosen_weight = FATNESS_LEVEL_VERYFAT
+			chosen_weight = FATNESS_LEVEL_3
 		if("Very Fat")
-			chosen_weight = FATNESS_LEVEL_OBESE
+			chosen_weight = FATNESS_LEVEL_4
 		if("Obese")
-			chosen_weight = FATNESS_LEVEL_MORBIDLY_OBESE
+			chosen_weight = FATNESS_LEVEL_5
 		if("Morbidly Obese")
-			chosen_weight = FATNESS_LEVEL_EXTREMELY_OBESE
+			chosen_weight = FATNESS_LEVEL_6
 		if("Extremely Obese")
-			chosen_weight = FATNESS_LEVEL_BARELYMOBILE
+			chosen_weight = FATNESS_LEVEL_7
 		if("Barely Mobile")
-			chosen_weight = FATNESS_LEVEL_IMMOBILE
+			chosen_weight = FATNESS_LEVEL_8
 		if("Immobile")
-			chosen_weight = FATNESS_LEVEL_BLOB
+			chosen_weight = FATNESS_LEVEL_9
 
 	if(picked_weight_class != "Other")
 		return chosen_weight
